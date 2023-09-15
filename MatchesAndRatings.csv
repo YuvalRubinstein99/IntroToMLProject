@@ -1,0 +1,1141 @@
+,Unnamed: 0,HomeTeam,AwayTeam,HomeScore,AwayScore,Time,Ref,HomeForm,AwayForm,HomeMissingPlayers,AwayMissingPlayers,Round,GD,HomeAtt,HomeDef,HomeMid,HomeOVR,AwayAtt,AwayDef,AwayMid,AwayOVR,y,Year,Month,Day,Round_Number
+0,0,Newcastle,Leicester,0,0,2023-05-22 22:00:00,Andre Marriner,10,5,6,6,Premier League Round 37 2022/2023,0,78,79,76,78,79,78,79,79,0,2023,5,22,37
+1,1,Brighton,Man City,1,1,2023-05-24 22:00:00,Simon Hooper,9,13,6,5,Premier League Round 32 2022/2023,0,76,77,75,76,85,86,86,85,0,2023,5,24,32
+2,2,Man United,Chelsea,4,1,2023-05-25 22:00:00,Stuart Attwell,9,4,5,8,Premier League Round 32 2022/2023,3,81,80,82,82,83,83,86,84,1,2023,5,25,32
+3,3,Arsenal,Wolves,5,0,2023-05-28 18:30:00,Andre Marriner,6,7,5,2,Premier League Round 38 2022/2023,5,83,79,80,80,79,77,79,78,1,2023,5,28,38
+4,4,Aston Villa,Brighton,2,1,2023-05-28 18:30:00,David Coote,7,7,2,0,Premier League Round 38 2022/2023,1,79,80,78,79,76,77,75,76,1,2023,5,28,38
+5,5,Brentford,Man City,1,0,2023-05-28 18:30:00,John Brooks,12,11,1,0,Premier League Round 38 2022/2023,1,75,75,74,75,85,86,86,85,1,2023,5,28,38
+6,6,Chelsea,Newcastle,1,1,2023-05-28 18:30:00,Jarred Gillett,4,8,8,9,Premier League Round 38 2022/2023,0,83,83,86,84,78,79,76,78,0,2023,5,28,38
+7,7,Crystal Palace,Nottm Forest,1,1,2023-05-28 18:30:00,Thomas Bramall,7,10,5,11,Premier League Round 38 2022/2023,0,75,76,76,76,76,73,73,74,0,2023,5,28,38
+8,8,Everton,Bournemouth,1,0,2023-05-28 18:30:00,Stuart Attwell,5,6,2,0,Premier League Round 38 2022/2023,1,80,77,77,77,73,73,74,74,1,2023,5,28,38
+9,9,Leeds,Tottenham,1,4,2023-05-28 18:30:00,Anthony Taylor,2,4,4,6,Premier League Round 38 2022/2023,-3,78,76,76,76,84,79,81,82,-1,2023,5,28,38
+10,10,Leicester,West Ham,2,1,2023-05-28 18:30:00,Simon Hooper,3,12,6,1,Premier League Round 38 2022/2023,1,79,78,79,79,79,79,80,79,1,2023,5,28,38
+11,11,Man United,Fulham,2,1,2023-05-28 18:30:00,Robert Jones,9,7,6,3,Premier League Round 38 2022/2023,1,81,80,82,82,78,74,75,75,1,2023,5,28,38
+12,12,Southampton,Liverpool,4,4,2023-05-28 18:30:00,Darren England,0,13,6,6,Premier League Round 38 2022/2023,0,75,75,76,76,84,85,84,85,0,2023,5,28,38
+13,13,Newcastle,Brighton,4,1,2023-05-18 21:30:00,Robert Jones,10,9,6,8,Premier League Round 25 2022/2023,3,78,79,76,78,76,77,75,76,1,2023,5,18,25
+14,14,Tottenham,Brentford,1,3,2023-05-20 14:30:00,Jarred Gillett,4,10,1,1,Premier League Round 37 2022/2023,-2,84,79,81,82,75,75,74,75,-1,2023,5,20,37
+15,15,Bournemouth,Man United,0,1,2023-05-20 17:00:00,Chris Kavanagh,6,7,5,6,Premier League Round 37 2022/2023,-1,73,73,74,74,81,80,82,82,-1,2023,5,20,37
+16,16,Fulham,Crystal Palace,2,2,2023-05-20 17:00:00,Joshua Smith,6,7,4,4,Premier League Round 37 2022/2023,0,78,74,75,75,75,76,76,76,0,2023,5,20,37
+17,17,Liverpool,Aston Villa,1,1,2023-05-20 17:00:00,John Brooks,15,7,6,3,Premier League Round 37 2022/2023,0,84,85,84,85,79,80,78,79,0,2023,5,20,37
+18,18,Wolves,Everton,1,1,2023-05-20 17:00:00,David Coote,6,5,2,6,Premier League Round 37 2022/2023,0,79,77,79,78,80,77,77,77,0,2023,5,20,37
+19,19,Nottm Forest,Arsenal,1,0,2023-05-20 19:30:00,Anthony Taylor,7,7,9,5,Premier League Round 37 2022/2023,1,76,73,73,74,83,79,80,80,1,2023,5,20,37
+20,20,West Ham,Leeds,3,1,2023-05-21 15:30:00,Peter Bankes,9,2,1,3,Premier League Round 37 2022/2023,2,79,79,80,79,78,76,76,76,1,2023,5,21,37
+21,21,Brighton,Southampton,3,1,2023-05-21 16:00:00,Paul Tierney,9,1,7,5,Premier League Round 37 2022/2023,2,76,77,75,76,75,75,76,76,1,2023,5,21,37
+22,22,Man City,Chelsea,1,0,2023-05-21 18:00:00,Michael Oliver,13,4,1,8,Premier League Round 37 2022/2023,1,85,86,86,85,83,83,86,84,1,2023,5,21,37
+23,23,Leeds,Newcastle,2,2,2023-05-13 14:30:00,Simon Hooper,1,9,1,0,Premier League Round 36 2022/2023,0,78,76,76,76,78,79,76,78,0,2023,5,13,36
+24,24,Aston Villa,Tottenham,2,1,2023-05-13 17:00:00,Peter Bankes,7,4,1,3,Premier League Round 36 2022/2023,1,79,80,78,79,84,79,81,82,1,2023,5,13,36
+25,25,Chelsea,Nottm Forest,2,2,2023-05-13 17:00:00,Paul Tierney,3,6,7,9,Premier League Round 36 2022/2023,0,83,83,86,84,76,73,73,74,0,2023,5,13,36
+26,26,Crystal Palace,Bournemouth,2,0,2023-05-13 17:00:00,Michael Salisbury,7,9,4,4,Premier League Round 36 2022/2023,2,75,76,76,76,73,73,74,74,1,2023,5,13,36
+27,27,Man United,Wolves,2,0,2023-05-13 17:00:00,John Brooks,7,9,6,3,Premier League Round 36 2022/2023,2,81,80,82,82,79,77,79,78,1,2023,5,13,36
+28,28,Southampton,Fulham,0,2,2023-05-13 17:00:00,Thomas Bramall,1,6,5,4,Premier League Round 36 2022/2023,-2,75,75,76,76,78,74,75,75,-1,2023,5,13,36
+29,29,Brentford,West Ham,2,0,2023-05-14 16:00:00,Michael Oliver,7,6,1,1,Premier League Round 36 2022/2023,2,75,75,74,75,79,79,80,79,1,2023,5,14,36
+30,30,Everton,Man City,0,3,2023-05-14 16:00:00,Anthony Taylor,5,13,4,1,Premier League Round 36 2022/2023,-3,80,77,77,77,85,86,86,85,-1,2023,5,14,36
+31,31,Arsenal,Brighton,0,3,2023-05-14 18:30:00,Andy Madley,8,6,4,7,Premier League Round 36 2022/2023,-3,83,79,80,80,76,77,75,76,-1,2023,5,14,36
+32,32,Leicester,Liverpool,0,3,2023-05-15 22:00:00,Craig Pawson,5,15,5,4,Premier League Round 36 2022/2023,-3,79,78,79,79,84,85,84,85,-1,2023,5,15,36
+33,33,Bournemouth,Chelsea,1,3,2023-05-06 17:00:00,John Brooks,12,0,5,7,Premier League Round 35 2022/2023,-2,73,73,74,74,83,83,86,84,-1,2023,5,6,35
+34,34,Man City,Leeds,2,1,2023-05-06 17:00:00,Andy Madley,13,1,0,4,Premier League Round 35 2022/2023,1,85,86,86,85,78,76,76,76,1,2023,5,6,35
+35,35,Tottenham,Crystal Palace,1,0,2023-05-06 17:00:00,Darren England,4,10,3,4,Premier League Round 35 2022/2023,1,84,79,81,82,75,76,76,76,1,2023,5,6,35
+36,36,Wolves,Aston Villa,1,0,2023-05-06 17:00:00,Stuart Attwell,9,10,3,2,Premier League Round 35 2022/2023,1,79,77,79,78,79,80,78,79,1,2023,5,6,35
+37,37,Liverpool,Brentford,1,0,2023-05-06 19:30:00,Anthony Taylor,15,7,5,4,Premier League Round 35 2022/2023,1,84,85,84,85,75,75,74,75,1,2023,5,6,35
+38,38,Newcastle,Arsenal,0,2,2023-05-07 18:30:00,Chris Kavanagh,12,6,3,3,Premier League Round 35 2022/2023,-2,78,79,76,78,83,79,80,80,-1,2023,5,7,35
+39,39,West Ham,Man United,1,0,2023-05-07 21:00:00,Peter Bankes,6,7,1,2,Premier League Round 35 2022/2023,1,79,79,80,79,81,80,82,82,1,2023,5,7,35
+40,40,Fulham,Leicester,5,3,2023-05-08 17:00:00,Robert Jones,6,5,3,4,Premier League Round 35 2022/2023,2,78,74,75,75,79,78,79,79,1,2023,5,8,35
+41,41,Brighton,Everton,1,5,2023-05-08 19:30:00,Simon Hooper,9,2,5,4,Premier League Round 35 2022/2023,-4,76,77,75,76,80,77,77,77,-1,2023,5,8,35
+42,42,Nottm Forest,Southampton,4,3,2023-05-08 22:00:00,Michael Oliver,3,1,9,4,Premier League Round 35 2022/2023,1,76,73,73,74,75,75,76,76,1,2023,5,8,35
+43,43,Bournemouth,Leeds,4,1,2023-04-30 16:00:00,Chris Kavanagh,9,4,4,3,Premier League Round 34 2022/2023,3,73,73,74,74,78,76,76,76,1,2023,4,30,34
+44,44,Fulham,Man City,1,2,2023-04-30 16:00:00,Simon Hooper,6,13,1,0,Premier League Round 34 2022/2023,-1,78,74,75,75,85,86,86,85,-1,2023,4,30,34
+45,45,Man United,Aston Villa,1,0,2023-04-30 16:00:00,Jarred Gillett,8,13,7,5,Premier League Round 34 2022/2023,1,81,80,82,82,79,80,78,79,1,2023,4,30,34
+46,46,Newcastle,Southampton,3,1,2023-04-30 16:00:00,Anthony Taylor,12,1,2,4,Premier League Round 34 2022/2023,2,78,79,76,78,75,75,76,76,1,2023,4,30,34
+47,47,Liverpool,Tottenham,4,3,2023-04-30 18:30:00,Paul Tierney,11,5,5,3,Premier League Round 34 2022/2023,1,84,85,84,85,84,79,81,82,1,2023,4,30,34
+48,48,Leicester,Everton,2,2,2023-05-01 22:00:00,Michael Oliver,4,2,4,3,Premier League Round 34 2022/2023,0,79,78,79,79,80,77,77,77,0,2023,5,1,34
+49,49,Arsenal,Chelsea,3,1,2023-05-02 22:00:00,Robert Jones,6,0,3,6,Premier League Round 34 2022/2023,2,83,79,80,80,83,83,86,84,1,2023,5,2,34
+50,50,Liverpool,Fulham,1,0,2023-05-03 22:00:00,Stuart Attwell,13,6,6,3,Premier League Round 28 2022/2023,1,84,85,84,85,78,74,75,75,1,2023,5,3,28
+51,51,Man City,West Ham,3,0,2023-05-03 22:00:00,John Brooks,13,7,0,2,Premier League Round 28 2022/2023,3,85,86,86,85,79,79,80,79,1,2023,5,3,28
+52,52,Brighton,Man United,1,0,2023-05-04 22:00:00,Andre Marriner,6,10,5,6,Premier League Round 28 2022/2023,1,76,77,75,76,81,80,82,82,1,2023,5,4,28
+53,53,Nottm Forest,Brighton,3,1,2023-04-26 21:30:00,Jarred Gillett,1,7,7,4,Premier League Round 33 2022/2023,2,76,73,73,74,76,77,75,76,1,2023,4,26,33
+54,54,Chelsea,Brentford,0,2,2023-04-26 21:45:00,Andy Madley,1,2,1,0,Premier League Round 33 2022/2023,-2,83,83,86,84,75,75,74,75,-1,2023,4,26,33
+55,55,West Ham,Liverpool,1,2,2023-04-26 21:45:00,Chris Kavanagh,11,8,1,5,Premier League Round 33 2022/2023,-1,79,79,80,79,84,85,84,85,-1,2023,4,26,33
+56,56,Man City,Arsenal,4,1,2023-04-26 22:00:00,Michael Oliver,13,9,0,3,Premier League Round 33 2022/2023,3,85,86,86,85,83,79,80,80,1,2023,4,26,33
+57,57,Everton,Newcastle,1,4,2023-04-27 21:45:00,Andre Marriner,3,12,2,1,Premier League Round 33 2022/2023,-3,80,77,77,77,78,79,76,78,-1,2023,4,27,33
+58,58,Southampton,Bournemouth,0,1,2023-04-27 21:45:00,Darren England,2,9,3,3,Premier League Round 33 2022/2023,-1,75,75,76,76,73,73,74,74,-1,2023,4,27,33
+59,59,Tottenham,Man United,2,2,2023-04-27 22:15:00,Anthony Taylor,5,10,3,6,Premier League Round 33 2022/2023,0,84,79,81,82,81,80,82,82,0,2023,4,27,33
+60,60,Crystal Palace,West Ham,4,3,2023-04-29 14:45:00,Craig Pawson,10,8,1,1,Premier League Round 34 2022/2023,1,75,76,76,76,79,79,80,79,1,2023,4,29,34
+61,61,Brentford,Nottm Forest,2,1,2023-04-29 17:00:00,Peter Bankes,4,3,0,2,Premier League Round 34 2022/2023,1,75,75,74,75,76,73,73,74,1,2023,4,29,34
+62,62,Brighton,Wolves,6,0,2023-04-29 17:00:00,David Coote,6,10,4,3,Premier League Round 34 2022/2023,6,76,77,75,76,79,77,79,78,1,2023,4,29,34
+63,63,Leeds,Liverpool,1,6,2023-04-17 22:00:00,Craig Pawson,7,2,2,4,Premier League Round 31 2022/2023,-5,78,76,76,76,84,85,84,85,-1,2023,4,17,31
+64,64,Arsenal,Southampton,3,3,2023-04-21 22:00:00,Simon Hooper,8,1,3,3,Premier League Round 32 2022/2023,0,83,79,80,80,75,75,76,76,0,2023,4,21,32
+65,65,Fulham,Leeds,2,1,2023-04-22 14:30:00,Peter Bankes,3,6,1,2,Premier League Round 32 2022/2023,1,78,74,75,75,78,76,76,76,1,2023,4,22,32
+66,66,Brentford,Aston Villa,1,1,2023-04-22 17:00:00,Michael Salisbury,2,15,5,5,Premier League Round 32 2022/2023,0,75,75,74,75,79,80,78,79,0,2023,4,22,32
+67,67,Crystal Palace,Everton,0,0,2023-04-22 17:00:00,John Brooks,9,5,1,2,Premier League Round 32 2022/2023,0,75,76,76,76,80,77,77,77,0,2023,4,22,32
+68,68,Leicester,Wolves,2,1,2023-04-22 17:00:00,Andy Madley,1,7,3,3,Premier League Round 32 2022/2023,1,79,78,79,79,79,77,79,78,1,2023,4,22,32
+69,69,Liverpool,Nottm Forest,3,2,2023-04-22 17:00:00,Michael Oliver,5,1,5,8,Premier League Round 32 2022/2023,1,84,85,84,85,76,73,73,74,1,2023,4,22,32
+70,70,Bournemouth,West Ham,0,4,2023-04-23 16:00:00,Anthony Taylor,9,8,3,1,Premier League Round 32 2022/2023,-4,73,73,74,74,79,79,80,79,-1,2023,4,23,32
+71,71,Newcastle,Tottenham,6,1,2023-04-23 16:00:00,David Coote,12,8,0,1,Premier League Round 32 2022/2023,5,78,79,76,78,84,79,81,82,1,2023,4,23,32
+72,72,Wolves,Crystal Palace,2,0,2023-04-25 21:30:00,Robert Jones,7,10,3,3,Premier League Round 33 2022/2023,2,79,77,79,78,75,76,76,76,1,2023,4,25,33
+73,73,Aston Villa,Fulham,1,0,2023-04-25 21:45:00,Thomas Bramall,13,6,2,1,Premier League Round 33 2022/2023,1,79,80,78,79,78,74,75,75,1,2023,4,25,33
+74,74,Leeds,Leicester,1,1,2023-04-25 22:00:00,Paul Tierney,3,3,2,3,Premier League Round 33 2022/2023,0,78,76,76,76,79,78,79,79,0,2023,4,25,33
+75,75,Leeds,Crystal Palace,1,5,2023-04-09 16:00:00,Simon Hooper,7,3,2,2,Premier League Round 30 2022/2023,-4,78,76,76,76,75,76,76,76,-1,2023,4,9,30
+76,76,Liverpool,Arsenal,2,2,2023-04-09 18:30:00,Paul Tierney,4,10,4,3,Premier League Round 30 2022/2023,0,84,85,84,85,83,79,80,80,0,2023,4,9,30
+77,77,Aston Villa,Newcastle,3,0,2023-04-15 14:30:00,John Brooks,13,15,2,1,Premier League Round 31 2022/2023,3,79,80,78,79,78,79,76,78,1,2023,4,15,31
+78,78,Chelsea,Brighton,1,2,2023-04-15 17:00:00,Robert Jones,2,10,2,4,Premier League Round 31 2022/2023,-1,83,83,86,84,76,77,75,76,-1,2023,4,15,31
+79,79,Everton,Fulham,1,3,2023-04-15 17:00:00,Anthony Taylor,6,0,2,1,Premier League Round 31 2022/2023,-2,80,77,77,77,78,74,75,75,-1,2023,4,15,31
+80,80,Southampton,Crystal Palace,0,2,2023-04-15 17:00:00,Michael Oliver,2,6,3,4,Premier League Round 31 2022/2023,-2,75,75,76,76,75,76,76,76,-1,2023,4,15,31
+81,81,Wolves,Brentford,2,0,2023-04-15 17:00:00,Paul Tierney,7,5,4,4,Premier League Round 31 2022/2023,2,79,77,79,78,75,75,74,75,1,2023,4,15,31
+82,82,Tottenham,Bournemouth,2,3,2023-04-15 17:15:00,Andy Madley,9,9,1,0,Premier League Round 31 2022/2023,-1,84,79,81,82,73,73,74,74,-1,2023,4,15,31
+83,83,Man City,Leicester,3,1,2023-04-15 19:30:00,Darren England,15,1,0,2,Premier League Round 31 2022/2023,2,85,86,86,85,79,78,79,79,1,2023,4,15,31
+84,84,West Ham,Arsenal,2,2,2023-04-16 16:00:00,David Coote,10,10,1,3,Premier League Round 31 2022/2023,0,79,79,80,79,83,79,80,80,0,2023,4,16,31
+85,85,Nottm Forest,Man United,0,2,2023-04-16 18:30:00,Simon Hooper,1,10,9,8,Premier League Round 31 2022/2023,-2,76,73,73,74,81,80,82,82,-1,2023,4,16,31
+86,86,West Ham,Southampton,1,0,2023-04-02 16:00:00,Paul Tierney,7,5,1,4,Premier League Round 29 2022/2023,1,79,79,80,79,75,75,76,76,1,2023,4,2,29
+87,87,Newcastle,Man United,2,0,2023-04-02 18:30:00,Stuart Attwell,6,10,1,2,Premier League Round 29 2022/2023,2,78,79,76,78,81,80,82,82,1,2023,4,2,29
+88,88,Everton,Tottenham,1,1,2023-04-03 22:00:00,David Coote,5,5,0,1,Premier League Round 29 2022/2023,0,80,77,77,77,84,79,81,82,0,2023,4,3,29
+89,89,Bournemouth,Brighton,0,2,2023-04-04 21:45:00,Darren Bond,6,11,2,4,Premier League Round 7 2022/2023,-2,73,73,74,74,76,77,75,76,-1,2023,4,4,7
+90,90,Leeds,Nottm Forest,2,1,2023-04-04 21:45:00,Robert Jones,4,2,4,8,Premier League Round 7 2022/2023,1,78,76,76,76,76,73,73,74,1,2023,4,4,7
+91,91,Leicester,Aston Villa,1,2,2023-04-04 21:45:00,Graham Scott,1,13,4,4,Premier League Round 7 2022/2023,-1,79,78,79,79,79,80,78,79,-1,2023,4,4,7
+92,92,Chelsea,Liverpool,0,0,2023-04-04 22:00:00,Anthony Taylor,10,6,1,0,Premier League Round 8 2022/2023,0,83,83,86,84,84,85,84,85,0,2023,4,4,8
+93,93,Man United,Brentford,1,0,2023-04-05 22:00:00,John Brooks,10,8,1,0,Premier League Round 25 2022/2023,1,81,80,82,82,75,75,74,75,1,2023,4,5,25
+94,94,West Ham,Newcastle,1,5,2023-04-05 22:00:00,Craig Pawson,10,9,1,1,Premier League Round 7 2022/2023,-4,79,79,80,79,78,79,76,78,-1,2023,4,5,7
+95,95,Man United,Everton,2,0,2023-04-08 14:30:00,Michael Oliver,10,6,2,2,Premier League Round 30 2022/2023,2,81,80,82,82,80,77,77,77,1,2023,4,8,30
+96,96,Aston Villa,Nottm Forest,2,0,2023-04-08 17:00:00,Anthony Taylor,13,2,4,7,Premier League Round 30 2022/2023,2,79,80,78,79,76,73,73,74,1,2023,4,8,30
+97,97,Brentford,Newcastle,1,2,2023-04-08 17:00:00,Chris Kavanagh,5,12,4,4,Premier League Round 30 2022/2023,-1,75,75,74,75,78,79,76,78,-1,2023,4,8,30
+98,98,Fulham,West Ham,0,1,2023-04-08 17:00:00,Jarred Gillett,3,10,1,1,Premier League Round 30 2022/2023,-1,78,74,75,75,79,79,80,79,-1,2023,4,8,30
+99,99,Leicester,Bournemouth,0,1,2023-04-08 17:00:00,David Coote,1,6,2,3,Premier League Round 30 2022/2023,-1,79,78,79,79,73,73,74,74,-1,2023,4,8,30
+100,100,Tottenham,Brighton,2,1,2023-04-08 17:00:00,Stuart Attwell,6,11,1,0,Premier League Round 30 2022/2023,1,84,79,81,82,76,77,75,76,1,2023,4,8,30
+101,101,Wolves,Chelsea,1,0,2023-04-08 17:00:00,Peter Bankes,4,8,3,1,Premier League Round 30 2022/2023,1,79,77,79,78,83,83,86,84,1,2023,4,8,30
+102,102,Southampton,Man City,1,4,2023-04-08 19:30:00,Robert Jones,5,15,3,0,Premier League Round 30 2022/2023,-3,75,75,76,76,85,86,86,85,-1,2023,4,8,30
+103,103,Brighton,Crystal Palace,1,0,2023-03-15 21:30:00,Peter Bankes,8,3,2,0,Premier League Round 8 2022/2023,1,76,77,75,76,75,76,76,76,1,2023,3,15,8
+104,104,Southampton,Brentford,0,2,2023-03-15 21:30:00,Michael Salisbury,7,8,5,5,Premier League Round 7 2022/2023,-2,75,75,76,76,75,75,74,75,-1,2023,3,15,7
+105,105,Nottm Forest,Newcastle,1,2,2023-03-17 22:00:00,Paul Tierney,2,4,4,1,Premier League Round 28 2022/2023,-1,76,73,73,74,78,79,76,78,-1,2023,3,17,28
+106,106,Aston Villa,Bournemouth,3,0,2023-03-18 17:00:00,Robert Jones,7,7,1,1,Premier League Round 28 2022/2023,3,79,80,78,79,73,73,74,74,1,2023,3,18,28
+107,107,Brentford,Leicester,1,1,2023-03-18 17:00:00,Darren Bond,8,0,0,1,Premier League Round 28 2022/2023,0,75,75,74,75,79,78,79,79,0,2023,3,18,28
+108,108,Southampton,Tottenham,3,3,2023-03-18 17:00:00,Simon Hooper,4,7,1,2,Premier League Round 28 2022/2023,0,75,75,76,76,84,79,81,82,0,2023,3,18,28
+109,109,Wolves,Leeds,2,4,2023-03-18 17:00:00,Michael Salisbury,4,4,5,3,Premier League Round 28 2022/2023,-2,79,77,79,78,78,76,76,76,-1,2023,3,18,28
+110,110,Chelsea,Everton,2,2,2023-03-18 19:30:00,Darren England,9,7,1,0,Premier League Round 28 2022/2023,0,83,83,86,84,80,77,77,77,0,2023,3,18,28
+111,111,Arsenal,Crystal Palace,4,1,2023-03-19 16:00:00,Stuart Attwell,10,2,4,5,Premier League Round 28 2022/2023,3,83,79,80,80,75,76,76,76,1,2023,3,19,28
+112,112,Man City,Liverpool,4,1,2023-04-01 14:30:00,Simon Hooper,15,7,0,4,Premier League Round 29 2022/2023,3,85,86,86,85,84,85,84,85,1,2023,4,1,29
+113,113,Bournemouth,Fulham,2,1,2023-04-01 17:00:00,Peter Bankes,6,4,2,1,Premier League Round 29 2022/2023,1,73,73,74,74,78,74,75,75,1,2023,4,1,29
+114,114,Arsenal,Leeds,4,1,2023-04-01 17:00:00,Darren England,10,7,3,2,Premier League Round 29 2022/2023,3,83,79,80,80,78,76,76,76,1,2023,4,1,29
+115,115,Brighton,Brentford,3,3,2023-04-01 17:00:00,Michael Oliver,13,8,6,6,Premier League Round 29 2022/2023,0,76,77,75,76,75,75,74,75,0,2023,4,1,29
+116,116,Crystal Palace,Leicester,2,1,2023-04-01 17:00:00,Tim Robinson,1,1,1,2,Premier League Round 29 2022/2023,1,75,76,76,76,79,78,79,79,1,2023,4,1,29
+117,117,Nottm Forest,Wolves,1,1,2023-04-01 17:00:00,Chris Kavanagh,2,4,1,0,Premier League Round 29 2022/2023,0,76,73,73,74,79,77,79,78,0,2023,4,1,29
+118,118,Chelsea,Aston Villa,0,2,2023-04-01 19:30:00,Andy Madley,10,10,1,0,Premier League Round 29 2022/2023,-2,83,83,86,84,79,80,78,79,-1,2023,4,1,29
+119,119,Brentford,Fulham,3,2,2023-03-06 22:00:00,Anthony Taylor,9,13,5,5,Premier League Round 26 2022/2023,1,75,75,74,75,78,74,75,75,1,2023,3,6,26
+120,120,Bournemouth,Liverpool,1,0,2023-03-11 14:30:00,John Brooks,4,10,1,1,Premier League Round 27 2022/2023,1,73,73,74,74,84,85,84,85,1,2023,3,11,27
+121,121,Everton,Brentford,1,0,2023-03-11 17:00:00,Simon Hooper,4,9,6,4,Premier League Round 27 2022/2023,1,80,77,77,77,75,75,74,75,1,2023,3,11,27
+122,122,Leeds,Brighton,2,2,2023-03-11 17:00:00,Paul Tierney,3,10,1,2,Premier League Round 27 2022/2023,0,78,76,76,76,76,77,75,76,0,2023,3,11,27
+123,123,Leicester,Chelsea,1,3,2023-03-11 17:00:00,Andre Marriner,3,6,1,1,Premier League Round 27 2022/2023,-2,79,78,79,79,83,83,86,84,-1,2023,3,11,27
+124,124,Tottenham,Nottm Forest,3,1,2023-03-11 17:00:00,Craig Pawson,7,5,2,3,Premier League Round 27 2022/2023,2,84,79,81,82,76,73,73,74,1,2023,3,11,27
+125,125,Crystal Palace,Man City,0,1,2023-03-11 19:30:00,Robert Jones,3,11,5,6,Premier League Round 27 2022/2023,-1,75,76,76,76,85,86,86,85,-1,2023,3,11,27
+126,126,Fulham,Arsenal,0,3,2023-03-12 16:00:00,David Coote,10,13,1,1,Premier League Round 27 2022/2023,-3,78,74,75,75,83,79,80,80,-1,2023,3,12,27
+127,127,Man United,Southampton,0,0,2023-03-12 16:00:00,Anthony Taylor,12,6,5,3,Premier League Round 27 2022/2023,0,81,80,82,82,75,75,76,76,0,2023,3,12,27
+128,128,West Ham,Aston Villa,1,1,2023-03-12 16:00:00,Chris Kavanagh,6,6,3,4,Premier League Round 27 2022/2023,0,79,79,80,79,79,80,78,79,0,2023,3,12,27
+129,129,Newcastle,Wolves,2,1,2023-03-12 18:30:00,Andy Madley,2,7,1,3,Premier League Round 27 2022/2023,1,78,79,76,78,79,77,79,78,1,2023,3,12,27
+130,130,Arsenal,Everton,4,0,2023-03-01 21:45:00,Michael Oliver,7,6,1,1,Premier League Round 7 2022/2023,4,83,79,80,80,80,77,77,77,1,2023,3,1,7
+131,131,Liverpool,Wolves,2,0,2023-03-01 22:00:00,Paul Tierney,7,7,3,3,Premier League Round 7 2022/2023,2,84,85,84,85,79,77,79,78,1,2023,3,1,7
+132,132,Man City,Newcastle,2,0,2023-03-04 14:30:00,Simon Hooper,11,5,0,1,Premier League Round 26 2022/2023,2,85,86,86,85,78,79,76,78,1,2023,3,4,26
+133,133,Arsenal,Bournemouth,3,2,2023-03-04 17:00:00,Chris Kavanagh,10,5,1,1,Premier League Round 26 2022/2023,1,83,79,80,80,73,73,74,74,1,2023,3,4,26
+134,134,Aston Villa,Crystal Palace,1,0,2023-03-04 17:00:00,Craig Pawson,6,4,1,0,Premier League Round 26 2022/2023,1,79,80,78,79,75,76,76,76,1,2023,3,4,26
+135,135,Brighton,West Ham,4,0,2023-03-04 17:00:00,Stuart Attwell,10,5,2,0,Premier League Round 26 2022/2023,4,76,77,75,76,79,79,80,79,1,2023,3,4,26
+136,136,Chelsea,Leeds,1,0,2023-03-04 17:00:00,Michael Oliver,2,4,1,1,Premier League Round 26 2022/2023,1,83,83,86,84,78,76,76,76,1,2023,3,4,26
+137,137,Wolves,Tottenham,1,0,2023-03-04 17:00:00,Tim Robinson,7,6,0,1,Premier League Round 26 2022/2023,1,79,77,79,78,84,79,81,82,1,2023,3,4,26
+138,138,Southampton,Leicester,1,0,2023-03-04 19:30:00,Robert Jones,3,6,2,5,Premier League Round 26 2022/2023,1,75,75,76,76,79,78,79,79,1,2023,3,4,26
+139,139,Nottm Forest,Everton,2,2,2023-03-05 16:00:00,John Brooks,4,6,3,1,Premier League Round 26 2022/2023,0,76,73,73,74,80,77,77,77,0,2023,3,5,26
+140,140,Liverpool,Man United,7,0,2023-03-05 18:30:00,Andy Madley,10,13,6,4,Premier League Round 26 2022/2023,7,84,85,84,85,81,80,82,82,1,2023,3,5,26
+141,141,Man United,Leicester,3,0,2023-02-19 16:00:00,Stuart Attwell,11,10,5,3,Premier League Round 24 2022/2023,3,81,80,82,82,79,78,79,79,1,2023,2,19,24
+142,142,Tottenham,West Ham,2,0,2023-02-19 18:30:00,Michael Oliver,9,8,1,0,Premier League Round 24 2022/2023,2,84,79,81,82,79,79,80,79,1,2023,2,19,24
+143,143,Fulham,Wolves,1,1,2023-02-24 22:00:00,Michael Oliver,11,6,0,3,Premier League Round 25 2022/2023,0,78,74,75,75,79,77,79,78,0,2023,2,24,25
+144,144,Everton,Aston Villa,0,2,2023-02-25 17:00:00,Anthony Taylor,6,6,1,1,Premier League Round 25 2022/2023,-2,80,77,77,77,79,80,78,79,-1,2023,2,25,25
+145,145,Leeds,Southampton,1,0,2023-02-25 17:00:00,Peter Bankes,4,6,5,6,Premier League Round 25 2022/2023,1,78,76,76,76,75,75,76,76,1,2023,2,25,25
+146,146,Leicester,Arsenal,0,1,2023-02-25 17:00:00,Craig Pawson,10,4,2,1,Premier League Round 25 2022/2023,-1,79,78,79,79,83,79,80,80,-1,2023,2,25,25
+147,147,West Ham,Nottm Forest,4,0,2023-02-25 17:00:00,Jarred Gillett,8,4,2,10,Premier League Round 25 2022/2023,4,79,79,80,79,76,73,73,74,1,2023,2,25,25
+148,148,Bournemouth,Man City,1,4,2023-02-25 19:30:00,Paul Tierney,5,8,1,0,Premier League Round 25 2022/2023,-3,73,73,74,74,85,86,86,85,-1,2023,2,25,25
+149,149,Crystal Palace,Liverpool,0,0,2023-02-25 21:45:00,Darren England,4,6,0,1,Premier League Round 25 2022/2023,0,75,76,76,76,84,85,84,85,0,2023,2,25,25
+150,150,Tottenham,Chelsea,2,0,2023-02-26 15:30:00,Stuart Attwell,9,3,1,1,Premier League Round 25 2022/2023,2,84,79,81,82,83,83,86,84,1,2023,2,26,25
+151,151,Liverpool,Everton,2,0,2023-02-13 22:00:00,Simon Hooper,4,3,0,1,Premier League Round 23 2022/2023,2,84,85,84,85,80,77,77,77,1,2023,2,13,23
+152,152,Arsenal,Man City,1,3,2023-02-15 21:30:00,Anthony Taylor,7,12,1,0,Premier League Round 12 2022/2023,-2,83,79,80,80,85,86,86,85,-1,2023,2,15,12
+153,153,Aston Villa,Arsenal,2,4,2023-02-18 14:30:00,Simon Hooper,6,4,1,1,Premier League Round 24 2022/2023,-2,79,80,78,79,83,79,80,80,-1,2023,2,18,24
+154,154,Brentford,Crystal Palace,1,1,2023-02-18 17:00:00,Paul Tierney,8,3,4,5,Premier League Round 24 2022/2023,0,75,75,74,75,75,76,76,76,0,2023,2,18,24
+155,155,Brighton,Fulham,0,1,2023-02-18 17:00:00,Darren England,11,8,2,0,Premier League Round 24 2022/2023,-1,76,77,75,76,78,74,75,75,-1,2023,2,18,24
+156,156,Chelsea,Southampton,0,1,2023-02-18 17:00:00,David Coote,6,3,1,1,Premier League Round 24 2022/2023,-1,83,83,86,84,75,75,76,76,-1,2023,2,18,24
+157,157,Everton,Leeds,1,0,2023-02-18 17:00:00,Andy Madley,3,5,1,1,Premier League Round 24 2022/2023,1,80,77,77,77,78,76,76,76,1,2023,2,18,24
+158,158,Nottm Forest,Man City,1,1,2023-02-18 17:00:00,Graham Scott,4,12,3,0,Premier League Round 24 2022/2023,0,76,73,73,74,85,86,86,85,0,2023,2,18,24
+159,159,Wolves,Bournemouth,0,1,2023-02-18 17:00:00,Michael Salisbury,9,2,3,1,Premier League Round 24 2022/2023,-1,79,77,79,78,73,73,74,74,-1,2023,2,18,24
+160,160,Newcastle,Liverpool,0,2,2023-02-18 19:30:00,Anthony Taylor,9,7,1,1,Premier League Round 24 2022/2023,-2,78,79,76,78,84,85,84,85,-1,2023,2,18,24
+161,161,Man United,Leeds,2,2,2023-02-08 22:00:00,Simon Hooper,12,7,5,5,Premier League Round 8 2022/2023,0,81,80,82,82,78,76,76,76,0,2023,2,8,8
+162,162,West Ham,Chelsea,1,1,2023-02-11 14:30:00,Craig Pawson,10,5,0,1,Premier League Round 23 2022/2023,0,79,79,80,79,83,83,86,84,0,2023,2,11,23
+163,163,Arsenal,Brentford,1,1,2023-02-11 17:00:00,Peter Bankes,9,10,7,6,Premier League Round 23 2022/2023,0,83,79,80,80,75,75,74,75,0,2023,2,11,23
+164,164,Crystal Palace,Brighton,1,1,2023-02-11 17:00:00,Michael Oliver,2,13,0,2,Premier League Round 23 2022/2023,0,75,76,76,76,76,77,75,76,0,2023,2,11,23
+165,165,Fulham,Nottm Forest,2,0,2023-02-11 17:00:00,Andy Madley,5,7,0,3,Premier League Round 23 2022/2023,2,78,74,75,75,76,73,73,74,1,2023,2,11,23
+166,166,Leicester,Tottenham,4,1,2023-02-11 17:00:00,Michael Salisbury,7,9,2,1,Premier League Round 23 2022/2023,3,79,78,79,79,84,79,81,82,1,2023,2,11,23
+167,167,Southampton,Wolves,1,2,2023-02-11 17:00:00,Jarred Gillett,3,6,4,4,Premier League Round 23 2022/2023,-1,75,75,76,76,79,77,79,78,-1,2023,2,11,23
+168,168,Bournemouth,Newcastle,1,1,2023-02-11 19:30:00,Stuart Attwell,1,11,1,1,Premier League Round 23 2022/2023,0,73,73,74,74,78,79,76,78,0,2023,2,11,23
+169,169,Leeds,Man United,0,2,2023-02-12 16:00:00,Paul Tierney,8,13,7,6,Premier League Round 23 2022/2023,-2,78,76,76,76,81,80,82,82,-1,2023,2,12,23
+170,170,Man City,Aston Villa,3,1,2023-02-12 18:30:00,Robert Jones,9,7,0,1,Premier League Round 23 2022/2023,2,85,86,86,85,79,80,78,79,1,2023,2,12,23
+171,171,Fulham,Tottenham,0,1,2023-01-23 22:15:00,Paul Tierney,12,6,5,7,Premier League Round 21 2022/2023,-1,78,74,75,75,84,79,81,82,-1,2023,1,23,21
+172,172,Chelsea,Fulham,0,0,2023-02-03 22:00:00,Stuart Attwell,4,7,1,0,Premier League Round 22 2022/2023,0,83,83,86,84,78,74,75,75,0,2023,2,3,22
+173,173,Everton,Arsenal,1,0,2023-02-04 14:30:00,David Coote,1,10,1,1,Premier League Round 22 2022/2023,1,80,77,77,77,83,79,80,80,1,2023,2,4,22
+174,174,Aston Villa,Leicester,2,4,2023-02-04 17:00:00,Darren England,10,7,3,6,Premier League Round 22 2022/2023,-2,79,80,78,79,79,78,79,79,-1,2023,2,4,22
+175,175,Brentford,Southampton,3,0,2023-02-04 17:00:00,Darren Bond,10,6,4,4,Premier League Round 22 2022/2023,3,75,75,74,75,75,75,76,76,1,2023,2,4,22
+176,176,Brighton,Bournemouth,1,0,2023-02-04 17:00:00,Craig Pawson,13,1,2,1,Premier League Round 22 2022/2023,1,76,77,75,76,73,73,74,74,1,2023,2,4,22
+177,177,Man United,Crystal Palace,2,1,2023-02-04 17:00:00,Andre Marriner,10,2,1,0,Premier League Round 22 2022/2023,1,81,80,82,82,75,76,76,76,1,2023,2,4,22
+178,178,Wolves,Liverpool,3,0,2023-02-04 17:00:00,Paul Tierney,4,5,4,7,Premier League Round 22 2022/2023,3,79,77,79,78,84,85,84,85,1,2023,2,4,22
+179,179,Newcastle,West Ham,1,1,2023-02-04 19:30:00,Peter Bankes,13,10,1,0,Premier League Round 22 2022/2023,0,78,79,76,78,79,79,80,79,0,2023,2,4,22
+180,180,Nottm Forest,Leeds,1,0,2023-02-05 16:00:00,Robert Jones,7,8,1,0,Premier League Round 22 2022/2023,1,76,73,73,74,78,76,76,76,1,2023,2,5,22
+181,181,Tottenham,Man City,1,0,2023-02-05 18:30:00,Andy Madley,9,9,6,7,Premier League Round 22 2022/2023,1,84,79,81,82,85,86,86,85,1,2023,2,5,22
+182,182,Crystal Palace,Man United,1,1,2023-01-18 22:00:00,Robert Jones,3,15,0,1,Premier League Round 7 2022/2023,0,75,76,76,76,81,80,82,82,0,2023,1,18,7
+183,183,Man City,Tottenham,4,2,2023-01-19 22:00:00,Simon Hooper,7,7,6,5,Premier League Round 7 2022/2023,2,85,86,86,85,84,79,81,82,1,2023,1,19,7
+184,184,Liverpool,Chelsea,0,0,2023-01-21 14:30:00,Michael Oliver,7,4,0,1,Premier League Round 21 2022/2023,0,84,85,84,85,83,83,86,84,0,2023,1,21,21
+185,185,Bournemouth,Nottm Forest,1,1,2023-01-21 17:00:00,Andy Madley,0,10,1,3,Premier League Round 21 2022/2023,0,73,73,74,74,76,73,73,74,0,2023,1,21,21
+186,186,Leicester,Brighton,2,2,2023-01-21 17:00:00,Thomas Bramall,3,12,2,1,Premier League Round 21 2022/2023,0,79,78,79,79,76,77,75,76,0,2023,1,21,21
+187,187,Southampton,Aston Villa,0,1,2023-01-21 17:00:00,Michael Salisbury,9,7,4,5,Premier League Round 21 2022/2023,-1,75,75,76,76,79,80,78,79,-1,2023,1,21,21
+188,188,West Ham,Everton,2,0,2023-01-21 17:00:00,Stuart Attwell,4,1,0,1,Premier League Round 21 2022/2023,2,79,79,80,79,80,77,77,77,1,2023,1,21,21
+189,189,Crystal Palace,Newcastle,0,0,2023-01-21 19:30:00,Craig Pawson,4,8,0,1,Premier League Round 21 2022/2023,0,75,76,76,76,78,79,76,78,0,2023,1,21,21
+190,190,Leeds,Brentford,0,0,2023-01-22 16:00:00,Peter Bankes,6,10,6,7,Premier League Round 21 2022/2023,0,78,76,76,76,75,75,74,75,0,2023,1,22,21
+191,191,Man City,Wolves,3,0,2023-01-22 16:00:00,David Coote,9,5,0,3,Premier League Round 21 2022/2023,3,85,86,86,85,79,77,79,78,1,2023,1,22,21
+192,192,Arsenal,Man United,3,2,2023-01-22 18:30:00,Anthony Taylor,13,13,1,1,Premier League Round 21 2022/2023,1,83,79,80,80,81,80,82,82,1,2023,1,22,21
+193,193,Fulham,Chelsea,2,1,2023-01-12 22:00:00,David Coote,13,4,0,1,Premier League Round 7 2022/2023,1,78,74,75,75,83,83,86,84,1,2023,1,12,7
+194,194,Aston Villa,Leeds,2,1,2023-01-13 22:00:00,Michael Oliver,4,3,5,4,Premier League Round 20 2022/2023,1,79,80,78,79,78,76,76,76,1,2023,1,13,20
+195,195,Man United,Man City,2,1,2023-01-14 14:30:00,Stuart Attwell,15,10,1,0,Premier League Round 20 2022/2023,1,81,80,82,82,85,86,86,85,1,2023,1,14,20
+196,196,Brighton,Liverpool,3,0,2023-01-14 17:00:00,Darren England,9,7,1,0,Premier League Round 20 2022/2023,3,76,77,75,76,84,85,84,85,1,2023,1,14,20
+197,197,Everton,Southampton,1,2,2023-01-14 17:00:00,John Brooks,4,6,7,4,Premier League Round 20 2022/2023,-1,80,77,77,77,75,75,76,76,-1,2023,1,14,20
+198,198,Nottm Forest,Leicester,2,0,2023-01-14 17:00:00,Paul Tierney,7,3,5,3,Premier League Round 20 2022/2023,2,76,73,73,74,79,78,79,79,1,2023,1,14,20
+199,199,Wolves,West Ham,1,0,2023-01-14 17:00:00,Simon Hooper,5,5,3,1,Premier League Round 20 2022/2023,1,79,77,79,78,79,79,80,79,1,2023,1,14,20
+200,200,Brentford,Bournemouth,2,0,2023-01-14 19:30:00,Jarred Gillett,8,0,4,6,Premier League Round 20 2022/2023,2,75,75,74,75,73,73,74,74,1,2023,1,14,20
+201,201,Chelsea,Crystal Palace,1,0,2023-01-15 16:00:00,Peter Bankes,4,6,1,0,Premier League Round 20 2022/2023,1,83,83,86,84,75,76,76,76,1,2023,1,15,20
+202,202,Newcastle,Fulham,1,0,2023-01-15 16:00:00,Robert Jones,8,15,1,0,Premier League Round 20 2022/2023,1,78,79,76,78,78,74,75,75,1,2023,1,15,20
+203,203,Tottenham,Arsenal,0,2,2023-01-15 18:30:00,Craig Pawson,8,10,0,1,Premier League Round 20 2022/2023,-2,84,79,81,82,83,79,80,80,-1,2023,1,15,20
+204,204,Brentford,Liverpool,3,1,2023-01-02 19:30:00,Stuart Attwell,5,9,4,5,Premier League Round 19 2022/2023,2,75,75,74,75,84,85,84,85,1,2023,1,2,19
+205,205,Arsenal,Newcastle,0,0,2023-01-03 21:45:00,Andy Madley,12,13,0,1,Premier League Round 19 2022/2023,0,83,79,80,80,78,79,76,78,0,2023,1,3,19
+206,206,Everton,Brighton,1,4,2023-01-03 21:45:00,Andre Marriner,7,4,1,1,Premier League Round 19 2022/2023,-3,80,77,77,77,76,77,75,76,-1,2023,1,3,19
+207,207,Leicester,Fulham,0,1,2023-01-03 21:45:00,Darren Bond,7,7,2,0,Premier League Round 19 2022/2023,-1,79,78,79,79,78,74,75,75,-1,2023,1,3,19
+208,208,Man United,Bournemouth,3,0,2023-01-03 22:00:00,Michael Salisbury,9,6,0,1,Premier League Round 19 2022/2023,3,81,80,82,82,73,73,74,74,1,2023,1,3,19
+209,209,Southampton,Nottm Forest,0,1,2023-01-04 21:30:00,Thomas Bramall,6,7,0,1,Premier League Round 19 2022/2023,-1,75,75,76,76,76,73,73,74,-1,2023,1,4,19
+210,210,Leeds,West Ham,2,2,2023-01-04 21:45:00,David Coote,7,7,5,5,Premier League Round 19 2022/2023,0,78,76,76,76,79,79,80,79,0,2023,1,4,19
+211,211,Aston Villa,Wolves,1,1,2023-01-04 22:00:00,Jarred Gillett,7,10,2,4,Premier League Round 19 2022/2023,0,79,80,78,79,79,77,79,78,0,2023,1,4,19
+212,212,Crystal Palace,Tottenham,0,4,2023-01-04 22:00:00,Michael Oliver,7,8,6,4,Premier League Round 19 2022/2023,-4,75,76,76,76,84,79,81,82,-1,2023,1,4,19
+213,213,Chelsea,Man City,0,1,2023-01-05 22:00:00,Paul Tierney,4,10,1,0,Premier League Round 19 2022/2023,-1,83,83,86,84,85,86,86,85,-1,2023,1,5,19
+214,214,West Ham,Brentford,0,2,2022-12-30 21:45:00,Darren England,7,5,7,5,Premier League Round 18 2022/2023,-2,79,79,80,79,75,75,74,75,-1,2022,12,30,18
+215,215,Liverpool,Leicester,2,1,2022-12-30 22:00:00,Craig Pawson,9,10,4,4,Premier League Round 18 2022/2023,1,84,85,84,85,79,78,79,79,1,2022,12,30,18
+216,216,Wolves,Man United,0,1,2022-12-31 14:30:00,Robert Jones,10,9,3,0,Premier League Round 18 2022/2023,-1,79,77,79,78,81,80,82,82,-1,2022,12,31,18
+217,217,Bournemouth,Crystal Palace,0,2,2022-12-31 17:00:00,Andre Marriner,6,5,1,0,Premier League Round 18 2022/2023,-2,73,73,74,74,75,76,76,76,-1,2022,12,31,18
+218,218,Fulham,Southampton,2,1,2022-12-31 17:00:00,Graham Scott,5,6,6,4,Premier League Round 18 2022/2023,1,78,74,75,75,75,75,76,76,1,2022,12,31,18
+219,219,Man City,Everton,1,1,2022-12-31 17:00:00,Andy Madley,12,6,0,1,Premier League Round 18 2022/2023,0,85,86,86,85,80,77,77,77,0,2022,12,31,18
+220,220,Newcastle,Leeds,0,0,2022-12-31 17:00:00,Simon Hooper,15,6,6,4,Premier League Round 18 2022/2023,0,78,79,76,78,78,76,76,76,0,2022,12,31,18
+221,221,Brighton,Arsenal,2,4,2022-12-31 19:30:00,Anthony Taylor,7,12,1,0,Premier League Round 18 2022/2023,-2,76,77,75,76,83,79,80,80,-1,2022,12,31,18
+222,222,Tottenham,Aston Villa,0,2,2023-01-01 16:00:00,John Brooks,8,4,4,4,Premier League Round 18 2022/2023,-2,84,79,81,82,79,80,78,79,-1,2023,1,1,18
+223,223,Nottm Forest,Chelsea,1,1,2023-01-01 18:30:00,Peter Bankes,6,3,1,1,Premier League Round 18 2022/2023,0,76,73,73,74,83,83,86,84,0,2023,1,1,18
+224,224,Brentford,Tottenham,2,2,2022-12-26 14:30:00,David Coote,4,7,6,7,Premier League Round 17 2022/2023,0,75,75,74,75,84,79,81,82,0,2022,12,26,17
+225,225,Crystal Palace,Fulham,0,3,2022-12-26 17:00:00,Andy Madley,5,5,4,4,Premier League Round 17 2022/2023,-3,75,76,76,76,78,74,75,75,-1,2022,12,26,17
+226,226,Everton,Wolves,1,2,2022-12-26 17:00:00,Craig Pawson,6,10,1,2,Premier League Round 17 2022/2023,-1,80,77,77,77,79,77,79,78,-1,2022,12,26,17
+227,227,Leicester,Newcastle,0,3,2022-12-26 17:00:00,Jarred Gillett,13,15,2,1,Premier League Round 17 2022/2023,-3,79,78,79,79,78,79,76,78,-1,2022,12,26,17
+228,228,Southampton,Brighton,1,3,2022-12-26 17:00:00,Robert Jones,6,7,4,5,Premier League Round 17 2022/2023,-2,75,75,76,76,76,77,75,76,-1,2022,12,26,17
+229,229,Aston Villa,Liverpool,1,3,2022-12-26 19:30:00,Paul Tierney,7,9,1,4,Premier League Round 17 2022/2023,-2,79,80,78,79,84,85,84,85,-1,2022,12,26,17
+230,230,Arsenal,West Ham,3,1,2022-12-26 22:00:00,Michael Oliver,9,7,6,7,Premier League Round 17 2022/2023,2,83,79,80,80,79,79,80,79,1,2022,12,26,17
+231,231,Chelsea,Bournemouth,2,0,2022-12-27 19:30:00,Simon Hooper,3,6,1,0,Premier League Round 17 2022/2023,2,83,83,86,84,73,73,74,74,1,2022,12,27,17
+232,232,Man United,Nottm Forest,3,0,2022-12-27 22:00:00,Anthony Taylor,9,9,0,5,Premier League Round 17 2022/2023,3,81,80,82,82,76,73,73,74,1,2022,12,27,17
+233,233,Leeds,Man City,1,3,2022-12-28 22:00:00,Stuart Attwell,6,12,4,6,Premier League Round 17 2022/2023,-2,78,76,76,76,85,86,86,85,-1,2022,12,28,17
+234,234,Man City,Brentford,1,2,2022-11-12 14:30:00,Peter Bankes,13,3,8,6,Premier League Round 16 2022/2023,-1,85,86,86,85,75,75,74,75,-1,2022,11,12,16
+235,235,Bournemouth,Everton,3,0,2022-11-12 17:00:00,Craig Pawson,3,4,0,1,Premier League Round 16 2022/2023,3,73,73,74,74,80,77,77,77,1,2022,11,12,16
+236,236,Liverpool,Southampton,3,1,2022-11-12 17:00:00,Simon Hooper,12,7,4,4,Premier League Round 16 2022/2023,2,84,85,84,85,75,75,76,76,1,2022,11,12,16
+237,237,Nottm Forest,Crystal Palace,1,0,2022-11-12 17:00:00,John Brooks,8,9,2,0,Premier League Round 16 2022/2023,1,76,73,73,74,75,76,76,76,1,2022,11,12,16
+238,238,Tottenham,Leeds,4,3,2022-11-12 17:00:00,Michael Salisbury,7,6,5,5,Premier League Round 16 2022/2023,1,84,79,81,82,78,76,76,76,1,2022,11,12,16
+239,239,West Ham,Leicester,0,2,2022-11-12 17:00:00,Jarred Gillett,6,12,1,3,Premier League Round 16 2022/2023,-2,79,79,80,79,79,78,79,79,-1,2022,11,12,16
+240,240,Newcastle,Chelsea,1,0,2022-11-12 19:30:00,Robert Jones,15,6,6,4,Premier League Round 16 2022/2023,1,78,79,76,78,83,83,86,84,1,2022,11,12,16
+241,241,Wolves,Arsenal,0,2,2022-11-12 19:45:00,Stuart Attwell,4,9,0,0,Premier League Round 16,-2,79,77,79,78,83,79,80,80,-1,2022,11,12,16
+242,242,Brighton,Aston Villa,1,2,2022-11-13 16:00:00,Chris Kavanagh,10,6,1,0,Premier League Round 16 2022/2023,-1,76,77,75,76,79,80,78,79,-1,2022,11,13,16
+243,243,Fulham,Man United,1,2,2022-11-13 18:30:00,Paul Tierney,8,12,7,6,Premier League Round 16 2022/2023,-1,78,74,75,75,81,80,82,82,-1,2022,11,13,16
+244,244,Arsenal,Nottm Forest,5,0,2022-10-30 16:00:00,Simon Hooper,10,5,0,1,Premier League Round 14 2022/2023,5,83,79,80,80,76,73,73,74,1,2022,10,30,14
+245,245,Man United,West Ham,1,0,2022-10-30 18:15:00,Chris Kavanagh,11,10,0,1,Premier League Round 14 2022/2023,1,81,80,82,82,79,79,80,79,1,2022,10,30,14
+246,246,Leeds,Bournemouth,4,3,2022-11-05 17:00:00,Tony Harrington,3,4,5,6,Premier League Round 15 2022/2023,1,78,76,76,76,73,73,74,74,1,2022,11,5,15
+247,247,Man City,Fulham,2,1,2022-11-05 17:00:00,Darren England,10,8,6,5,Premier League Round 15 2022/2023,1,85,86,86,85,78,74,75,75,1,2022,11,5,15
+248,248,Nottm Forest,Brentford,2,2,2022-11-05 17:00:00,Andre Marriner,5,5,1,0,Premier League Round 15 2022/2023,0,76,73,73,74,75,75,74,75,0,2022,11,5,15
+249,249,Wolves,Brighton,2,3,2022-11-05 17:00:00,Graham Scott,4,4,2,1,Premier League Round 15 2022/2023,-1,79,77,79,78,76,77,75,76,-1,2022,11,5,15
+250,250,Everton,Leicester,0,2,2022-11-05 19:30:00,David Coote,4,7,1,1,Premier League Round 15 2022/2023,-2,80,77,77,77,79,78,79,79,-1,2022,11,5,15
+251,251,Chelsea,Arsenal,0,1,2022-11-06 14:00:00,Michael Oliver,8,10,5,6,Premier League Round 15 2022/2023,-1,83,83,86,84,83,79,80,80,-1,2022,11,6,15
+252,252,Aston Villa,Man United,3,1,2022-11-06 16:00:00,Anthony Taylor,4,13,1,0,Premier League Round 15 2022/2023,2,79,80,78,79,81,80,82,82,1,2022,11,6,15
+253,253,Southampton,Newcastle,1,4,2022-11-06 16:00:00,Stuart Attwell,5,13,4,4,Premier League Round 15 2022/2023,-3,75,75,76,76,78,79,76,78,-1,2022,11,6,15
+254,254,West Ham,Crystal Palace,1,2,2022-11-06 16:00:00,Paul Tierney,9,10,5,8,Premier League Round 15 2022/2023,-1,79,79,80,79,75,76,76,76,-1,2022,11,6,15
+255,255,Tottenham,Liverpool,1,2,2022-11-06 18:30:00,Andy Madley,7,9,6,5,Premier League Round 15 2022/2023,-1,84,79,81,82,84,85,84,85,-1,2022,11,6,15
+256,256,Aston Villa,Brentford,4,0,2022-10-23 16:00:00,Darren England,5,5,4,4,Premier League Round 13 2022/2023,4,79,80,78,79,75,75,74,75,1,2022,10,23,13
+257,257,Leeds,Fulham,2,3,2022-10-23 16:00:00,Anthony Taylor,1,7,5,5,Premier League Round 13 2022/2023,-1,78,76,76,76,78,74,75,75,-1,2022,10,23,13
+258,258,Southampton,Arsenal,1,1,2022-10-23 16:00:00,Robert Jones,4,15,6,6,Premier League Round 13 2022/2023,0,75,75,76,76,83,79,80,80,0,2022,10,23,13
+259,259,Wolves,Leicester,0,4,2022-10-23 16:00:00,Michael Oliver,3,7,3,2,Premier League Round 13 2022/2023,-4,79,77,79,78,79,78,79,79,-1,2022,10,23,13
+260,260,Tottenham,Newcastle,1,2,2022-10-23 18:30:00,Jarred Gillett,10,11,0,1,Premier League Round 13 2022/2023,-1,84,79,81,82,78,79,76,78,-1,2022,10,23,13
+261,261,West Ham,Bournemouth,2,0,2022-10-24 22:00:00,David Coote,10,6,6,5,Premier League Round 13 2022/2023,2,79,79,80,79,73,73,74,74,1,2022,10,24,13
+262,262,Leicester,Man City,0,1,2022-10-29 14:30:00,Robert Jones,10,8,1,0,Premier League Round 14 2022/2023,-1,79,78,79,79,85,86,86,85,-1,2022,10,29,14
+263,263,Bournemouth,Tottenham,2,3,2022-10-29 17:00:00,Anthony Taylor,5,7,6,4,Premier League Round 14 2022/2023,-1,73,73,74,74,84,79,81,82,-1,2022,10,29,14
+264,264,Brentford,Wolves,1,1,2022-10-29 17:00:00,Robert Madley,5,3,4,7,Premier League Round 14 2022/2023,0,75,75,74,75,79,77,79,78,0,2022,10,29,14
+265,265,Brighton,Chelsea,4,1,2022-10-29 17:00:00,Andy Madley,2,11,6,4,Premier League Round 14 2022/2023,3,76,77,75,76,83,83,86,84,1,2022,10,29,14
+266,266,Crystal Palace,Southampton,1,0,2022-10-29 17:00:00,Michael Salisbury,7,5,6,5,Premier League Round 14 2022/2023,1,75,76,76,76,75,75,76,76,1,2022,10,29,14
+267,267,Newcastle,Aston Villa,4,0,2022-10-29 17:00:00,Paul Tierney,13,5,1,0,Premier League Round 14 2022/2023,4,78,79,76,78,79,80,78,79,1,2022,10,29,14
+268,268,Fulham,Everton,0,0,2022-10-29 19:30:00,John Brooks,7,6,0,1,Premier League Round 14 2022/2023,0,78,74,75,75,80,77,77,77,0,2022,10,29,14
+269,269,Liverpool,Leeds,1,2,2022-10-29 21:45:00,Michael Oliver,12,1,6,6,Premier League Round 14 2022/2023,-1,84,85,84,85,78,76,76,76,-1,2022,10,29,14
+270,270,Brighton,Nottm Forest,0,0,2022-10-18 21:30:00,Darren England,4,1,1,1,Premier League Round 12 2022/2023,0,76,77,75,76,76,73,73,74,0,2022,10,18,12
+271,271,Crystal Palace,Wolves,2,1,2022-10-18 22:15:00,David Coote,6,6,0,2,Premier League Round 12 2022/2023,1,75,76,76,76,79,77,79,78,1,2022,10,18,12
+272,272,Bournemouth,Southampton,0,1,2022-10-19 21:30:00,John Brooks,9,1,5,4,Premier League Round 12 2022/2023,-1,73,73,74,74,75,75,76,76,-1,2022,10,19,12
+273,273,Brentford,Chelsea,0,0,2022-10-19 21:30:00,Jarred Gillett,7,15,5,4,Premier League Round 12 2022/2023,0,75,75,74,75,83,83,86,84,0,2022,10,19,12
+274,274,Liverpool,West Ham,1,0,2022-10-19 21:30:00,Stuart Attwell,10,13,3,1,Premier League Round 12 2022/2023,1,84,85,84,85,79,79,80,79,1,2022,10,19,12
+275,275,Newcastle,Everton,1,0,2022-10-19 21:30:00,Tony Harrington,9,7,1,1,Premier League Round 12 2022/2023,1,78,79,76,78,80,77,77,77,1,2022,10,19,12
+276,276,Man United,Tottenham,2,0,2022-10-19 22:15:00,Simon Hooper,10,10,6,4,Premier League Round 12 2022/2023,2,81,80,82,82,84,79,81,82,1,2022,10,19,12
+277,277,Fulham,Aston Villa,3,0,2022-10-20 21:30:00,Michael Oliver,4,6,4,5,Premier League Round 12 2022/2023,3,78,74,75,75,79,80,78,79,1,2022,10,20,12
+278,278,Leicester,Leeds,2,0,2022-10-20 22:15:00,Peter Bankes,4,2,5,4,Premier League Round 12 2022/2023,2,79,78,79,79,78,76,76,76,1,2022,10,20,12
+279,279,Nottm Forest,Liverpool,1,0,2022-10-22 14:30:00,Paul Tierney,2,12,2,2,Premier League Round 13 2022/2023,1,76,73,73,74,84,85,84,85,1,2022,10,22,13
+280,280,Everton,Crystal Palace,3,0,2022-10-22 17:00:00,Simon Hooper,6,8,1,0,Premier League Round 13 2022/2023,3,80,77,77,77,75,76,76,76,1,2022,10,22,13
+281,281,Man City,Brighton,3,1,2022-10-22 17:00:00,Craig Pawson,10,5,0,1,Premier League Round 13 2022/2023,2,85,86,86,85,76,77,75,76,1,2022,10,22,13
+282,282,Chelsea,Man United,1,1,2022-10-22 19:30:00,Stuart Attwell,13,13,5,5,Premier League Round 13 2022/2023,0,83,83,86,84,81,80,82,82,0,2022,10,22,13
+283,283,Nottm Forest,Aston Villa,1,1,2022-10-10 22:00:00,Anthony Taylor,0,5,1,0,Premier League Round 10 2022/2023,0,76,73,73,74,79,80,78,79,0,2022,10,10,10
+284,284,Brentford,Brighton,2,0,2022-10-14 22:00:00,Michael Salisbury,5,7,4,6,Premier League Round 11 2022/2023,2,75,75,74,75,76,77,75,76,1,2022,10,14,11
+285,285,Leicester,Crystal Palace,0,0,2022-10-15 14:30:00,Andy Madley,3,5,1,0,Premier League Round 11 2022/2023,0,79,78,79,79,75,76,76,76,0,2022,10,15,11
+286,286,Fulham,Bournemouth,2,2,2022-10-15 17:00:00,Graham Scott,6,9,5,5,Premier League Round 11 2022/2023,0,78,74,75,75,73,73,74,74,0,2022,10,15,11
+287,287,Wolves,Nottm Forest,1,0,2022-10-15 17:00:00,Thomas Bramall,4,1,4,3,Premier League Round 11 2022/2023,1,79,77,79,78,76,73,73,74,1,2022,10,15,11
+288,288,Tottenham,Everton,2,0,2022-10-15 19:30:00,Paul Tierney,10,8,0,1,Premier League Round 11 2022/2023,2,84,79,81,82,80,77,77,77,1,2022,10,15,11
+289,289,Aston Villa,Chelsea,0,2,2022-10-16 16:00:00,Robert Jones,6,13,6,4,Premier League Round 11 2022/2023,-2,79,80,78,79,83,83,86,84,-1,2022,10,16,11
+290,290,Leeds,Arsenal,0,1,2022-10-16 16:00:00,Chris Kavanagh,2,15,5,5,Premier League Round 11 2022/2023,-1,78,76,76,76,83,79,80,80,-1,2022,10,16,11
+291,291,Man United,Newcastle,0,0,2022-10-16 16:00:00,Craig Pawson,12,8,0,1,Premier League Round 11 2022/2023,0,81,80,82,82,78,79,76,78,0,2022,10,16,11
+292,292,Southampton,West Ham,1,1,2022-10-16 16:00:00,Peter Bankes,3,12,4,6,Premier League Round 11 2022/2023,0,75,75,76,76,79,79,80,79,0,2022,10,16,11
+293,293,Liverpool,Man City,1,0,2022-10-16 18:30:00,Anthony Taylor,10,13,4,8,Premier League Round 11 2022/2023,1,84,85,84,85,85,86,86,85,1,2022,10,16,11
+294,294,Man City,Man United,6,3,2022-10-02 16:00:00,Michael Oliver,13,12,4,4,Premier League Round 9 2022/2023,3,85,86,86,85,81,80,82,82,1,2022,10,2,9
+295,295,Leeds,Aston Villa,0,0,2022-10-02 18:30:00,Stuart Attwell,7,7,4,6,Premier League Round 9 2022/2023,0,78,76,76,76,79,80,78,79,0,2022,10,2,9
+296,296,Leicester,Nottm Forest,4,0,2022-10-03 22:00:00,Robert Jones,3,3,2,2,Premier League Round 9 2022/2023,4,79,78,79,79,76,73,73,74,1,2022,10,3,9
+297,297,Bournemouth,Leicester,2,1,2022-10-08 17:00:00,Michael Salisbury,6,3,0,1,Premier League Round 10 2022/2023,1,73,73,74,74,79,78,79,79,1,2022,10,8,10
+298,298,Chelsea,Wolves,3,0,2022-10-08 17:00:00,Simon Hooper,10,5,4,4,Premier League Round 10 2022/2023,3,83,83,86,84,79,77,79,78,1,2022,10,8,10
+299,299,Man City,Southampton,4,0,2022-10-08 17:00:00,Andy Madley,15,3,4,5,Premier League Round 10 2022/2023,4,85,86,86,85,75,75,76,76,1,2022,10,8,10
+300,300,Newcastle,Brentford,5,1,2022-10-08 17:00:00,John Brooks,6,6,4,4,Premier League Round 10 2022/2023,4,78,79,76,78,75,75,74,75,1,2022,10,8,10
+301,301,Brighton,Tottenham,0,1,2022-10-08 19:30:00,Tony Harrington,10,7,1,0,Premier League Round 10 2022/2023,-1,76,77,75,76,84,79,81,82,-1,2022,10,8,10
+302,302,Crystal Palace,Leeds,2,1,2022-10-09 16:00:00,Paul Tierney,5,5,5,5,Premier League Round 10 2022/2023,1,75,76,76,76,78,76,76,76,1,2022,10,9,10
+303,303,West Ham,Fulham,3,1,2022-10-09 16:00:00,Chris Kavanagh,12,6,6,5,Premier League Round 10 2022/2023,2,79,79,80,79,78,74,75,75,1,2022,10,9,10
+304,304,Arsenal,Liverpool,3,2,2022-10-09 18:30:00,Michael Oliver,12,8,6,4,Premier League Round 10 2022/2023,1,83,79,80,80,84,85,84,85,1,2022,10,9,10
+305,305,Everton,Man United,1,2,2022-10-09 21:00:00,David Coote,9,9,1,0,Premier League Round 10 2022/2023,-1,80,77,77,77,81,80,82,82,-1,2022,10,9,10
+306,306,Aston Villa,Southampton,1,0,2022-09-16 22:00:00,Tony Harrington,4,9,5,4,Premier League Round 8 2022/2023,1,79,80,78,79,75,75,76,76,1,2022,9,16,8
+307,307,Nottm Forest,Fulham,2,3,2022-09-16 22:00:00,Jarred Gillett,4,6,1,0,Premier League Round 8 2022/2023,-1,76,73,73,74,78,74,75,75,-1,2022,9,16,8
+308,308,Wolves,Man City,0,3,2022-09-17 14:30:00,Anthony Taylor,8,13,2,0,Premier League Round 8 2022/2023,-3,79,77,79,78,85,86,86,85,-1,2022,9,17,8
+309,309,Newcastle,Bournemouth,1,1,2022-09-17 17:00:00,Craig Pawson,6,7,1,0,Premier League Round 8 2022/2023,0,78,79,76,78,73,73,74,74,0,2022,9,17,8
+310,310,Tottenham,Leicester,6,2,2022-09-17 19:30:00,Simon Hooper,10,3,0,1,Premier League Round 8 2022/2023,4,84,79,81,82,79,78,79,79,1,2022,9,17,8
+311,311,Brentford,Arsenal,0,3,2022-09-18 14:00:00,David Coote,8,12,5,4,Premier League Round 8 2022/2023,-3,75,75,74,75,83,79,80,80,-1,2022,9,18,8
+312,312,Everton,West Ham,1,0,2022-09-18 16:15:00,Michael Oliver,7,10,1,0,Premier League Round 8 2022/2023,1,80,77,77,77,79,79,80,79,1,2022,9,18,8
+313,313,Arsenal,Tottenham,3,1,2022-10-01 14:30:00,Anthony Taylor,12,10,4,4,Premier League Round 9 2022/2023,2,83,79,80,80,84,79,81,82,1,2022,10,1,9
+314,314,Bournemouth,Brentford,0,0,2022-10-01 17:00:00,Thomas Bramall,8,8,8,4,Premier League Round 9 2022/2023,0,73,73,74,74,75,75,74,75,0,2022,10,1,9
+315,315,Crystal Palace,Chelsea,1,2,2022-10-01 17:00:00,Chris Kavanagh,8,7,5,5,Premier League Round 9 2022/2023,-1,75,76,76,76,83,83,86,84,-1,2022,10,1,9
+316,316,Fulham,Newcastle,1,4,2022-10-01 17:00:00,Darren England,6,6,0,1,Premier League Round 9 2022/2023,-3,78,74,75,75,78,79,76,78,-1,2022,10,1,9
+317,317,Liverpool,Brighton,3,3,2022-10-01 17:00:00,Andy Madley,10,12,0,1,Premier League Round 9 2022/2023,0,84,85,84,85,76,77,75,76,0,2022,10,1,9
+318,318,Southampton,Everton,1,2,2022-10-01 17:00:00,Andre Marriner,6,9,5,5,Premier League Round 9 2022/2023,-1,75,75,76,76,80,77,77,77,-1,2022,10,1,9
+319,319,West Ham,Wolves,2,0,2022-10-01 19:30:00,Paul Tierney,7,8,0,2,Premier League Round 9 2022/2023,2,79,79,80,79,79,77,79,78,1,2022,10,1,9
+320,320,Everton,Liverpool,0,0,2022-09-03 14:30:00,Anthony Taylor,6,8,1,0,Premier League Round 6 2022/2023,0,80,77,77,77,84,85,84,85,0,2022,9,3,6
+321,321,Brentford,Leeds,5,2,2022-09-03 17:00:00,Robert Jones,8,8,4,4,Premier League Round 6 2022/2023,3,75,75,74,75,78,76,76,76,1,2022,9,3,6
+322,322,Chelsea,West Ham,2,1,2022-09-03 17:00:00,Andy Madley,7,10,1,1,Premier League Round 6 2022/2023,1,83,83,86,84,79,79,80,79,1,2022,9,3,6
+323,323,Newcastle,Crystal Palace,0,0,2022-09-03 17:00:00,Michael Salisbury,6,8,1,0,Premier League Round 6 2022/2023,0,78,79,76,78,75,76,76,76,0,2022,9,3,6
+324,324,Nottm Forest,Bournemouth,2,3,2022-09-03 17:00:00,Michael Oliver,7,4,1,0,Premier League Round 6 2022/2023,-1,76,73,73,74,73,73,74,74,-1,2022,9,3,6
+325,325,Tottenham,Fulham,2,1,2022-09-03 17:00:00,Stuart Attwell,11,7,7,4,Premier League Round 6 2022/2023,1,84,79,81,82,78,74,75,75,1,2022,9,3,6
+326,326,Wolves,Southampton,1,0,2022-09-03 17:00:00,John Brooks,6,10,6,4,Premier League Round 6 2022/2023,1,79,77,79,78,75,75,76,76,1,2022,9,3,6
+327,327,Aston Villa,Man City,1,1,2022-09-03 19:30:00,Simon Hooper,6,11,6,7,Premier League Round 6 2022/2023,0,79,80,78,79,85,86,86,85,0,2022,9,3,6
+328,328,Brighton,Leicester,5,2,2022-09-04 16:00:00,Tony Harrington,10,3,5,5,Premier League Round 6 2022/2023,3,76,77,75,76,79,78,79,79,1,2022,9,4,6
+329,329,Man United,Arsenal,3,1,2022-09-04 18:30:00,Paul Tierney,9,15,5,5,Premier League Round 6 2022/2023,2,81,80,82,82,83,79,80,80,1,2022,9,4,6
+330,330,Crystal Palace,Brentford,1,1,2022-08-30 21:30:00,Simon Hooper,7,8,5,4,Premier League Round 5 2022/2023,0,75,76,76,76,75,75,74,75,0,2022,8,30,5
+331,331,Fulham,Brighton,2,1,2022-08-30 21:30:00,Thomas Bramall,5,13,7,5,Premier League Round 5 2022/2023,1,78,74,75,75,76,77,75,76,1,2022,8,30,5
+332,332,Southampton,Chelsea,2,1,2022-08-30 21:45:00,Michael Oliver,7,10,6,5,Premier League Round 5 2022/2023,1,75,75,76,76,83,83,86,84,1,2022,8,30,5
+333,333,Leeds,Everton,1,1,2022-08-30 22:00:00,Darren England,10,5,5,9,Premier League Round 5 2022/2023,0,78,76,76,76,80,77,77,77,0,2022,8,30,5
+334,334,Bournemouth,Wolves,0,0,2022-08-31 21:30:00,Anthony Taylor,6,5,0,1,Premier League Round 5 2022/2023,0,73,73,74,74,79,77,79,78,0,2022,8,31,5
+335,335,Arsenal,Aston Villa,2,1,2022-08-31 21:30:00,Robert Jones,15,6,5,6,Premier League Round 5 2022/2023,1,83,79,80,80,79,80,78,79,1,2022,8,31,5
+336,336,Man City,Nottm Forest,6,0,2022-08-31 21:30:00,Paul Tierney,11,7,0,1,Premier League Round 5 2022/2023,6,85,86,86,85,76,73,73,74,1,2022,8,31,5
+337,337,West Ham,Tottenham,1,1,2022-08-31 21:45:00,Peter Bankes,9,10,6,8,Premier League Round 5 2022/2023,0,79,79,80,79,84,79,81,82,0,2022,8,31,5
+338,338,Liverpool,Newcastle,2,1,2022-08-31 22:00:00,Andre Marriner,5,9,0,1,Premier League Round 5 2022/2023,1,84,85,84,85,78,79,76,78,1,2022,8,31,5
+339,339,Leicester,Man United,0,1,2022-09-01 22:00:00,Craig Pawson,4,7,2,0,Premier League Round 5 2022/2023,-1,79,78,79,79,81,80,82,82,-1,2022,9,1,5
+340,340,Southampton,Man United,0,1,2022-08-27 14:30:00,Andy Madley,7,4,5,6,Premier League Round 4 2022/2023,-1,75,75,76,76,81,80,82,82,-1,2022,8,27,4
+341,341,Brentford,Everton,1,1,2022-08-27 17:00:00,John Brooks,10,7,4,5,Premier League Round 4 2022/2023,0,75,75,74,75,80,77,77,77,0,2022,8,27,4
+342,342,Brighton,Leeds,1,0,2022-08-27 17:00:00,Michael Salisbury,13,13,4,5,Premier League Round 4 2022/2023,1,76,77,75,76,78,76,76,76,1,2022,8,27,4
+343,343,Chelsea,Leicester,2,1,2022-08-27 17:00:00,Paul Tierney,7,7,2,4,Premier League Round 4 2022/2023,1,83,83,86,84,79,78,79,79,1,2022,8,27,4
+344,344,Liverpool,Bournemouth,9,0,2022-08-27 17:00:00,Stuart Attwell,5,6,4,4,Premier League Round 4 2022/2023,9,84,85,84,85,73,73,74,74,1,2022,8,27,4
+345,345,Man City,Crystal Palace,4,2,2022-08-27 17:00:00,Darren England,8,10,5,5,Premier League Round 4 2022/2023,2,85,86,86,85,75,76,76,76,1,2022,8,27,4
+346,346,Arsenal,Fulham,2,1,2022-08-27 19:30:00,Jarred Gillett,15,6,6,4,Premier League Round 4 2022/2023,1,83,79,80,80,78,74,75,75,1,2022,8,27,4
+347,347,Aston Villa,West Ham,0,1,2022-08-28 16:00:00,David Coote,9,6,5,6,Premier League Round 4 2022/2023,-1,79,80,78,79,79,79,80,79,-1,2022,8,28,4
+348,348,Wolves,Newcastle,1,1,2022-08-28 16:00:00,Peter Bankes,5,11,1,1,Premier League Round 4 2022/2023,0,79,77,79,78,78,79,76,78,0,2022,8,28,4
+349,349,Nottm Forest,Tottenham,0,2,2022-08-28 18:30:00,Craig Pawson,8,10,1,0,Premier League Round 4 2022/2023,-2,76,73,73,74,84,79,81,82,-1,2022,8,28,4
+350,350,Tottenham,Wolves,1,0,2022-08-20 14:30:00,Simon Hooper,8,6,0,1,Premier League Round 3 2022/2023,1,84,79,81,82,79,77,79,78,1,2022,8,20,3
+351,351,Crystal Palace,Aston Villa,3,1,2022-08-20 17:00:00,Andy Madley,8,10,4,6,Premier League Round 3 2022/2023,2,75,76,76,76,79,80,78,79,1,2022,8,20,3
+352,352,Everton,Nottm Forest,1,1,2022-08-20 17:00:00,Andre Marriner,6,5,1,1,Premier League Round 3 2022/2023,0,80,77,77,77,76,73,73,74,0,2022,8,20,3
+353,353,Fulham,Brentford,3,2,2022-08-20 17:00:00,Peter Bankes,6,10,6,5,Premier League Round 3 2022/2023,1,78,74,75,75,75,75,74,75,1,2022,8,20,3
+354,354,Leicester,Southampton,1,2,2022-08-20 17:00:00,Michael Salisbury,10,5,6,6,Premier League Round 3 2022/2023,-1,79,78,79,79,75,75,76,76,-1,2022,8,20,3
+355,355,Bournemouth,Arsenal,0,3,2022-08-20 19:30:00,Craig Pawson,3,15,6,4,Premier League Round 3 2022/2023,-3,73,73,74,74,83,79,80,80,-1,2022,8,20,3
+356,356,Leeds,Chelsea,3,0,2022-08-21 16:00:00,Stuart Attwell,8,7,4,5,Premier League Round 3 2022/2023,3,78,76,76,76,83,83,86,84,1,2022,8,21,3
+357,357,West Ham,Brighton,0,2,2022-08-21 16:00:00,Anthony Taylor,5,10,5,6,Premier League Round 3 2022/2023,-2,79,79,80,79,76,77,75,76,-1,2022,8,21,3
+358,358,Newcastle,Man City,3,3,2022-08-21 18:30:00,Jarred Gillett,10,12,5,8,Premier League Round 3 2022/2023,0,78,79,76,78,85,86,86,85,0,2022,8,21,3
+359,359,Man United,Liverpool,2,1,2022-08-22 22:00:00,Michael Oliver,2,5,2,4,Premier League Round 3 2022/2023,1,81,80,82,82,84,85,84,85,1,2022,8,22,3
+360,360,Aston Villa,Everton,2,1,2022-08-13 14:30:00,Michael Oliver,10,6,0,1,Premier League Round 2 2022/2023,1,79,80,78,79,80,77,77,77,1,2022,8,13,2
+361,361,Arsenal,Leicester,4,2,2022-08-13 17:00:00,Darren England,15,13,0,1,Premier League Round 2 2022/2023,2,83,79,80,80,79,78,79,79,1,2022,8,13,2
+362,362,Brighton,Newcastle,0,0,2022-08-13 17:00:00,Graham Scott,10,9,6,6,Premier League Round 2 2022/2023,0,76,77,75,76,78,79,76,78,0,2022,8,13,2
+363,363,Man City,Bournemouth,4,0,2022-08-13 17:00:00,David Coote,12,6,4,5,Premier League Round 2 2022/2023,4,85,86,86,85,73,73,74,74,1,2022,8,13,2
+364,364,Southampton,Leeds,2,2,2022-08-13 17:00:00,Tony Harrington,5,10,5,5,Premier League Round 2 2022/2023,0,75,75,76,76,78,76,76,76,0,2022,8,13,2
+365,365,Wolves,Fulham,0,0,2022-08-13 17:00:00,John Brooks,5,8,1,0,Premier League Round 2 2022/2023,0,79,77,79,78,78,74,75,75,0,2022,8,13,2
+366,366,Brentford,Man United,4,0,2022-08-13 19:30:00,Stuart Attwell,8,5,4,4,Premier League Round 2 2022/2023,4,75,75,74,75,81,80,82,82,1,2022,8,13,2
+367,367,Nottm Forest,West Ham,1,0,2022-08-14 16:00:00,Robert Jones,5,3,1,2,Premier League Round 2 2022/2023,1,76,73,73,74,79,79,80,79,1,2022,8,14,2
+368,368,Chelsea,Tottenham,2,2,2022-08-14 18:30:00,Anthony Taylor,9,10,5,5,Premier League Round 2 2022/2023,0,83,83,86,84,84,79,81,82,0,2022,8,14,2
+369,369,Liverpool,Crystal Palace,1,1,2022-08-15 22:00:00,Paul Tierney,7,10,5,4,Premier League Round 2 2022/2023,0,84,85,84,85,75,76,76,76,0,2022,8,15,2
+370,370,Crystal Palace,Arsenal,0,2,2022-08-05 22:00:00,Anthony Taylor,10,15,5,6,Premier League Round 1,-2,75,76,76,76,83,79,80,80,-1,2022,8,5,1
+371,371,Fulham,Liverpool,2,2,2022-08-06 14:30:00,Andy Madley,7,9,6,5,Premier League Round 1 2022/2023,0,78,74,75,75,84,85,84,85,0,2022,8,6,1
+372,372,Bournemouth,Aston Villa,2,0,2022-08-06 17:00:00,Peter Bankes,6,13,6,5,Premier League Round 1 2022/2023,2,73,73,74,74,79,80,78,79,1,2022,8,6,1
+373,373,Leeds,Wolves,2,1,2022-08-06 17:00:00,Robert Jones,10,8,5,8,Premier League Round 1 2022/2023,1,78,76,76,76,79,77,79,78,1,2022,8,6,1
+374,374,Newcastle,Nottm Forest,2,0,2022-08-06 17:00:00,Simon Hooper,9,6,0,1,Premier League Round 1 2022/2023,2,78,79,76,78,76,73,73,74,1,2022,8,6,1
+375,375,Tottenham,Southampton,4,1,2022-08-06 17:00:00,Andre Marriner,10,5,4,4,Premier League Round 1 2022/2023,3,84,79,81,82,75,75,76,76,1,2022,8,6,1
+376,376,Everton,Chelsea,0,1,2022-08-06 19:30:00,Craig Pawson,6,9,1,0,Premier League Round 1 2022/2023,-1,80,77,77,77,83,83,86,84,-1,2022,8,6,1
+377,377,Leicester,Brentford,2,2,2022-08-07 16:00:00,Jarred Gillett,13,7,8,4,Premier League Round 1 2022/2023,0,79,78,79,79,75,75,74,75,0,2022,8,7,1
+378,378,Man United,Brighton,1,2,2022-08-07 16:00:00,Paul Tierney,8,10,4,5,Premier League Round 1 2022/2023,-1,81,80,82,82,76,77,75,76,-1,2022,8,7,1
+379,379,West Ham,Man City,0,2,2022-08-07 18:30:00,Michael Oliver,6,10,4,4,Premier League Round 1 2022/2023,-2,79,79,80,79,85,86,86,85,-1,2022,8,7,1
+380,380,Arsenal,Everton,5,1,2022-05-22 18:00:00,Andre Marriner,9,10,0,1,Premier League Round 38 2021/2022,4,83,77,81,79,79,79,78,79,1,2022,5,22,38
+381,381,Brentford,Leeds,1,2,2022-05-22 18:00:00,Paul Tierney,10,2,6,7,Premier League Round 38 2021/2022,-1,73,73,74,73,78,76,78,77,-1,2022,5,22,38
+382,382,Brighton,West Ham,3,1,2022-05-22 18:00:00,Kevin Friend,8,4,6,6,Premier League Round 38 2021/2022,2,75,75,77,76,79,79,79,79,1,2022,5,22,38
+383,383,Burnley,Newcastle,1,2,2022-05-22 18:00:00,Craig Pawson,7,9,7,6,Premier League Round 38 2021/2022,-1,76,77,76,76,79,74,75,76,-1,2022,5,22,38
+384,384,Chelsea,Watford,2,1,2022-05-22 18:00:00,Mike Dean,5,1,6,6,Premier League Round 38 2021/2022,1,84,81,86,83,74,73,75,75,1,2022,5,22,38
+385,385,Crystal Palace,Man United,1,0,2022-05-22 18:00:00,Martin Atkinson,8,4,6,6,Premier League Round 38 2021/2022,1,77,74,76,76,85,83,84,84,1,2022,5,22,38
+386,386,Leicester,Southampton,4,1,2022-05-22 18:00:00,Jonathan Moss,7,1,5,5,Premier League Round 38 2021/2022,3,82,79,81,80,76,73,77,76,1,2022,5,22,38
+387,387,Liverpool,Wolves,3,1,2022-05-22 18:00:00,Anthony Taylor,13,2,6,6,Premier League Round 38 2021/2022,2,86,85,83,84,78,77,81,78,1,2022,5,22,38
+388,388,Man City,Aston Villa,3,2,2022-05-22 18:00:00,Michael Oliver,10,8,6,6,Premier League Round 38 2021/2022,1,84,86,87,85,78,77,76,78,1,2022,5,22,38
+389,389,Norwich,Tottenham,0,5,2022-05-22 18:00:00,Chris Kavanagh,1,11,6,6,Premier League Round 38 2021/2022,-5,76,74,74,74,86,80,80,82,-1,2022,5,22,38
+390,390,Tottenham,Burnley,1,0,2022-05-15 14:00:00,Kevin Friend,8,10,7,7,Premier League Round 37 2021/2022,1,86,80,80,82,76,77,76,76,1,2022,5,15,37
+391,391,Aston Villa,Crystal Palace,1,1,2022-05-15 16:00:00,Chris Kavanagh,7,7,6,6,Premier League Round 37 2021/2022,0,78,77,76,78,77,74,76,76,0,2022,5,15,37
+392,392,Leeds,Brighton,1,1,2022-05-15 16:00:00,Mike Dean,4,10,6,6,Premier League Round 37 2021/2022,0,78,76,78,77,75,75,77,76,0,2022,5,15,37
+393,393,Watford,Leicester,1,5,2022-05-15 16:00:00,Jarred Gillett,1,4,0,1,Premier League Round 37 2021/2022,-4,74,73,75,75,82,79,81,80,-1,2022,5,15,37
+394,394,West Ham,Man City,2,2,2022-05-15 16:00:00,Anthony Taylor,3,12,6,9,Premier League Round 37 2021/2022,0,79,79,79,79,84,86,87,85,0,2022,5,15,37
+395,395,Wolves,Norwich,1,1,2022-05-15 16:00:00,Tony Harrington,1,0,5,6,Premier League Round 37 2021/2022,0,78,77,81,78,76,74,74,74,0,2022,5,15,37
+396,396,Everton,Brentford,2,3,2022-05-15 18:30:00,Michael Oliver,8,10,6,6,Premier League Round 37 2021/2022,-1,79,79,78,79,73,73,74,73,-1,2022,5,15,37
+397,397,Newcastle,Arsenal,2,0,2022-05-16 22:00:00,Darren England,9,12,5,5,Premier League Round 37 2021/2022,2,79,74,75,76,83,77,81,79,1,2022,5,16,37
+398,398,Southampton,Liverpool,1,2,2022-05-17 21:45:00,Martin Atkinson,4,13,6,6,Premier League Round 37 2021/2022,-1,76,73,77,76,86,85,83,84,-1,2022,5,17,37
+399,399,Everton,Crystal Palace,3,2,2022-05-19 21:45:00,Anthony Taylor,7,8,1,0,Premier League Round 33 2021/2022,1,79,79,78,79,77,74,76,76,1,2022,5,19,33
+400,400,Aston Villa,Burnley,1,1,2022-05-19 22:00:00,Paul Tierney,8,9,6,6,Premier League Round 18 2021/2022,0,78,77,76,78,76,77,76,76,0,2022,5,19,18
+401,401,Chelsea,Leicester,1,1,2022-05-19 22:00:00,Stuart Attwell,5,6,0,1,Premier League Round 27 2021/2022,0,84,81,86,83,82,79,81,80,0,2022,5,19,27
+402,402,Arsenal,Leeds,2,1,2022-05-08 16:00:00,Chris Kavanagh,9,8,6,6,Premier League Round 36 2021/2022,1,83,77,81,79,78,76,78,77,1,2022,5,8,36
+403,403,Leicester,Everton,1,2,2022-05-08 16:00:00,Craig Pawson,3,7,1,1,Premier League Round 36 2021/2022,-1,82,79,81,80,79,79,78,79,-1,2022,5,8,36
+404,404,Norwich,West Ham,0,4,2022-05-08 16:00:00,Robert Jones,4,1,6,6,Premier League Round 36 2021/2022,-4,76,74,74,74,79,79,79,79,-1,2022,5,8,36
+405,405,Man City,Newcastle,5,0,2022-05-08 18:30:00,Stuart Attwell,12,12,6,6,Premier League Round 36 2021/2022,5,84,86,87,85,79,74,75,76,1,2022,5,8,36
+406,406,Aston Villa,Liverpool,1,2,2022-05-10 22:00:00,Jonathan Moss,7,13,6,6,Premier League Round 33 2021/2022,-1,78,77,76,78,86,85,83,84,-1,2022,5,10,33
+407,407,Leeds,Chelsea,0,3,2022-05-11 21:30:00,Anthony Taylor,5,5,6,6,Premier League Round 33 2021/2022,-3,78,76,78,77,84,81,86,83,-1,2022,5,11,33
+408,408,Leicester,Norwich,3,0,2022-05-11 21:45:00,Simon Hooper,2,3,1,0,Premier League Round 21 2021/2022,3,82,79,81,80,76,74,74,74,1,2022,5,11,21
+409,409,Watford,Everton,0,0,2022-05-11 21:45:00,Mike Dean,0,10,0,1,Premier League Round 30 2021/2022,0,74,73,75,75,79,79,78,79,0,2022,5,11,30
+410,410,Wolves,Man City,1,5,2022-05-11 22:15:00,Martin Atkinson,4,12,6,6,Premier League Round 33 2021/2022,-4,78,77,81,78,84,86,87,85,-1,2022,5,11,33
+411,411,Tottenham,Arsenal,3,0,2022-05-12 21:45:00,Paul Tierney,8,12,6,6,Premier League Round 22 2021/2022,3,86,80,80,82,83,77,81,79,1,2022,5,12,22
+412,412,Everton,Chelsea,1,0,2022-05-01 16:00:00,Kevin Friend,4,10,1,0,Premier League Round 35 2021/2022,1,79,79,78,79,84,81,86,83,1,2022,5,1,35
+413,413,Tottenham,Leicester,3,1,2022-05-01 16:00:00,Jonathan Moss,10,6,0,1,Premier League Round 35 2021/2022,2,86,80,80,82,82,79,81,80,1,2022,5,1,35
+414,414,West Ham,Arsenal,1,2,2022-05-01 18:30:00,Mike Dean,4,6,6,6,Premier League Round 35 2021/2022,-1,79,79,79,79,83,77,81,79,-1,2022,5,1,35
+415,415,Man United,Brentford,3,0,2022-05-02 22:00:00,Chris Kavanagh,4,10,6,6,Premier League Round 35 2021/2022,3,85,83,84,84,73,73,74,73,1,2022,5,2,35
+416,416,Brentford,Southampton,3,0,2022-05-07 17:00:00,Michael Salisbury,10,4,6,7,Premier League Round 36 2021/2022,3,73,73,74,73,76,73,77,76,1,2022,5,7,36
+417,417,Burnley,Aston Villa,1,3,2022-05-07 17:00:00,David Coote,10,4,6,6,Premier League Round 36 2021/2022,-2,76,77,76,76,78,77,76,78,-1,2022,5,7,36
+418,418,Chelsea,Wolves,2,2,2022-05-07 17:00:00,Peter Bankes,7,3,6,6,Premier League Round 36 2021/2022,0,84,81,86,83,78,77,81,78,0,2022,5,7,36
+419,419,Crystal Palace,Watford,1,0,2022-05-07 17:00:00,Graham Scott,4,0,6,6,Premier League Round 36 2021/2022,1,77,74,76,76,74,73,75,75,1,2022,5,7,36
+420,420,Brighton,Man United,4,0,2022-05-07 19:30:00,Andy Madley,10,7,6,6,Premier League Round 36 2021/2022,4,75,75,77,76,85,83,84,84,1,2022,5,7,36
+421,421,Liverpool,Tottenham,1,1,2022-05-07 21:45:00,Michael Oliver,15,10,6,6,Premier League Round 36 2021/2022,0,86,85,83,84,86,80,80,82,0,2022,5,7,36
+422,422,Brighton,Southampton,2,2,2022-04-24 16:00:00,Robert Jones,7,4,6,6,Premier League Round 34 2021/2022,0,75,75,77,76,76,73,77,76,0,2022,4,24,34
+423,423,Burnley,Wolves,1,0,2022-04-24 16:00:00,Anthony Taylor,7,9,6,7,Premier League Round 34 2021/2022,1,76,77,76,76,78,77,81,78,1,2022,4,24,34
+424,424,Chelsea,West Ham,1,0,2022-04-24 16:00:00,Michael Oliver,9,8,5,6,Premier League Round 34 2021/2022,1,84,81,86,83,79,79,79,79,1,2022,4,24,34
+425,425,Liverpool,Everton,2,0,2022-04-24 18:30:00,Stuart Attwell,11,4,0,1,Premier League Round 34 2021/2022,2,86,85,83,84,79,79,78,79,1,2022,4,24,34
+426,426,Crystal Palace,Leeds,0,0,2022-04-25 22:00:00,Darren England,6,10,6,6,Premier League Round 34 2021/2022,0,77,74,76,76,78,76,78,77,0,2022,4,25,34
+427,427,Man United,Chelsea,1,1,2022-04-28 21:45:00,Mike Dean,4,12,6,6,Premier League Round 37 2021/2022,0,85,83,84,84,84,81,86,83,0,2022,4,28,37
+428,428,Newcastle,Liverpool,0,1,2022-04-30 14:30:00,Andre Marriner,12,13,6,6,Premier League Round 35 2021/2022,-1,79,74,75,76,86,85,83,84,-1,2022,4,30,35
+429,429,Aston Villa,Norwich,2,0,2022-04-30 17:00:00,John Brooks,1,4,6,6,Premier League Round 35 2021/2022,2,78,77,76,78,76,74,74,74,1,2022,4,30,35
+430,430,Southampton,Crystal Palace,1,2,2022-04-30 17:00:00,Jarred Gillett,5,4,6,6,Premier League Round 35 2021/2022,-1,76,73,77,76,77,74,76,76,-1,2022,4,30,35
+431,431,Watford,Burnley,1,2,2022-04-30 17:00:00,Craig Pawson,3,10,9,6,Premier League Round 35 2021/2022,-1,74,73,75,75,76,77,76,76,-1,2022,4,30,35
+432,432,Wolves,Brighton,0,3,2022-04-30 17:00:00,Simon Hooper,6,8,6,6,Premier League Round 35 2021/2022,-3,78,77,81,78,75,75,77,76,-1,2022,4,30,35
+433,433,Leeds,Man City,0,4,2022-04-30 19:30:00,Paul Tierney,11,10,5,6,Premier League Round 35 2021/2022,-4,78,76,78,77,84,86,87,85,-1,2022,4,30,35
+434,434,Liverpool,Man United,4,0,2022-04-19 22:00:00,Martin Atkinson,11,7,6,6,Premier League Round 30 2021/2022,4,86,85,83,84,85,83,84,84,1,2022,4,19,30
+435,435,Chelsea,Arsenal,2,4,2022-04-20 21:45:00,Jonathan Moss,9,3,6,6,Premier League Round 25 2021/2022,-2,84,81,86,83,83,77,81,79,-1,2022,4,20,25
+436,436,Everton,Leicester,1,1,2022-04-20 21:45:00,David Coote,6,8,1,1,Premier League Round 18 2021/2022,0,79,79,78,79,82,79,81,80,0,2022,4,20,18
+437,437,Newcastle,Crystal Palace,1,0,2022-04-20 21:45:00,Tony Harrington,6,7,6,6,Premier League Round 30 2021/2022,1,79,74,75,76,77,74,76,76,1,2022,4,20,30
+438,438,Man City,Brighton,3,0,2022-04-20 22:00:00,Mike Dean,8,7,6,6,Premier League Round 30 2021/2022,3,84,86,87,85,75,75,77,76,1,2022,4,20,30
+439,439,Burnley,Southampton,2,0,2022-04-21 21:45:00,Stuart Attwell,4,4,6,6,Premier League Round 30 2021/2022,2,76,77,76,76,76,73,77,76,1,2022,4,21,30
+440,440,Arsenal,Man United,3,1,2022-04-23 14:30:00,Craig Pawson,6,4,6,6,Premier League Round 34 2021/2022,2,83,77,81,79,85,83,84,84,1,2022,4,23,34
+441,441,Leicester,Aston Villa,0,0,2022-04-23 17:00:00,Andy Madley,8,3,1,0,Premier League Round 34 2021/2022,0,82,79,81,80,78,77,76,78,0,2022,4,23,34
+442,442,Man City,Watford,5,1,2022-04-23 17:00:00,Kevin Friend,8,3,6,6,Premier League Round 34 2021/2022,4,84,86,87,85,74,73,75,75,1,2022,4,23,34
+443,443,Norwich,Newcastle,0,3,2022-04-23 17:00:00,Chris Kavanagh,4,9,6,6,Premier League Round 34 2021/2022,-3,76,74,74,74,79,74,75,76,-1,2022,4,23,34
+444,444,Brentford,Tottenham,0,0,2022-04-23 19:30:00,Martin Atkinson,12,12,7,7,Premier League Round 34 2021/2022,0,73,73,74,73,86,80,80,82,0,2022,4,23,34
+445,445,Brentford,West Ham,2,0,2022-04-10 16:00:00,Martin Atkinson,9,10,6,6,Premier League Round 32 2021/2022,2,73,73,74,73,79,79,79,79,1,2022,4,10,32
+446,446,Leicester,Crystal Palace,2,1,2022-04-10 16:00:00,Robert Jones,5,13,1,0,Premier League Round 32 2021/2022,1,82,79,81,80,77,74,76,76,1,2022,4,10,32
+447,447,Norwich,Burnley,2,0,2022-04-10 16:00:00,Michael Oliver,1,3,6,6,Premier League Round 32 2021/2022,2,76,74,74,74,76,77,76,76,1,2022,4,10,32
+448,448,Man City,Liverpool,2,2,2022-04-10 18:30:00,Anthony Taylor,11,15,7,6,Premier League Round 32 2021/2022,0,84,86,87,85,86,85,83,84,0,2022,4,10,32
+449,449,Tottenham,Brighton,0,1,2022-04-16 14:30:00,Craig Pawson,12,4,6,6,Premier League Round 33 2021/2022,-1,86,80,80,82,75,75,77,76,-1,2022,4,16,33
+450,450,Man United,Norwich,3,2,2022-04-16 17:00:00,Andy Madley,4,4,6,6,Premier League Round 33 2021/2022,1,85,83,84,84,76,74,74,74,1,2022,4,16,33
+451,451,Southampton,Arsenal,1,0,2022-04-16 17:00:00,Peter Bankes,1,6,6,7,Premier League Round 33 2021/2022,1,76,73,77,76,83,77,81,79,1,2022,4,16,33
+452,452,Watford,Brentford,1,2,2022-04-16 17:00:00,Simon Hooper,3,12,6,6,Premier League Round 33 2021/2022,-1,74,73,75,75,73,73,74,73,-1,2022,4,16,33
+453,453,Newcastle,Leicester,2,1,2022-04-17 16:15:00,Jarred Gillett,6,11,0,1,Premier League Round 33 2021/2022,1,79,74,75,76,82,79,81,80,1,2022,4,17,33
+454,454,West Ham,Burnley,1,1,2022-04-17 16:15:00,Paul Tierney,7,3,7,6,Premier League Round 33 2021/2022,0,79,79,79,79,76,77,76,76,0,2022,4,17,33
+455,455,West Ham,Everton,2,1,2022-04-03 16:00:00,Michael Oliver,6,6,0,1,Premier League Round 31 2021/2022,1,79,79,79,79,79,79,78,79,1,2022,4,3,31
+456,456,Tottenham,Newcastle,5,1,2022-04-03 18:30:00,Martin Atkinson,9,9,6,6,Premier League Round 31 2021/2022,4,86,80,80,82,79,74,75,76,1,2022,4,3,31
+457,457,Crystal Palace,Arsenal,3,0,2022-04-04 22:00:00,Paul Tierney,11,12,6,6,Premier League Round 31 2021/2022,3,77,74,76,76,83,77,81,79,1,2022,4,4,31
+458,458,Burnley,Everton,3,2,2022-04-06 21:30:00,Mike Dean,1,3,0,1,Premier League Round 19 2021/2022,1,76,77,76,76,79,79,78,79,1,2022,4,6,19
+459,459,Newcastle,Wolves,1,0,2022-04-08 22:00:00,Peter Bankes,6,9,6,6,Premier League Round 32 2021/2022,1,79,74,75,76,78,77,81,78,1,2022,4,8,32
+460,460,Everton,Man United,1,0,2022-04-09 14:30:00,Jonathan Moss,3,5,1,0,Premier League Round 32 2021/2022,1,79,79,78,79,85,83,84,84,1,2022,4,9,32
+461,461,Arsenal,Brighton,1,2,2022-04-09 17:00:00,David Coote,9,1,7,6,Premier League Round 32 2021/2022,-1,83,77,81,79,75,75,77,76,-1,2022,4,9,32
+462,462,Southampton,Chelsea,0,6,2022-04-09 17:00:00,Kevin Friend,1,9,6,6,Premier League Round 32 2021/2022,-6,76,73,77,76,84,81,86,83,-1,2022,4,9,32
+463,463,Watford,Leeds,0,3,2022-04-09 17:00:00,Andre Marriner,4,7,6,6,Premier League Round 32 2021/2022,-3,74,73,75,75,78,76,78,77,-1,2022,4,9,32
+464,464,Aston Villa,Tottenham,0,4,2022-04-09 19:30:00,Graham Scott,6,12,6,6,Premier League Round 32 2021/2022,-4,78,77,76,78,86,80,80,82,-1,2022,4,9,32
+465,465,Crystal Palace,Man City,0,0,2022-03-14 22:00:00,Martin Atkinson,10,10,7,9,Premier League Round 29 2021/2022,0,77,74,76,76,84,86,87,85,0,2022,3,14,29
+466,466,Brighton,Tottenham,0,2,2022-03-16 21:30:00,Robert Jones,0,6,6,6,Premier League Round 16 2021/2022,-2,75,75,77,76,86,80,80,82,-1,2022,3,16,16
+467,467,Arsenal,Liverpool,0,2,2022-03-16 22:15:00,Andre Marriner,15,12,6,6,Premier League Round 27 2021/2022,-2,83,77,81,79,86,85,83,84,-1,2022,3,16,27
+468,468,Everton,Newcastle,1,0,2022-03-17 21:45:00,Craig Pawson,3,10,6,6,Premier League Round 20 2021/2022,1,79,79,78,79,79,74,75,76,1,2022,3,17,20
+469,469,Wolves,Leeds,2,3,2022-03-18 22:00:00,Kevin Friend,6,3,5,5,Premier League Round 30 2021/2022,-1,78,77,81,78,78,76,78,77,-1,2022,3,18,30
+470,470,Aston Villa,Arsenal,0,1,2022-03-19 14:30:00,Andy Madley,9,12,6,6,Premier League Round 30 2021/2022,-1,78,77,76,78,83,77,81,79,-1,2022,3,19,30
+471,471,Leicester,Brentford,2,1,2022-03-20 16:00:00,Darren England,9,7,6,6,Premier League Round 30 2021/2022,1,82,79,81,80,73,73,74,73,1,2022,3,20,30
+472,472,Tottenham,West Ham,3,1,2022-03-20 18:30:00,Anthony Taylor,9,6,6,6,Premier League Round 30 2021/2022,2,86,80,80,82,79,79,79,79,1,2022,3,20,30
+473,473,Liverpool,Watford,2,0,2022-04-02 14:30:00,Stuart Attwell,12,4,6,6,Premier League Round 31 2021/2022,2,86,85,83,84,74,73,75,75,1,2022,4,2,31
+474,474,Brighton,Norwich,0,0,2022-04-02 17:00:00,Simon Hooper,0,0,6,6,Premier League Round 31 2021/2022,0,75,75,77,76,76,74,74,74,0,2022,4,2,31
+475,475,Burnley,Man City,0,2,2022-04-02 17:00:00,Craig Pawson,4,11,6,7,Premier League Round 31 2021/2022,-2,76,77,76,76,84,86,87,85,-1,2022,4,2,31
+476,476,Chelsea,Brentford,1,4,2022-04-02 17:00:00,Andy Madley,15,6,6,6,Premier League Round 31 2021/2022,-3,84,81,86,83,73,73,74,73,-1,2022,4,2,31
+477,477,Leeds,Southampton,1,1,2022-04-02 17:00:00,Anthony Taylor,6,3,6,6,Premier League Round 31 2021/2022,0,78,76,78,77,76,73,77,76,0,2022,4,2,31
+478,478,Wolves,Aston Villa,2,1,2022-04-02 17:00:00,Darren England,6,9,6,5,Premier League Round 31 2021/2022,1,78,77,81,78,78,77,76,78,1,2022,4,2,31
+479,479,Man United,Leicester,1,1,2022-04-02 19:30:00,Andre Marriner,5,9,0,1,Premier League Round 31 2021/2022,0,85,83,84,84,82,79,81,80,0,2022,4,2,31
+480,480,Tottenham,Everton,5,0,2022-03-07 22:00:00,Stuart Attwell,6,6,6,6,Premier League Round 28 2021/2022,5,86,80,80,82,79,79,78,79,1,2022,3,7,28
+481,481,Norwich,Chelsea,1,3,2022-03-10 21:30:00,Martin Atkinson,0,12,6,6,Premier League Round 30 2021/2022,-2,76,74,74,74,84,81,86,83,-1,2022,3,10,30
+482,482,Southampton,Newcastle,1,2,2022-03-10 21:30:00,Kevin Friend,10,13,6,6,Premier League Round 21 2021/2022,-1,76,73,77,76,79,74,75,76,-1,2022,3,10,21
+483,483,Wolves,Watford,4,0,2022-03-10 21:30:00,Darren England,6,4,6,6,Premier League Round 19 2021/2022,4,78,77,81,78,74,73,75,75,1,2022,3,10,19
+484,484,Leeds,Aston Villa,0,3,2022-03-10 21:45:00,Simon Hooper,0,7,6,6,Premier League Round 20 2021/2022,-3,78,76,78,77,78,77,76,78,-1,2022,3,10,20
+485,485,Brighton,Liverpool,0,2,2022-03-12 14:30:00,Mike Dean,3,12,6,6,Premier League Round 29 2021/2022,-2,75,75,77,76,86,85,83,84,-1,2022,3,12,29
+486,486,Brentford,Burnley,2,0,2022-03-12 17:00:00,Paul Tierney,4,7,6,8,Premier League Round 29 2021/2022,2,73,73,74,73,76,77,76,76,1,2022,3,12,29
+487,487,Man United,Tottenham,3,2,2022-03-12 19:30:00,Jonathan Moss,8,9,6,6,Premier League Round 29 2021/2022,1,85,83,84,84,86,80,80,82,1,2022,3,12,29
+488,488,Chelsea,Newcastle,1,0,2022-03-13 16:00:00,David Coote,12,13,6,6,Premier League Round 29 2021/2022,1,84,81,86,83,79,74,75,76,1,2022,3,13,29
+489,489,Everton,Wolves,0,1,2022-03-13 16:00:00,Michael Oliver,6,6,7,6,Premier League Round 29 2021/2022,-1,79,79,78,79,78,77,81,78,-1,2022,3,13,29
+490,490,Leeds,Norwich,2,1,2022-03-13 16:00:00,Stuart Attwell,0,0,6,6,Premier League Round 29 2021/2022,1,78,76,78,77,76,74,74,74,1,2022,3,13,29
+491,491,Southampton,Watford,1,2,2022-03-13 16:00:00,Graham Scott,9,4,6,6,Premier League Round 29 2021/2022,-1,76,73,77,76,74,73,75,75,-1,2022,3,13,29
+492,492,West Ham,Aston Villa,2,1,2022-03-13 16:00:00,Jarred Gillett,4,9,6,6,Premier League Round 29 2021/2022,1,79,79,79,79,78,77,76,78,1,2022,3,13,29
+493,493,Arsenal,Leicester,2,0,2022-03-13 18:30:00,Anthony Taylor,13,12,0,1,Premier League Round 29 2021/2022,2,83,77,81,79,82,79,81,80,1,2022,3,13,29
+494,494,West Ham,Wolves,1,0,2022-02-27 16:00:00,Anthony Taylor,8,6,7,6,Premier League Round 27 2021/2022,1,79,79,79,79,78,77,81,78,1,2022,2,27,27
+495,495,Burnley,Leicester,0,2,2022-03-01 21:45:00,Chris Kavanagh,8,7,0,1,Premier League Round 22 2021/2022,-2,76,77,76,76,82,79,81,80,-1,2022,3,1,22
+496,496,Leicester,Leeds,1,0,2022-03-05 14:30:00,David Coote,10,1,6,6,Premier League Round 28 2021/2022,1,82,79,81,80,78,76,78,77,1,2022,3,5,28
+497,497,Aston Villa,Southampton,4,0,2022-03-05 17:00:00,Peter Bankes,7,13,6,6,Premier League Round 28 2021/2022,4,78,77,76,78,76,73,77,76,1,2022,3,5,28
+498,498,Burnley,Chelsea,0,4,2022-03-05 17:00:00,Andre Marriner,7,12,7,6,Premier League Round 28 2021/2022,-4,76,77,76,76,84,81,86,83,-1,2022,3,5,28
+499,499,Newcastle,Brighton,2,1,2022-03-05 17:00:00,Martin Atkinson,13,3,6,6,Premier League Round 28 2021/2022,1,79,74,75,76,75,75,77,76,1,2022,3,5,28
+500,500,Norwich,Brentford,1,3,2022-03-05 17:00:00,Anthony Taylor,1,1,6,6,Premier League Round 28 2021/2022,-2,76,74,74,74,73,73,74,73,-1,2022,3,5,28
+501,501,Wolves,Crystal Palace,0,2,2022-03-05 17:00:00,Andy Madley,6,8,6,6,Premier League Round 28 2021/2022,-2,78,77,81,78,77,74,76,76,-1,2022,3,5,28
+502,502,Liverpool,West Ham,1,0,2022-03-05 19:30:00,Jonathan Moss,15,8,6,6,Premier League Round 28 2021/2022,1,86,85,83,84,79,79,79,79,1,2022,3,5,28
+503,503,Watford,Arsenal,2,3,2022-03-06 16:00:00,Craig Pawson,4,10,7,6,Premier League Round 28 2021/2022,-1,74,73,75,75,83,77,81,79,-1,2022,3,6,28
+504,504,Man City,Man United,4,1,2022-03-06 18:30:00,Michael Oliver,12,9,8,7,Premier League Round 28 2021/2022,3,84,86,87,85,85,83,84,84,1,2022,3,6,28
+505,505,Burnley,Tottenham,1,0,2022-02-23 21:30:00,Graham Scott,6,6,8,6,Premier League Round 13 2021/2022,1,76,77,76,76,86,80,80,82,1,2022,2,23,13
+506,506,Watford,Crystal Palace,1,4,2022-02-23 21:30:00,Andre Marriner,4,5,7,6,Premier League Round 18 2021/2022,-3,74,73,75,75,77,74,76,76,-1,2022,2,23,18
+507,507,Liverpool,Leeds,6,0,2022-02-23 21:45:00,Michael Oliver,15,4,6,6,Premier League Round 19 2021/2022,6,86,85,83,84,78,76,78,77,1,2022,2,23,19
+508,508,Arsenal,Wolves,2,1,2022-02-24 21:45:00,Martin Atkinson,8,9,6,6,Premier League Round 20 2021/2022,1,83,77,81,79,78,77,81,78,1,2022,2,24,20
+509,509,Southampton,Norwich,2,0,2022-02-25 22:00:00,Simon Hooper,11,7,6,6,Premier League Round 27 2021/2022,2,76,73,77,76,76,74,74,74,1,2022,2,25,27
+510,510,Leeds,Tottenham,0,4,2022-02-26 14:30:00,Craig Pawson,1,6,6,6,Premier League Round 27 2021/2022,-4,78,76,78,77,86,80,80,82,-1,2022,2,26,27
+511,511,Brentford,Newcastle,0,2,2022-02-26 17:00:00,Mike Dean,1,11,6,6,Premier League Round 27 2021/2022,-2,73,73,74,73,79,74,75,76,-1,2022,2,26,27
+512,512,Crystal Palace,Burnley,1,1,2022-02-26 17:00:00,Jonathan Moss,8,8,7,6,Premier League Round 27 2021/2022,0,77,74,76,76,76,77,76,76,0,2022,2,26,27
+513,513,Man United,Watford,0,0,2022-02-26 17:00:00,Kevin Friend,9,4,6,6,Premier League Round 27 2021/2022,0,85,83,84,84,74,73,75,75,0,2022,2,26,27
+514,514,Brighton,Aston Villa,0,2,2022-02-26 17:30:00,John Brooks,4,5,8,6,Premier League Round 27 2021/2022,-2,75,75,77,76,78,77,76,78,-1,2022,2,26,27
+515,515,Everton,Man City,0,1,2022-02-26 19:30:00,Paul Tierney,6,12,6,7,Premier League Round 27 2021/2022,-1,79,79,78,79,84,86,87,85,-1,2022,2,26,27
+516,516,Man United,Brighton,2,0,2022-02-15 22:15:00,Peter Bankes,8,6,6,6,Premier League Round 18 2021/2022,2,85,83,84,84,75,75,77,76,1,2022,2,15,18
+517,517,West Ham,Newcastle,1,1,2022-02-19 14:30:00,Chris Kavanagh,7,10,7,7,Premier League Round 26 2021/2022,0,79,79,79,79,79,74,75,76,0,2022,2,19,26
+518,518,Arsenal,Brentford,2,1,2022-02-19 17:00:00,Jonathan Moss,5,1,7,6,Premier League Round 26 2021/2022,1,83,77,81,79,73,73,74,73,1,2022,2,19,26
+519,519,Aston Villa,Watford,0,1,2022-02-19 17:00:00,Robert Jones,5,2,6,6,Premier League Round 26 2021/2022,-1,78,77,76,78,74,73,75,75,-1,2022,2,19,26
+520,520,Brighton,Burnley,0,3,2022-02-19 17:00:00,Kevin Friend,5,3,6,6,Premier League Round 26 2021/2022,-3,75,75,77,76,76,77,76,76,-1,2022,2,19,26
+521,521,Crystal Palace,Chelsea,0,1,2022-02-19 17:00:00,David Coote,6,13,6,6,Premier League Round 26 2021/2022,-1,77,74,76,76,84,81,86,83,-1,2022,2,19,26
+522,522,Liverpool,Norwich,3,1,2022-02-19 17:00:00,Mike Dean,15,10,6,6,Premier League Round 26 2021/2022,2,86,85,83,84,76,74,74,74,1,2022,2,19,26
+523,523,Southampton,Everton,2,0,2022-02-19 17:00:00,Andy Madley,8,6,6,6,Premier League Round 26 2021/2022,2,76,73,77,76,79,79,78,79,1,2022,2,19,26
+524,524,Man City,Tottenham,2,3,2022-02-19 19:30:00,Anthony Taylor,13,6,8,6,Premier League Round 26 2021/2022,-1,84,86,87,85,86,80,80,82,-1,2022,2,19,26
+525,525,Leeds,Man United,2,4,2022-02-20 16:00:00,Paul Tierney,4,8,6,6,Premier League Round 26 2021/2022,-2,78,76,78,77,85,83,84,84,-1,2022,2,20,26
+526,526,Wolves,Leicester,2,1,2022-02-20 18:30:00,Craig Pawson,9,5,0,1,Premier League Round 26 2021/2022,1,78,77,81,78,82,79,81,80,1,2022,2,20,26
+527,527,Liverpool,Leicester,2,0,2022-02-10 21:45:00,Chris Kavanagh,13,7,0,1,Premier League Round 24 2021/2022,2,86,85,83,84,82,79,81,80,1,2022,2,10,24
+528,528,Wolves,Arsenal,0,1,2022-02-10 21:45:00,Michael Oliver,12,2,6,6,Premier League Round 24 2021/2022,-1,78,77,81,78,83,77,81,79,-1,2022,2,10,24
+529,529,Man United,Southampton,1,1,2022-02-12 14:30:00,Stuart Attwell,8,10,7,6,Premier League Round 25 2021/2022,0,85,83,84,84,76,73,77,76,0,2022,2,12,25
+530,530,Brentford,Crystal Palace,0,0,2022-02-12 17:00:00,Simon Hooper,0,8,6,6,Premier League Round 25 2021/2022,0,73,73,74,73,77,74,76,76,0,2022,2,12,25
+531,531,Everton,Leeds,3,0,2022-02-12 17:00:00,Graham Scott,6,7,6,6,Premier League Round 25 2021/2022,3,79,79,78,79,78,76,78,77,1,2022,2,12,25
+532,532,Watford,Brighton,0,2,2022-02-12 17:00:00,Jonathan Moss,2,6,6,6,Premier League Round 25 2021/2022,-2,74,73,75,75,75,75,77,76,-1,2022,2,12,25
+533,533,Norwich,Man City,0,4,2022-02-12 19:30:00,Andre Marriner,10,13,6,6,Premier League Round 25 2021/2022,-4,76,74,74,74,84,86,87,85,-1,2022,2,12,25
+534,534,Burnley,Liverpool,0,1,2022-02-13 16:00:00,Martin Atkinson,3,15,7,6,Premier League Round 25 2021/2022,-1,76,77,76,76,86,85,83,84,-1,2022,2,13,25
+535,535,Newcastle,Aston Villa,1,0,2022-02-13 16:00:00,Craig Pawson,8,5,6,6,Premier League Round 25 2021/2022,1,79,74,75,76,78,77,76,78,1,2022,2,13,25
+536,536,Tottenham,Wolves,0,2,2022-02-13 16:00:00,Kevin Friend,6,9,6,6,Premier League Round 25 2021/2022,-2,86,80,80,82,78,77,81,78,-1,2022,2,13,25
+537,537,Leicester,West Ham,2,2,2022-02-13 18:30:00,Michael Oliver,4,9,1,0,Premier League Round 25 2021/2022,0,82,79,81,80,79,79,79,79,0,2022,2,13,25
+538,538,Arsenal,Burnley,0,0,2022-01-23 16:00:00,David Coote,4,1,8,8,Premier League Round 23 2021/2022,0,83,77,81,79,76,77,76,76,0,2022,1,23,23
+539,539,Crystal Palace,Liverpool,1,3,2022-01-23 16:00:00,Kevin Friend,7,11,6,6,Premier League Round 23 2021/2022,-2,77,74,76,76,86,85,83,84,-1,2022,1,23,23
+540,540,Leicester,Brighton,1,1,2022-01-23 16:00:00,Martin Atkinson,6,9,6,6,Premier League Round 23 2021/2022,0,82,79,81,80,75,75,77,76,0,2022,1,23,23
+541,541,Chelsea,Tottenham,2,0,2022-01-23 18:30:00,Paul Tierney,10,9,6,6,Premier League Round 23 2021/2022,2,84,81,86,83,86,80,80,82,1,2022,1,23,23
+542,542,Burnley,Watford,0,0,2022-02-05 20:00:00,Craig Pawson,2,1,8,7,Premier League Round 17 2021/2022,0,76,77,76,76,74,73,75,75,0,2022,2,5,17
+543,543,Newcastle,Everton,3,1,2022-02-08 21:45:00,Anthony Taylor,5,6,6,6,Premier League Round 24 2021/2022,2,79,74,75,76,79,79,78,79,1,2022,2,8,24
+544,544,West Ham,Watford,1,0,2022-02-08 21:45:00,Martin Atkinson,9,2,8,6,Premier League Round 24 2021/2022,1,79,79,79,79,74,73,75,75,1,2022,2,8,24
+545,545,Burnley,Man United,1,1,2022-02-08 22:00:00,Mike Dean,2,10,7,6,Premier League Round 24 2021/2022,0,76,77,76,76,85,83,84,84,0,2022,2,8,24
+546,546,Man City,Brentford,2,0,2022-02-09 21:45:00,Darren England,13,0,7,5,Premier League Round 24 2021/2022,2,84,86,87,85,73,73,74,73,1,2022,2,9,24
+547,547,Norwich,Crystal Palace,1,1,2022-02-09 21:45:00,Paul Tierney,12,7,6,6,Premier League Round 24 2021/2022,0,76,74,74,74,77,74,76,76,0,2022,2,9,24
+548,548,Tottenham,Southampton,2,3,2022-02-09 21:45:00,David Coote,9,10,6,6,Premier League Round 24 2021/2022,-1,86,80,80,82,76,73,77,76,-1,2022,2,9,24
+549,549,Aston Villa,Leeds,3,3,2022-02-09 22:00:00,Jarred Gillett,4,6,6,8,Premier League Round 24 2021/2022,0,78,77,76,78,78,76,78,77,0,2022,2,9,24
+550,550,Liverpool,Brentford,3,0,2022-01-16 16:00:00,Jonathan Moss,8,6,6,6,Premier League Round 22 2021/2022,3,86,85,83,84,73,73,74,73,1,2022,1,16,22
+551,551,West Ham,Leeds,2,3,2022-01-16 16:00:00,Mike Dean,12,3,6,6,Premier League Round 22 2021/2022,-1,79,79,79,79,78,76,78,77,-1,2022,1,16,22
+552,552,Brighton,Chelsea,1,1,2022-01-18 22:00:00,Kevin Friend,11,10,6,6,Premier League Round 24 2021/2022,0,75,75,77,76,84,81,86,83,0,2022,1,18,24
+553,553,Leicester,Tottenham,2,3,2022-01-19 21:30:00,Jonathan Moss,9,7,1,0,Premier League Round 17 2021/2022,-1,82,79,81,80,86,80,80,82,-1,2022,1,19,17
+554,554,Brentford,Man United,1,3,2022-01-19 22:00:00,Andre Marriner,6,8,6,6,Premier League Round 17 2021/2022,-2,73,73,74,73,85,83,84,84,-1,2022,1,19,17
+555,555,Watford,Norwich,0,3,2022-01-21 22:00:00,Mike Dean,1,6,6,6,Premier League Round 23 2021/2022,-3,74,73,75,75,76,74,74,74,-1,2022,1,21,23
+556,556,Everton,Aston Villa,0,1,2022-01-22 14:30:00,Craig Pawson,4,4,6,6,Premier League Round 23 2021/2022,-1,79,79,78,79,78,77,76,78,-1,2022,1,22,23
+557,557,Brentford,Wolves,1,2,2022-01-22 17:00:00,Peter Bankes,6,13,4,7,Premier League Round 23 2021/2022,-1,73,73,74,73,78,77,81,78,-1,2022,1,22,23
+558,558,Leeds,Newcastle,0,1,2022-01-22 17:00:00,Chris Kavanagh,6,2,7,6,Premier League Round 23 2021/2022,-1,78,76,78,77,79,74,75,76,-1,2022,1,22,23
+559,559,Man United,West Ham,1,0,2022-01-22 17:00:00,Jonathan Moss,10,12,6,8,Premier League Round 23 2021/2022,1,85,83,84,84,79,79,79,79,1,2022,1,22,23
+560,560,Southampton,Man City,1,1,2022-01-22 19:30:00,Simon Hooper,10,15,6,8,Premier League Round 23 2021/2022,0,76,73,77,76,84,86,87,85,0,2022,1,22,23
+561,561,Brentford,Aston Villa,2,1,2022-01-02 16:00:00,Craig Pawson,4,6,6,7,Premier League Round 21 2021/2022,1,73,73,74,73,78,77,76,78,1,2022,1,2,21
+562,562,Everton,Brighton,2,3,2022-01-02 16:00:00,John Brooks,4,6,7,6,Premier League Round 21 2021/2022,-1,79,79,78,79,75,75,77,76,-1,2022,1,2,21
+563,563,Leeds,Burnley,3,1,2022-01-02 16:00:00,Paul Tierney,4,3,7,6,Premier League Round 21 2021/2022,2,78,76,78,77,76,77,76,76,1,2022,1,2,21
+564,564,Chelsea,Liverpool,2,2,2022-01-02 18:30:00,Anthony Taylor,9,10,7,6,Premier League Round 21 2021/2022,0,84,81,86,83,86,85,83,84,0,2022,1,2,21
+565,565,Man United,Wolves,0,1,2022-01-03 19:30:00,Mike Dean,11,5,6,6,Premier League Round 21 2021/2022,-1,85,83,84,84,78,77,81,78,-1,2022,1,3,21
+566,566,Southampton,Brentford,4,1,2022-01-11 21:45:00,Stuart Attwell,8,6,6,6,Premier League Round 18 2021/2022,3,76,73,77,76,73,73,74,73,1,2022,1,11,18
+567,567,West Ham,Norwich,2,0,2022-01-12 21:45:00,Simon Hooper,9,3,7,6,Premier League Round 18 2021/2022,2,79,79,79,79,76,74,74,74,1,2022,1,12,18
+568,568,Brighton,Crystal Palace,1,1,2022-01-14 22:00:00,Robert Jones,10,7,6,6,Premier League Round 22 2021/2022,0,75,75,77,76,77,74,76,76,0,2022,1,14,22
+569,569,Man City,Chelsea,1,0,2022-01-15 14:30:00,Craig Pawson,15,11,7,6,Premier League Round 22 2021/2022,1,84,86,87,85,84,81,86,83,1,2022,1,15,22
+570,570,Newcastle,Watford,1,1,2022-01-15 17:00:00,Paul Tierney,1,0,7,6,Premier League Round 22 2021/2022,0,79,74,75,76,74,73,75,75,0,2022,1,15,22
+571,571,Norwich,Everton,2,1,2022-01-15 17:00:00,Andy Madley,3,7,6,7,Premier League Round 22 2021/2022,1,76,74,74,74,79,79,78,79,1,2022,1,15,22
+572,572,Wolves,Southampton,3,1,2022-01-15 17:00:00,Michael Salisbury,10,11,6,6,Premier League Round 22 2021/2022,2,78,77,81,78,76,73,77,76,1,2022,1,15,22
+573,573,Aston Villa,Man United,2,2,2022-01-15 19:30:00,David Coote,3,10,6,5,Premier League Round 22 2021/2022,0,78,77,76,78,85,83,84,84,0,2022,1,15,22
+574,574,Newcastle,Man United,1,1,2021-12-27 22:00:00,Craig Pawson,4,11,5,6,Premier League Round 19 2021/2022,0,79,74,75,76,85,83,84,84,0,2021,12,27,19
+575,575,Crystal Palace,Norwich,3,0,2021-12-28 17:00:00,Paul Tierney,4,1,5,5,Premier League Round 20 2021/2022,3,77,74,76,76,76,74,74,74,1,2021,12,28,20
+576,576,Southampton,Tottenham,1,1,2021-12-28 17:00:00,Anthony Taylor,6,10,7,6,Premier League Round 20 2021/2022,0,76,73,77,76,86,80,80,82,0,2021,12,28,20
+577,577,Watford,West Ham,1,4,2021-12-28 17:00:00,Darren England,3,1,5,6,Premier League Round 20 2021/2022,-3,74,73,75,75,79,79,79,79,-1,2021,12,28,20
+578,578,Leicester,Liverpool,1,0,2021-12-28 22:00:00,Michael Oliver,3,13,1,0,Premier League Round 20 2021/2022,1,82,79,81,80,86,85,83,84,1,2021,12,28,20
+579,579,Chelsea,Brighton,1,1,2021-12-29 21:30:00,Mike Dean,11,6,6,6,Premier League Round 20 2021/2022,0,84,81,86,83,75,75,77,76,0,2021,12,29,20
+580,580,Brentford,Man City,0,1,2021-12-29 22:15:00,David Coote,4,12,4,8,Premier League Round 20 2021/2022,-1,73,73,74,73,84,86,87,85,-1,2021,12,29,20
+581,581,Man United,Burnley,3,1,2021-12-30 22:15:00,Jonathan Moss,11,4,6,4,Premier League Round 20 2021/2022,2,85,83,84,84,76,77,76,76,1,2021,12,30,20
+582,582,Arsenal,Man City,1,2,2022-01-01 14:30:00,Stuart Attwell,15,15,6,8,Premier League Round 21 2021/2022,-1,83,77,81,79,84,86,87,85,-1,2022,1,1,21
+583,583,Watford,Tottenham,0,1,2022-01-01 17:00:00,Robert Jones,0,8,6,6,Premier League Round 21 2021/2022,-1,74,73,75,75,86,80,80,82,-1,2022,1,1,21
+584,584,Crystal Palace,West Ham,2,3,2022-01-01 19:30:00,Darren England,7,4,5,6,Premier League Round 21 2021/2022,-1,77,74,76,76,79,79,79,79,-1,2022,1,1,21
+585,585,Leeds,Arsenal,1,4,2021-12-18 19:30:00,Andre Marriner,5,9,6,6,Premier League Round 18 2021/2022,-3,78,76,78,77,83,77,81,79,-1,2021,12,18,18
+586,586,Newcastle,Man City,0,4,2021-12-19 16:00:00,Martin Atkinson,4,12,6,6,Premier League Round 18 2021/2022,-4,79,74,75,76,84,86,87,85,-1,2021,12,19,18
+587,587,Wolves,Chelsea,0,0,2021-12-19 16:00:00,David Coote,5,8,6,4,Premier League Round 18 2021/2022,0,78,77,81,78,84,81,86,83,0,2021,12,19,18
+588,588,Tottenham,Liverpool,2,2,2021-12-19 18:30:00,Paul Tierney,9,15,6,6,Premier League Round 18 2021/2022,0,86,80,80,82,86,85,83,84,0,2021,12,19,18
+589,589,Man City,Leicester,6,3,2021-12-26 17:00:00,Chris Kavanagh,12,4,0,1,Premier League Round 19 2021/2022,3,84,86,87,85,82,79,81,80,1,2021,12,26,19
+590,590,Norwich,Arsenal,0,5,2021-12-26 17:00:00,Graham Scott,2,12,5,6,Premier League Round 19 2021/2022,-5,76,74,74,74,83,77,81,79,-1,2021,12,26,19
+591,591,Tottenham,Crystal Palace,3,0,2021-12-26 17:00:00,Jonathan Moss,10,4,6,4,Premier League Round 19 2021/2022,3,86,80,80,82,77,74,76,76,1,2021,12,26,19
+592,592,West Ham,Southampton,2,3,2021-12-26 17:00:00,Kevin Friend,4,3,6,6,Premier League Round 19 2021/2022,-1,79,79,79,79,76,73,77,76,-1,2021,12,26,19
+593,593,Aston Villa,Chelsea,1,3,2021-12-26 19:30:00,Martin Atkinson,9,9,6,6,Premier League Round 19 2021/2022,-2,78,77,76,78,84,81,86,83,-1,2021,12,26,19
+594,594,Brighton,Brentford,2,0,2021-12-26 22:00:00,Darren England,3,7,6,5,Premier League Round 19 2021/2022,2,75,75,77,76,73,73,74,73,1,2021,12,26,19
+595,595,Burnley,West Ham,0,0,2021-12-12 16:00:00,Graham Scott,6,7,6,7,Premier League Round 16 2021/2022,0,76,77,76,76,79,79,79,79,0,2021,12,12,16
+596,596,Leicester,Newcastle,4,0,2021-12-12 16:00:00,Peter Bankes,7,6,6,6,Premier League Round 16 2021/2022,4,82,79,81,80,79,74,75,76,1,2021,12,12,16
+597,597,Crystal Palace,Everton,3,1,2021-12-12 18:30:00,Andrew Madley,4,4,6,7,Premier League Round 16 2021/2022,2,77,74,76,76,79,79,78,79,1,2021,12,12,16
+598,598,Norwich,Aston Villa,0,2,2021-12-14 21:45:00,David Coote,5,9,6,6,Premier League Round 17 2021/2022,-2,76,74,74,74,78,77,76,78,-1,2021,12,14,17
+599,599,Man City,Leeds,7,0,2021-12-14 22:00:00,Paul Tierney,12,5,6,6,Premier League Round 17 2021/2022,7,84,86,87,85,78,76,78,77,1,2021,12,14,17
+600,600,Brighton,Wolves,0,1,2021-12-15 21:30:00,Tony Harrington,4,5,6,5,Premier League Round 17 2021/2022,-1,75,75,77,76,78,77,81,78,-1,2021,12,15,17
+601,601,Crystal Palace,Southampton,2,2,2021-12-15 21:30:00,Simon Hooper,4,2,6,6,Premier League Round 17 2021/2022,0,77,74,76,76,76,73,77,76,0,2021,12,15,17
+602,602,Arsenal,West Ham,2,0,2021-12-15 22:00:00,Anthony Taylor,6,5,6,7,Premier League Round 17 2021/2022,2,83,77,81,79,79,79,79,79,1,2021,12,15,17
+603,603,Chelsea,Everton,1,1,2021-12-16 21:45:00,Michael Oliver,8,3,5,4,Premier League Round 17 2021/2022,0,84,81,86,83,79,79,78,79,0,2021,12,16,17
+604,604,Liverpool,Newcastle,3,1,2021-12-16 22:00:00,Mike Dean,15,5,6,6,Premier League Round 17 2021/2022,2,86,85,83,84,79,74,75,76,1,2021,12,16,17
+605,605,Leeds,Brentford,2,2,2021-12-05 16:00:00,David Coote,8,4,6,6,Premier League Round 15 2021/2022,0,78,76,78,77,73,73,74,73,0,2021,12,5,15
+606,606,Man United,Crystal Palace,1,0,2021-12-05 16:00:00,Craig Pawson,7,7,6,6,Premier League Round 15 2021/2022,1,85,83,84,84,77,74,76,76,1,2021,12,5,15
+607,607,Tottenham,Norwich,3,0,2021-12-05 16:00:00,Jarred Gillett,10,8,6,6,Premier League Round 15 2021/2022,3,86,80,80,82,76,74,74,74,1,2021,12,5,15
+608,608,Aston Villa,Leicester,2,1,2021-12-05 18:30:00,Michael Oliver,6,8,6,6,Premier League Round 15 2021/2022,1,78,77,76,78,82,79,81,80,1,2021,12,5,15
+609,609,Everton,Arsenal,2,1,2021-12-06 22:00:00,Mike Dean,1,9,6,6,Premier League Round 15 2021/2022,1,79,79,78,79,83,77,81,79,1,2021,12,6,15
+610,610,Brentford,Watford,2,1,2021-12-10 22:00:00,Michael Oliver,5,3,6,6,Premier League Round 16 2021/2022,1,73,73,74,73,74,73,75,75,1,2021,12,10,16
+611,611,Man City,Wolves,1,0,2021-12-11 14:30:00,Jonathan Moss,12,5,7,6,Premier League Round 16 2021/2022,1,84,86,87,85,78,77,81,78,1,2021,12,11,16
+612,612,Arsenal,Southampton,3,0,2021-12-11 17:00:00,Jarred Gillett,6,5,6,7,Premier League Round 16 2021/2022,3,83,77,81,79,76,73,77,76,1,2021,12,11,16
+613,613,Chelsea,Leeds,3,2,2021-12-11 17:00:00,Chris Kavanagh,8,6,6,6,Premier League Round 16 2021/2022,1,84,81,86,83,78,76,78,77,1,2021,12,11,16
+614,614,Liverpool,Aston Villa,1,0,2021-12-11 17:00:00,Stuart Attwell,15,9,6,6,Premier League Round 16 2021/2022,1,86,85,83,84,78,77,76,78,1,2021,12,11,16
+615,615,Norwich,Man United,0,1,2021-12-11 19:30:00,Darren England,8,11,6,6,Premier League Round 16 2021/2022,-1,76,74,74,74,85,83,84,84,-1,2021,12,11,16
+616,616,Southampton,Leicester,2,2,2021-12-01 21:30:00,Robert Jones,6,8,6,6,Premier League Round 14 2021/2022,0,76,73,77,76,82,79,81,80,0,2021,12,1,14
+617,617,Watford,Chelsea,1,2,2021-12-01 21:30:00,David Coote,6,11,6,6,Premier League Round 14 2021/2022,-1,74,73,75,75,84,81,86,83,-1,2021,12,1,14
+618,618,West Ham,Brighton,1,1,2021-12-01 21:30:00,Chris Kavanagh,7,3,7,6,Premier League Round 14 2021/2022,0,79,79,79,79,75,75,77,76,0,2021,12,1,14
+619,619,Wolves,Burnley,0,0,2021-12-01 21:30:00,John Brooks,8,6,7,6,Premier League Round 14 2021/2022,0,78,77,81,78,76,77,76,76,0,2021,12,1,14
+620,620,Aston Villa,Man City,1,2,2021-12-01 22:15:00,Mike Dean,6,15,6,8,Premier League Round 14 2021/2022,-1,78,77,76,78,84,86,87,85,-1,2021,12,1,14
+621,621,Everton,Liverpool,1,4,2021-12-01 22:15:00,Paul Tierney,1,12,6,6,Premier League Round 14 2021/2022,-3,79,79,78,79,86,85,83,84,-1,2021,12,1,14
+622,622,Tottenham,Brentford,2,0,2021-12-02 21:30:00,Jonathan Moss,7,7,6,6,Premier League Round 14 2021/2022,2,86,80,80,82,73,73,74,73,1,2021,12,2,14
+623,623,Man United,Arsenal,3,2,2021-12-02 22:15:00,Martin Atkinson,5,12,6,6,Premier League Round 14 2021/2022,1,85,83,84,84,83,77,81,79,1,2021,12,2,14
+624,624,West Ham,Chelsea,3,2,2021-12-04 14:30:00,Andre Marriner,7,11,6,6,Premier League Round 15 2021/2022,1,79,79,79,79,84,81,86,83,1,2021,12,4,15
+625,625,Newcastle,Burnley,1,0,2021-12-04 17:00:00,Paul Tierney,3,6,7,6,Premier League Round 15 2021/2022,1,79,74,75,76,76,77,76,76,1,2021,12,4,15
+626,626,Southampton,Brighton,1,1,2021-12-04 17:00:00,Anthony Taylor,7,4,7,6,Premier League Round 15 2021/2022,0,76,73,77,76,75,75,77,76,0,2021,12,4,15
+627,627,Wolves,Liverpool,0,1,2021-12-04 17:00:00,Chris Kavanagh,8,12,6,6,Premier League Round 15 2021/2022,-1,78,77,81,78,86,85,83,84,-1,2021,12,4,15
+628,628,Watford,Man City,1,3,2021-12-04 19:30:00,Simon Hooper,3,15,6,6,Premier League Round 15 2021/2022,-2,74,73,75,75,84,86,87,85,-1,2021,12,4,15
+629,629,Arsenal,Newcastle,2,0,2021-11-27 14:30:00,Stuart Attwell,12,3,6,6,Premier League Round 13 2021/2022,2,83,77,81,79,79,74,75,76,1,2021,11,27,13
+630,630,Crystal Palace,Aston Villa,1,2,2021-11-27 17:00:00,Michael Salisbury,9,3,6,6,Premier League Round 13 2021/2022,-1,77,74,76,76,78,77,76,78,-1,2021,11,27,13
+631,631,Liverpool,Southampton,4,0,2021-11-27 17:00:00,Andre Marriner,10,7,6,6,Premier League Round 13 2021/2022,4,86,85,83,84,76,73,77,76,1,2021,11,27,13
+632,632,Norwich,Wolves,0,0,2021-11-27 17:00:00,Simon Hooper,7,10,6,5,Premier League Round 13 2021/2022,0,76,74,74,74,78,77,81,78,0,2021,11,27,13
+633,633,Brighton,Leeds,0,0,2021-11-27 19:30:00,Craig Pawson,2,5,6,6,Premier League Round 13 2021/2022,0,75,75,77,76,78,76,78,77,0,2021,11,27,13
+634,634,Brentford,Everton,1,0,2021-11-28 16:00:00,Darren England,4,1,6,8,Premier League Round 13 2021/2022,1,73,73,74,73,79,79,78,79,1,2021,11,28,13
+635,635,Leicester,Watford,4,2,2021-11-28 16:00:00,Andrew Madley,5,6,7,6,Premier League Round 13 2021/2022,2,82,79,81,80,74,73,75,75,1,2021,11,28,13
+636,636,Man City,West Ham,2,1,2021-11-28 16:00:00,Michael Oliver,12,10,7,6,Premier League Round 13 2021/2022,1,84,86,87,85,79,79,79,79,1,2021,11,28,13
+637,637,Chelsea,Man United,1,1,2021-11-28 18:30:00,Anthony Taylor,13,7,6,6,Premier League Round 13 2021/2022,0,84,81,86,83,85,83,84,84,0,2021,11,28,13
+638,638,Newcastle,Norwich,1,1,2021-11-30 21:30:00,Andrew Madley,3,7,6,6,Premier League Round 14 2021/2022,0,79,74,75,76,76,74,74,74,0,2021,11,30,14
+639,639,Leeds,Crystal Palace,1,0,2021-11-30 22:15:00,Kevin Friend,5,8,6,6,Premier League Round 14 2021/2022,1,78,76,78,77,77,74,76,76,1,2021,11,30,14
+640,640,Leicester,Chelsea,0,3,2021-11-20 14:30:00,Paul Tierney,8,13,6,6,Premier League Round 12 2021/2022,-3,82,79,81,80,84,81,86,83,-1,2021,11,20,12
+641,641,Aston Villa,Brighton,2,0,2021-11-20 17:00:00,Anthony Taylor,0,3,6,6,Premier League Round 12 2021/2022,2,78,77,76,78,75,75,77,76,1,2021,11,20,12
+642,642,Burnley,Crystal Palace,3,3,2021-11-20 17:00:00,Simon Hooper,5,9,7,6,Premier League Round 12 2021/2022,0,76,77,76,76,77,74,76,76,0,2021,11,20,12
+643,643,Newcastle,Brentford,3,3,2021-11-20 17:00:00,Robert Jones,2,3,7,6,Premier League Round 12 2021/2022,0,79,74,75,76,73,73,74,73,0,2021,11,20,12
+644,644,Norwich,Southampton,2,1,2021-11-20 17:00:00,Martin Atkinson,5,10,6,6,Premier League Round 12 2021/2022,1,76,74,74,74,76,73,77,76,1,2021,11,20,12
+645,645,Watford,Man United,4,1,2021-11-20 17:00:00,Jonathan Moss,3,7,6,5,Premier League Round 12 2021/2022,3,74,73,75,75,85,83,84,84,1,2021,11,20,12
+646,646,Wolves,West Ham,1,0,2021-11-20 17:00:00,Mike Dean,10,13,7,6,Premier League Round 12 2021/2022,1,78,77,81,78,79,79,79,79,1,2021,11,20,12
+647,647,Liverpool,Arsenal,4,0,2021-11-20 19:30:00,Michael Oliver,10,13,6,6,Premier League Round 12 2021/2022,4,86,85,83,84,83,77,81,79,1,2021,11,20,12
+648,648,Man City,Everton,3,0,2021-11-21 16:00:00,Stuart Attwell,9,2,6,6,Premier League Round 12 2021/2022,3,84,86,87,85,79,79,78,79,1,2021,11,21,12
+649,649,Tottenham,Leeds,2,1,2021-11-21 18:30:00,Andre Marriner,7,5,6,6,Premier League Round 12 2021/2022,1,86,80,80,82,78,76,78,77,1,2021,11,21,12
+650,650,Southampton,Aston Villa,1,0,2021-11-05 22:00:00,Andrew Madley,7,3,6,6,Premier League Round 11 2021/2022,1,76,73,77,76,78,77,76,78,1,2021,11,5,11
+651,651,Man United,Man City,0,2,2021-11-06 14:30:00,Michael Oliver,7,9,5,9,Premier League Round 11 2021/2022,-2,85,83,84,84,84,86,87,85,-1,2021,11,6,11
+652,652,Brentford,Norwich,1,2,2021-11-06 17:00:00,Jarred Gillett,6,2,6,6,Premier League Round 11 2021/2022,-1,73,73,74,73,76,74,74,74,-1,2021,11,6,11
+653,653,Chelsea,Burnley,1,1,2021-11-06 17:00:00,Andre Marriner,15,5,6,6,Premier League Round 11 2021/2022,0,84,81,86,83,76,77,76,76,0,2021,11,6,11
+654,654,Crystal Palace,Wolves,2,0,2021-11-06 17:00:00,Graham Scott,7,13,6,6,Premier League Round 11 2021/2022,2,77,74,76,76,78,77,81,78,1,2021,11,6,11
+655,655,Brighton,Newcastle,1,1,2021-11-06 19:30:00,David Coote,3,2,6,7,Premier League Round 11 2021/2022,0,75,75,77,76,79,74,75,76,0,2021,11,6,11
+656,656,Arsenal,Watford,1,0,2021-11-07 16:00:00,Kevin Friend,11,4,6,6,Premier League Round 11 2021/2022,1,83,77,81,79,74,73,75,75,1,2021,11,7,11
+657,657,Everton,Tottenham,0,0,2021-11-07 16:00:00,Chris Kavanagh,4,6,6,6,Premier League Round 11 2021/2022,0,79,79,78,79,86,80,80,82,0,2021,11,7,11
+658,658,Leeds,Leicester,1,1,2021-11-07 16:00:00,Darren England,7,10,7,6,Premier League Round 11 2021/2022,0,78,76,78,77,82,79,81,80,0,2021,11,7,11
+659,659,West Ham,Liverpool,3,2,2021-11-07 18:30:00,Craig Pawson,13,13,6,6,Premier League Round 11 2021/2022,1,79,79,79,79,86,85,83,84,1,2021,11,7,11
+660,660,Leicester,Arsenal,0,2,2021-10-30 14:30:00,Michael Oliver,13,11,6,6,Premier League Round 10 2021/2022,-2,82,79,81,80,83,77,81,79,-1,2021,10,30,10
+661,661,Burnley,Brentford,3,1,2021-10-30 17:00:00,Jonathan Moss,3,7,8,6,Premier League Round 10 2021/2022,2,76,77,76,76,73,73,74,73,1,2021,10,30,10
+662,662,Liverpool,Brighton,2,2,2021-10-30 17:00:00,Mike Dean,13,3,6,6,Premier League Round 10 2021/2022,0,86,85,83,84,75,75,77,76,0,2021,10,30,10
+663,663,Man City,Crystal Palace,0,2,2021-10-30 17:00:00,Andre Marriner,10,4,6,6,Premier League Round 10 2021/2022,-2,84,86,87,85,77,74,76,76,-1,2021,10,30,10
+664,664,Newcastle,Chelsea,0,3,2021-10-30 17:00:00,Paul Tierney,3,15,6,6,Premier League Round 10 2021/2022,-3,79,74,75,76,84,81,86,83,-1,2021,10,30,10
+665,665,Watford,Southampton,0,1,2021-10-30 17:00:00,Peter Bankes,4,4,6,6,Premier League Round 10 2021/2022,-1,74,73,75,75,76,73,77,76,-1,2021,10,30,10
+666,666,Tottenham,Man United,0,3,2021-10-30 19:30:00,Stuart Attwell,9,7,6,6,Premier League Round 10 2021/2022,-3,86,80,80,82,85,83,84,84,-1,2021,10,30,10
+667,667,Norwich,Leeds,1,2,2021-10-31 16:00:00,Anthony Taylor,2,4,6,6,Premier League Round 10 2021/2022,-1,76,74,74,74,78,76,78,77,-1,2021,10,31,10
+668,668,Aston Villa,West Ham,1,4,2021-10-31 18:30:00,Chris Kavanagh,3,12,6,6,Premier League Round 10 2021/2022,-3,78,77,76,78,79,79,79,79,-1,2021,10,31,10
+669,669,Wolves,Everton,2,1,2021-11-01 22:00:00,Martin Atkinson,10,7,6,6,Premier League Round 10 2021/2022,1,78,77,81,78,79,79,78,79,1,2021,11,1,10
+670,670,Arsenal,Aston Villa,3,1,2021-10-22 22:00:00,Craig Pawson,11,6,6,6,Premier League Round 9 2021/2022,2,83,77,81,79,78,77,76,78,1,2021,10,22,9
+671,671,Chelsea,Norwich,7,0,2021-10-23 14:30:00,Andrew Madley,9,2,6,6,Premier League Round 9 2021/2022,7,84,81,86,83,76,74,74,74,1,2021,10,23,9
+672,672,Crystal Palace,Newcastle,1,1,2021-10-23 17:00:00,Darren England,6,2,6,6,Premier League Round 9 2021/2022,0,77,74,76,76,79,74,75,76,0,2021,10,23,9
+673,673,Everton,Watford,2,5,2021-10-23 17:00:00,Graham Scott,7,4,6,6,Premier League Round 9 2021/2022,-3,79,79,78,79,74,73,75,75,-1,2021,10,23,9
+674,674,Leeds,Wolves,1,1,2021-10-23 17:00:00,Robert Jones,7,9,6,6,Premier League Round 9 2021/2022,0,78,76,78,77,78,77,81,78,0,2021,10,23,9
+675,675,Southampton,Burnley,2,2,2021-10-23 17:00:00,Chris Kavanagh,7,5,6,6,Premier League Round 9 2021/2022,0,76,73,77,76,76,77,76,76,0,2021,10,23,9
+676,676,Brighton,Man City,1,4,2021-10-23 19:30:00,Kevin Friend,9,10,6,6,Premier League Round 9 2021/2022,-3,75,75,77,76,84,86,87,85,-1,2021,10,23,9
+677,677,Brentford,Leicester,1,2,2021-10-24 16:00:00,Simon Hooper,10,8,6,6,Premier League Round 9 2021/2022,-1,73,73,74,73,82,79,81,80,-1,2021,10,24,9
+678,678,West Ham,Tottenham,1,0,2021-10-24 16:00:00,Paul Tierney,12,9,7,6,Premier League Round 9 2021/2022,1,79,79,79,79,86,80,80,82,1,2021,10,24,9
+679,679,Man United,Liverpool,0,5,2021-10-24 18:30:00,Anthony Taylor,7,11,6,6,Premier League Round 9 2021/2022,-5,85,83,84,84,86,85,83,84,-1,2021,10,24,9
+680,680,Watford,Liverpool,0,5,2021-10-16 14:30:00,Jonathan Moss,4,11,6,6,Premier League Round 8 2021/2022,-5,74,73,75,75,86,85,83,84,-1,2021,10,16,8
+681,681,Aston Villa,Wolves,2,3,2021-10-16 17:00:00,Michael Oliver,6,9,6,6,Premier League Round 8 2021/2022,-1,78,77,76,78,78,77,81,78,-1,2021,10,16,8
+682,682,Leicester,Man United,4,2,2021-10-16 17:00:00,Craig Pawson,5,7,6,6,Premier League Round 8 2021/2022,2,82,79,81,80,85,83,84,84,1,2021,10,16,8
+683,683,Man City,Burnley,2,0,2021-10-16 17:00:00,Martin Atkinson,8,5,6,6,Premier League Round 8 2021/2022,2,84,86,87,85,76,77,76,76,1,2021,10,16,8
+684,684,Norwich,Brighton,0,0,2021-10-16 17:00:00,Peter Bankes,1,11,6,6,Premier League Round 8 2021/2022,0,76,74,74,74,75,75,77,76,0,2021,10,16,8
+685,685,Southampton,Leeds,1,0,2021-10-16 17:00:00,David Coote,5,7,6,6,Premier League Round 8 2021/2022,1,76,73,77,76,78,76,78,77,1,2021,10,16,8
+686,686,Brentford,Chelsea,0,1,2021-10-16 19:30:00,Anthony Taylor,10,9,7,6,Premier League Round 8 2021/2022,-1,73,73,74,73,84,81,86,83,-1,2021,10,16,8
+687,687,Everton,West Ham,0,1,2021-10-17 16:00:00,Stuart Attwell,10,9,8,6,Premier League Round 8 2021/2022,-1,79,79,78,79,79,79,79,79,-1,2021,10,17,8
+688,688,Newcastle,Tottenham,2,3,2021-10-17 18:30:00,Andre Marriner,3,9,6,9,Premier League Round 8 2021/2022,-1,79,74,75,76,86,80,80,82,-1,2021,10,17,8
+689,689,Arsenal,Crystal Palace,2,2,2021-10-18 22:00:00,Mike Dean,13,6,6,6,Premier League Round 8 2021/2022,0,83,77,81,79,77,74,76,76,0,2021,10,18,8
+690,690,Man United,Everton,1,1,2021-10-02 14:30:00,Michael Oliver,6,12,6,7,Premier League Round 7 2021/2022,0,85,83,84,84,79,79,78,79,0,2021,10,2,7
+691,691,Burnley,Norwich,0,0,2021-10-02 17:00:00,Kevin Friend,5,0,6,6,Premier League Round 7 2021/2022,0,76,77,76,76,76,74,74,74,0,2021,10,2,7
+692,692,Chelsea,Southampton,3,1,2021-10-02 17:00:00,Martin Atkinson,9,6,6,6,Premier League Round 7 2021/2022,2,84,81,86,83,76,73,77,76,1,2021,10,2,7
+693,693,Leeds,Watford,1,0,2021-10-02 17:00:00,Simon Hooper,5,4,7,6,Premier League Round 7 2021/2022,1,78,76,78,77,74,73,75,75,1,2021,10,2,7
+694,694,Wolves,Newcastle,2,1,2021-10-02 17:00:00,Graham Scott,6,3,7,6,Premier League Round 7 2021/2022,1,78,77,81,78,79,74,75,76,1,2021,10,2,7
+695,695,Brighton,Arsenal,0,0,2021-10-02 19:30:00,Jonathan Moss,10,12,7,6,Premier League Round 7 2021/2022,0,75,75,77,76,83,77,81,79,0,2021,10,2,7
+696,696,Crystal Palace,Leicester,2,2,2021-10-03 16:00:00,Anthony Taylor,5,5,6,6,Premier League Round 7 2021/2022,0,77,74,76,76,82,79,81,80,0,2021,10,3,7
+697,697,Tottenham,Aston Villa,2,1,2021-10-03 16:00:00,Chris Kavanagh,7,7,7,6,Premier League Round 7 2021/2022,1,86,80,80,82,78,77,76,78,1,2021,10,3,7
+698,698,West Ham,Brentford,1,2,2021-10-03 16:00:00,Peter Bankes,12,8,9,5,Premier League Round 7 2021/2022,-1,79,79,79,79,73,73,74,73,-1,2021,10,3,7
+699,699,Liverpool,Man City,2,2,2021-10-03 18:30:00,Paul Tierney,13,10,7,8,Premier League Round 7 2021/2022,0,86,85,83,84,84,86,87,85,0,2021,10,3,7
+700,700,Chelsea,Man City,0,1,2021-09-25 14:30:00,Michael Oliver,13,13,6,6,Premier League Round 6 2021/2022,-1,84,81,86,83,84,86,87,85,-1,2021,9,25,6
+701,701,Man United,Aston Villa,0,1,2021-09-25 14:30:00,Mike Dean,9,7,6,7,Premier League Round 6 2021/2022,-1,85,83,84,84,78,77,76,78,-1,2021,9,25,6
+702,702,Everton,Norwich,2,0,2021-09-25 17:00:00,David Coote,12,3,6,6,Premier League Round 6 2021/2022,2,79,79,78,79,76,74,74,74,1,2021,9,25,6
+703,703,Leeds,West Ham,1,2,2021-09-25 17:00:00,Kevin Friend,8,8,6,6,Premier League Round 6 2021/2022,-1,78,76,78,77,79,79,79,79,-1,2021,9,25,6
+704,704,Leicester,Burnley,2,2,2021-09-25 17:00:00,Chris Kavanagh,7,7,6,6,Premier League Round 6 2021/2022,0,82,79,81,80,76,77,76,76,0,2021,9,25,6
+705,705,Watford,Newcastle,1,1,2021-09-25 17:00:00,Jarred Gillett,6,2,5,7,Premier League Round 6 2021/2022,0,74,73,75,75,79,74,75,76,0,2021,9,25,6
+706,706,Brentford,Liverpool,3,3,2021-09-25 19:30:00,Stuart Attwell,10,13,6,8,Premier League Round 6 2021/2022,0,73,73,74,73,86,85,83,84,0,2021,9,25,6
+707,707,Southampton,Wolves,0,1,2021-09-26 16:00:00,Andrew Madley,9,6,6,6,Premier League Round 6 2021/2022,-1,76,73,77,76,78,77,81,78,-1,2021,9,26,6
+708,708,Arsenal,Tottenham,3,1,2021-09-26 18:30:00,Craig Pawson,12,7,6,6,Premier League Round 6 2021/2022,2,83,77,81,79,86,80,80,82,1,2021,9,26,6
+709,709,Crystal Palace,Brighton,1,1,2021-09-27 22:00:00,Andre Marriner,5,12,6,6,Premier League Round 6 2021/2022,0,77,74,76,76,75,75,77,76,0,2021,9,27,6
+710,710,Newcastle,Leeds,1,1,2021-09-17 22:00:00,Mike Dean,1,5,6,6,Premier League Round 5 2021/2022,0,79,74,75,76,78,76,78,77,0,2021,9,17,5
+711,711,Wolves,Brentford,0,2,2021-09-18 14:30:00,Darren England,6,8,6,6,Premier League Round 5 2021/2022,-2,78,77,81,78,73,73,74,73,-1,2021,9,18,5
+712,712,Burnley,Arsenal,0,1,2021-09-18 17:00:00,Anthony Taylor,4,6,6,6,Premier League Round 5 2021/2022,-1,76,77,76,76,83,77,81,79,-1,2021,9,18,5
+713,713,Liverpool,Crystal Palace,3,0,2021-09-18 17:00:00,Andrew Madley,13,5,6,6,Premier League Round 5 2021/2022,3,86,85,83,84,77,74,76,76,1,2021,9,18,5
+714,714,Man City,Southampton,0,0,2021-09-18 17:00:00,Jonathan Moss,12,6,6,6,Premier League Round 5 2021/2022,0,84,86,87,85,76,73,77,76,0,2021,9,18,5
+715,715,Norwich,Watford,1,3,2021-09-18 17:00:00,Robert Jones,3,6,6,6,Premier League Round 5 2021/2022,-2,76,74,74,74,74,73,75,75,-1,2021,9,18,5
+716,716,Aston Villa,Everton,3,0,2021-09-18 19:30:00,Craig Pawson,7,13,5,4,Premier League Round 5 2021/2022,3,78,77,76,78,79,79,78,79,1,2021,9,18,5
+717,717,Brighton,Leicester,2,1,2021-09-19 16:00:00,Stuart Attwell,12,7,6,6,Premier League Round 5 2021/2022,1,75,75,77,76,82,79,81,80,1,2021,9,19,5
+718,718,West Ham,Man United,1,2,2021-09-19 16:00:00,Martin Atkinson,11,10,6,6,Premier League Round 5 2021/2022,-1,79,79,79,79,85,83,84,84,-1,2021,9,19,5
+719,719,Tottenham,Chelsea,0,3,2021-09-19 18:30:00,Paul Tierney,10,13,6,7,Premier League Round 5 2021/2022,-3,86,80,80,82,84,81,86,83,-1,2021,9,19,5
+720,720,Crystal Palace,Tottenham,3,0,2021-09-11 14:30:00,Jonathan Moss,5,12,6,7,Premier League Round 4 2021/2022,3,77,74,76,76,86,80,80,82,1,2021,9,11,4
+721,721,Arsenal,Norwich,1,0,2021-09-11 17:00:00,Michael Oliver,3,3,6,6,Premier League Round 4 2021/2022,1,83,77,81,79,76,74,74,74,1,2021,9,11,4
+722,722,Brentford,Brighton,0,1,2021-09-11 17:00:00,Graham Scott,11,12,6,6,Premier League Round 4 2021/2022,-1,73,73,74,73,75,75,77,76,-1,2021,9,11,4
+723,723,Leicester,Man City,0,1,2021-09-11 17:00:00,Paul Tierney,12,9,6,7,Premier League Round 4 2021/2022,-1,82,79,81,80,84,86,87,85,-1,2021,9,11,4
+724,724,Man United,Newcastle,4,1,2021-09-11 17:00:00,Anthony Taylor,11,4,6,6,Premier League Round 4 2021/2022,3,85,83,84,84,79,74,75,76,1,2021,9,11,4
+725,725,Southampton,West Ham,0,0,2021-09-11 17:00:00,David Coote,5,13,7,7,Premier League Round 4 2021/2022,0,76,73,77,76,79,79,79,79,0,2021,9,11,4
+726,726,Watford,Wolves,0,2,2021-09-11 17:00:00,Peter Bankes,6,3,7,7,Premier League Round 4 2021/2022,-2,74,73,75,75,78,77,81,78,-1,2021,9,11,4
+727,727,Chelsea,Aston Villa,3,0,2021-09-11 19:30:00,Stuart Attwell,11,10,6,6,Premier League Round 4 2021/2022,3,84,81,86,83,78,77,76,78,1,2021,9,11,4
+728,728,Leeds,Liverpool,0,3,2021-09-12 18:30:00,Craig Pawson,6,11,6,6,Premier League Round 4 2021/2022,-3,78,76,78,77,86,85,83,84,-1,2021,9,12,4
+729,729,Everton,Burnley,3,1,2021-09-13 22:00:00,Martin Atkinson,10,7,6,6,Premier League Round 4 2021/2022,2,79,79,78,79,76,77,76,76,1,2021,9,13,4
+730,730,Man City,Arsenal,5,0,2021-08-28 14:30:00,Martin Atkinson,9,3,6,6,Premier League Round 3 2021/2022,5,84,86,87,85,83,77,81,79,1,2021,8,28,3
+731,731,Aston Villa,Brentford,1,1,2021-08-28 17:00:00,Peter Bankes,9,10,6,6,Premier League Round 3 2021/2022,0,78,77,76,78,73,73,74,73,0,2021,8,28,3
+732,732,Brighton,Everton,0,2,2021-08-28 17:00:00,Jonathan Moss,13,10,6,6,Premier League Round 3 2021/2022,-2,75,75,77,76,79,79,78,79,-1,2021,8,28,3
+733,733,Newcastle,Southampton,2,2,2021-08-28 17:00:00,Paul Tierney,6,7,7,6,Premier League Round 3 2021/2022,0,79,74,75,76,76,73,77,76,0,2021,8,28,3
+734,734,Norwich,Leicester,1,2,2021-08-28 17:00:00,Robert Jones,6,10,6,6,Premier League Round 3 2021/2022,-1,76,74,74,74,82,79,81,80,-1,2021,8,28,3
+735,735,West Ham,Crystal Palace,2,2,2021-08-28 17:00:00,Stuart Attwell,15,7,7,8,Premier League Round 3 2021/2022,0,79,79,79,79,77,74,76,76,0,2021,8,28,3
+736,736,Liverpool,Chelsea,1,1,2021-08-28 19:30:00,Anthony Taylor,13,13,6,6,Premier League Round 3 2021/2022,0,86,85,83,84,84,81,86,83,0,2021,8,28,3
+737,737,Burnley,Leeds,1,1,2021-08-29 16:00:00,Michael Oliver,9,5,7,7,Premier League Round 3 2021/2022,0,76,77,76,76,78,76,78,77,0,2021,8,29,3
+738,738,Tottenham,Watford,1,0,2021-08-29 16:00:00,Andre Marriner,12,7,7,6,Premier League Round 3 2021/2022,1,86,80,80,82,74,73,75,75,1,2021,8,29,3
+739,739,Wolves,Man United,0,1,2021-08-29 18:30:00,Mike Dean,6,8,6,6,Premier League Round 3 2021/2022,-1,78,77,81,78,85,83,84,84,-1,2021,8,29,3
+740,740,Liverpool,Burnley,2,0,2021-08-21 14:30:00,Mike Dean,13,9,6,7,Premier League Round 2 2021/2022,2,86,85,83,84,76,77,76,76,1,2021,8,21,2
+741,741,Aston Villa,Newcastle,2,0,2021-08-21 17:00:00,David Coote,9,10,6,6,Premier League Round 2 2021/2022,2,78,77,76,78,79,74,75,76,1,2021,8,21,2
+742,742,Crystal Palace,Brentford,0,0,2021-08-21 17:00:00,Martin Atkinson,10,10,7,6,Premier League Round 2 2021/2022,0,77,74,76,76,73,73,74,73,0,2021,8,21,2
+743,743,Leeds,Everton,2,2,2021-08-21 17:00:00,Darren England,1,9,7,6,Premier League Round 2 2021/2022,0,78,76,78,77,79,79,78,79,0,2021,8,21,2
+744,744,Man City,Norwich,5,0,2021-08-21 17:00:00,Graham Scott,9,9,6,6,Premier League Round 2 2021/2022,5,84,86,87,85,76,74,74,74,1,2021,8,21,2
+745,745,Brighton,Watford,2,0,2021-08-21 19:30:00,Anthony Taylor,10,8,6,6,Premier League Round 2 2021/2022,2,75,75,77,76,74,73,75,75,1,2021,8,21,2
+746,746,Southampton,Man United,1,1,2021-08-22 16:00:00,Craig Pawson,9,10,6,6,Premier League Round 2 2021/2022,0,76,73,77,76,85,83,84,84,0,2021,8,22,2
+747,747,Wolves,Tottenham,0,1,2021-08-22 16:00:00,Stuart Attwell,4,10,6,6,Premier League Round 2 2021/2022,-1,78,77,81,78,86,80,80,82,-1,2021,8,22,2
+748,748,Arsenal,Chelsea,0,2,2021-08-22 18:30:00,Paul Tierney,1,13,6,6,Premier League Round 2 2021/2022,-2,83,77,81,79,84,81,86,83,-1,2021,8,22,2
+749,749,West Ham,Leicester,4,1,2021-08-23 22:00:00,Michael Oliver,15,10,7,6,Premier League Round 2 2021/2022,3,79,79,79,79,82,79,81,80,1,2021,8,23,2
+750,750,Brentford,Arsenal,2,0,2021-08-13 22:00:00,Michael Oliver,10,4,6,6,Premier League Round 1,2,73,73,74,73,83,77,81,79,1,2021,8,13,1
+751,751,Man United,Leeds,5,1,2021-08-14 14:30:00,Paul Tierney,7,1,6,6,Premier League Round 1 2021/2022,4,85,83,84,84,78,76,78,77,1,2021,8,14,1
+752,752,Burnley,Brighton,1,2,2021-08-14 17:00:00,David Coote,9,8,6,6,Premier League Round 1 2021/2022,-1,76,77,76,76,75,75,77,76,-1,2021,8,14,1
+753,753,Chelsea,Crystal Palace,3,0,2021-08-14 17:00:00,Jonathan Moss,13,10,6,6,Premier League Round 1 2021/2022,3,84,81,86,83,77,74,76,76,1,2021,8,14,1
+754,754,Everton,Southampton,3,1,2021-08-14 17:00:00,Andrew Madley,6,9,6,6,Premier League Round 1 2021/2022,2,79,79,78,79,76,73,77,76,1,2021,8,14,1
+755,755,Leicester,Wolves,1,0,2021-08-14 17:00:00,Craig Pawson,7,7,6,6,Premier League Round 1 2021/2022,1,82,79,81,80,78,77,81,78,1,2021,8,14,1
+756,756,Watford,Aston Villa,3,2,2021-08-14 17:00:00,Mike Dean,5,12,6,6,Premier League Round 1 2021/2022,1,74,73,75,75,78,77,76,78,1,2021,8,14,1
+757,757,Norwich,Liverpool,0,3,2021-08-14 19:30:00,Andre Marriner,10,10,6,6,Premier League Round 1 2021/2022,-3,76,74,74,74,86,85,83,84,-1,2021,8,14,1
+758,758,Newcastle,West Ham,2,4,2021-08-15 16:00:00,Martin Atkinson,10,13,6,6,Premier League Round 1 2021/2022,-2,79,74,75,76,79,79,79,79,-1,2021,8,15,1
+759,759,Tottenham,Man City,1,0,2021-08-15 18:30:00,Anthony Taylor,11,9,6,6,Premier League Round 1 2021/2022,1,86,80,80,82,84,86,87,85,1,2021,8,15,1
+760,760,Man City,Leicester,1,0,2019-05-06 22:00:00,Mike Dean,15,10,4,4,Premier League Round 37 2018/2019,1,85,83,87,85,79,77,77,78,1,2019,5,6,37
+761,761,Brighton,Man City,1,4,2019-05-12 17:00:00,Michael Oliver,3,15,4,4,Premier League Round 38 2018/2019,-3,76,75,76,76,85,83,87,85,-1,2019,5,12,38
+762,762,Burnley,Arsenal,1,3,2019-05-12 17:00:00,Mike Dean,7,7,4,5,Premier League Round 38 2018/2019,-2,77,78,77,78,85,81,82,82,-1,2019,5,12,38
+763,763,Crystal Palace,Bournemouth,5,3,2019-05-12 17:00:00,Roger East,10,7,4,4,Premier League Round 38 2018/2019,2,79,75,76,77,77,76,75,76,1,2019,5,12,38
+764,764,Fulham,Newcastle,0,4,2019-05-12 17:00:00,Kevin Friend,9,7,4,4,Premier League Round 38 2018/2019,-4,76,74,77,76,76,76,76,76,-1,2019,5,12,38
+765,765,Leicester,Chelsea,0,0,2019-05-12 17:00:00,Anthony Taylor,7,9,4,4,Premier League Round 38 2018/2019,0,79,77,77,78,84,82,85,83,0,2019,5,12,38
+766,766,Liverpool,Wolves,2,0,2019-05-12 17:00:00,Martin Atkinson,12,10,4,4,Premier League Round 38 2018/2019,2,85,81,82,83,75,75,80,76,1,2019,5,12,38
+767,767,Man United,Cardiff,0,2,2019-05-12 17:00:00,Jonathan Moss,2,3,4,4,Premier League Round 38 2018/2019,-2,84,81,84,83,73,73,74,73,-1,2019,5,12,38
+768,768,Southampton,Huddersfield,1,1,2019-05-12 17:00:00,Lee Probert,5,1,4,5,Premier League Round 38 2018/2019,0,76,77,77,77,75,75,75,75,0,2019,5,12,38
+769,769,Tottenham,Everton,2,2,2019-05-12 17:00:00,Andre Marriner,6,10,4,5,Premier League Round 38 2018/2019,0,89,82,83,83,80,78,79,79,0,2019,5,12,38
+770,770,Watford,West Ham,1,4,2019-05-12 17:00:00,Chris Kavanagh,4,7,4,4,Premier League Round 38 2018/2019,-3,77,76,78,77,79,76,78,79,-1,2019,5,12,38
+771,771,Leicester,Arsenal,3,0,2019-04-28 14:00:00,Michael Oliver,10,9,1,7,Premier League Round 36 2018/2019,3,79,77,77,78,85,81,82,82,1,2019,4,28,36
+772,772,Burnley,Man City,0,1,2019-04-28 16:05:00,Paul Tierney,10,12,5,4,Premier League Round 36 2018/2019,-1,77,78,77,78,85,83,87,85,-1,2019,4,28,36
+773,773,Man United,Chelsea,1,1,2019-04-28 18:30:00,Martin Atkinson,3,10,4,4,Premier League Round 36 2018/2019,0,84,81,84,83,84,82,85,83,0,2019,4,28,36
+774,774,Everton,Burnley,2,0,2019-05-03 22:00:00,Chris Kavanagh,10,10,4,4,Premier League Round 37 2018/2019,2,80,78,79,79,77,78,77,78,1,2019,5,3,37
+775,775,Bournemouth,Tottenham,1,0,2019-05-04 14:30:00,Craig Pawson,4,3,6,4,Premier League Round 37 2018/2019,1,77,76,75,76,89,82,83,83,1,2019,5,4,37
+776,776,West Ham,Southampton,3,0,2019-05-04 17:00:00,Stuart Attwell,4,5,4,4,Premier League Round 37 2018/2019,3,79,76,78,79,76,77,77,77,1,2019,5,4,37
+777,777,Wolves,Fulham,1,0,2019-05-04 17:00:00,Jonathan Moss,7,9,4,5,Premier League Round 37 2018/2019,1,75,75,80,76,76,74,77,76,1,2019,5,4,37
+778,778,Cardiff,Crystal Palace,2,3,2019-05-04 19:30:00,Michael Oliver,3,7,5,5,Premier League Round 37 2018/2019,-1,73,73,74,73,79,75,76,77,-1,2019,5,4,37
+779,779,Newcastle,Liverpool,2,3,2019-05-04 21:45:00,Andre Marriner,7,12,5,3,Premier League Round 37 2018/2019,-1,76,76,76,76,85,81,82,83,-1,2019,5,4,37
+780,780,Chelsea,Watford,3,0,2019-05-05 16:00:00,Paul Tierney,6,7,6,3,Premier League Round 37 2018/2019,3,84,82,85,83,77,76,78,77,1,2019,5,5,37
+781,781,Huddersfield,Man United,1,1,2019-05-05 16:00:00,Lee Mason,0,4,5,4,Premier League Round 37 2018/2019,0,75,75,75,75,84,81,84,83,0,2019,5,5,37
+782,782,Arsenal,Brighton,1,1,2019-05-05 18:30:00,Anthony Taylor,6,2,5,3,Premier League Round 37 2018/2019,0,85,81,82,82,76,75,76,76,0,2019,5,5,37
+783,783,Chelsea,Burnley,2,2,2019-04-22 22:00:00,Kevin Friend,12,9,4,7,Premier League Round 35 2018/2019,0,84,82,85,83,77,78,77,78,0,2019,4,22,35
+784,784,Tottenham,Brighton,1,0,2019-04-23 21:45:00,Chris Kavanagh,9,1,4,4,Premier League Round 33 2018/2019,1,89,82,83,83,76,75,76,76,1,2019,4,23,33
+785,785,Watford,Southampton,1,1,2019-04-23 21:45:00,Mike Dean,9,9,5,4,Premier League Round 31 2018/2019,0,77,76,78,77,76,77,77,77,0,2019,4,23,31
+786,786,Wolves,Arsenal,3,1,2019-04-24 21:45:00,Stuart Attwell,4,9,4,4,Premier League Round 31 2018/2019,2,75,75,80,76,85,81,82,82,1,2019,4,24,31
+787,787,Man United,Man City,0,2,2019-04-24 22:00:00,Andre Marriner,3,12,4,4,Premier League Round 31 2018/2019,-2,84,81,84,83,85,83,87,85,-1,2019,4,24,31
+788,788,Liverpool,Huddersfield,5,0,2019-04-26 22:00:00,Kevin Friend,15,0,1,4,Premier League Round 36 2018/2019,5,85,81,82,83,75,75,75,75,1,2019,4,26,36
+789,789,Tottenham,West Ham,0,1,2019-04-27 14:30:00,Anthony Taylor,9,4,4,4,Premier League Round 36 2018/2019,-1,89,82,83,83,79,76,78,79,-1,2019,4,27,36
+790,790,Crystal Palace,Everton,0,0,2019-04-27 17:00:00,Lee Mason,9,12,6,4,Premier League Round 36 2018/2019,0,79,75,76,77,80,78,79,79,0,2019,4,27,36
+791,791,Fulham,Cardiff,1,0,2019-04-27 17:00:00,Chris Kavanagh,6,3,4,4,Premier League Round 36 2018/2019,1,76,74,77,76,73,73,74,73,1,2019,4,27,36
+792,792,Southampton,Bournemouth,3,3,2019-04-27 17:00:00,Graham Scott,7,4,4,4,Premier League Round 36 2018/2019,0,76,77,77,77,77,76,75,76,0,2019,4,27,36
+793,793,Watford,Wolves,1,2,2019-04-27 17:00:00,Simon Hooper,10,7,5,5,Premier League Round 36 2018/2019,-1,77,76,78,77,75,75,80,76,-1,2019,4,27,36
+794,794,Brighton,Newcastle,1,1,2019-04-27 19:30:00,Mike Dean,1,7,2,4,Premier League Round 36 2018/2019,0,76,75,76,76,76,76,76,76,0,2019,4,27,36
+795,795,Watford,Arsenal,0,1,2019-04-15 22:00:00,Craig Pawson,9,12,3,3,Premier League Round 34 2018/2019,-1,77,76,78,77,85,81,82,82,-1,2019,4,15,34
+796,796,Brighton,Cardiff,0,2,2019-04-16 21:45:00,Andre Marriner,3,3,1,4,Premier League Round 31 2018/2019,-2,76,75,76,76,73,73,74,73,-1,2019,4,16,31
+797,797,Man City,Tottenham,1,0,2019-04-20 11:30:00,Michael Oliver,12,9,0,0,Premier League Round 35,1,85,83,87,85,89,82,83,83,1,2019,4,20,35
+798,798,Bournemouth,Fulham,0,1,2019-04-20 17:00:00,David Coote,7,3,4,4,Premier League Round 35 2018/2019,-1,77,76,75,76,76,74,77,76,-1,2019,4,20,35
+799,799,Huddersfield,Watford,1,2,2019-04-20 14:00:00,Roger East,0,9,0,0,Premier League Round 35,-1,75,75,75,75,77,76,78,77,-1,2019,4,20,35
+800,800,West Ham,Leicester,2,2,2019-04-20 14:00:00,Lee Probert,3,12,0,0,Premier League Round 35,0,79,76,78,79,79,77,77,78,0,2019,4,20,35
+801,801,Wolves,Brighton,0,0,2019-04-20 17:00:00,Craig Pawson,6,0,4,5,Premier League Round 35 2018/2019,0,75,75,80,76,76,75,76,76,0,2019,4,20,35
+802,802,Newcastle,Southampton,3,1,2019-04-20 19:30:00,Anthony Taylor,7,9,4,4,Premier League Round 35 2018/2019,2,76,76,76,76,76,77,77,77,1,2019,4,20,35
+803,803,Everton,Man United,4,0,2019-04-21 15:30:00,Paul Tierney,9,6,4,4,Premier League Round 35 2018/2019,4,80,78,79,79,84,81,84,83,1,2019,4,21,35
+804,804,Arsenal,Crystal Palace,2,3,2019-04-21 18:00:00,Jon Moss,12,6,6,4,Premier League Round 35 2018/2019,-1,85,81,82,82,79,75,76,77,-1,2019,4,21,35
+805,805,Cardiff,Liverpool,0,2,2019-04-21 18:00:00,Martin Atkinson,6,15,5,1,Premier League Round 35 2018/2019,-2,73,73,74,73,85,81,82,83,-1,2019,4,21,35
+806,806,Everton,Arsenal,1,0,2019-04-07 16:05:00,Kevin Friend,10,12,4,4,Premier League Round 33 2018/2019,1,80,78,79,79,85,81,82,82,1,2019,4,7,33
+807,807,Chelsea,West Ham,2,0,2019-04-08 22:00:00,Chris Kavanagh,10,6,6,5,Premier League Round 33 2018/2019,2,84,82,85,83,79,76,78,79,1,2019,4,8,33
+808,808,Leicester,Newcastle,0,1,2019-04-12 22:00:00,Chris Kavanagh,12,4,1,2,Premier League Round 34 2018/2019,-1,79,77,77,78,76,76,76,76,-1,2019,4,12,34
+809,809,Tottenham,Huddersfield,4,0,2019-04-13 14:30:00,Lee Mason,9,0,4,4,Premier League Round 34 2018/2019,4,89,82,83,83,75,75,75,75,1,2019,4,13,34
+810,810,Brighton,Bournemouth,0,5,2019-04-13 17:00:00,Kevin Friend,6,4,5,4,Premier League Round 34 2018/2019,-5,76,75,76,76,77,76,75,76,-1,2019,4,13,34
+811,811,Burnley,Cardiff,2,0,2019-04-13 17:00:00,Mike Dean,6,3,7,4,Premier League Round 34 2018/2019,2,77,78,77,78,73,73,74,73,1,2019,4,13,34
+812,812,Fulham,Everton,2,0,2019-04-13 17:00:00,Lee Probert,0,10,4,4,Premier League Round 34 2018/2019,2,76,74,77,76,80,78,79,79,1,2019,4,13,34
+813,813,Southampton,Wolves,3,1,2019-04-13 17:00:00,Jonathan Moss,9,7,4,4,Premier League Round 34 2018/2019,2,76,77,77,77,75,75,80,76,1,2019,4,13,34
+814,814,Man United,West Ham,2,1,2019-04-13 19:30:00,Graham Scott,3,6,4,4,Premier League Round 34 2018/2019,1,84,81,84,83,79,76,78,79,1,2019,4,13,34
+815,815,Crystal Palace,Man City,1,3,2019-04-14 16:05:00,Martin Atkinson,6,12,4,4,Premier League Round 34 2018/2019,-2,79,75,76,77,85,83,87,85,-1,2019,4,14,34
+816,816,Liverpool,Chelsea,2,0,2019-04-14 18:30:00,Michael Oliver,15,12,0,4,Premier League Round 34 2018/2019,2,85,81,82,83,84,82,85,83,1,2019,4,14,34
+817,817,Cardiff,Chelsea,1,2,2019-03-31 16:05:00,Craig Pawson,6,10,4,6,Premier League Round 32 2018/2019,-1,73,73,74,73,84,82,85,83,-1,2019,3,31,32
+818,818,Liverpool,Tottenham,2,1,2019-03-31 18:30:00,Martin Atkinson,13,4,2,5,Premier League Round 32 2018/2019,1,85,81,82,83,89,82,83,83,1,2019,3,31,32
+819,819,Arsenal,Newcastle,2,0,2019-04-01 22:00:00,Anthony Taylor,10,10,5,3,Premier League Round 32 2018/2019,2,85,81,82,82,76,76,76,76,1,2019,4,1,32
+820,820,Watford,Fulham,4,1,2019-04-02 21:45:00,Roger East,6,0,4,4,Premier League Round 33 2018/2019,3,77,76,78,77,76,74,77,76,1,2019,4,2,33
+821,821,Wolves,Man United,2,1,2019-04-02 21:45:00,Mike Dean,7,9,4,4,Premier League Round 33 2018/2019,1,75,75,80,76,84,81,84,83,1,2019,4,2,33
+822,822,Chelsea,Brighton,3,0,2019-04-03 21:45:00,Graham Scott,10,9,5,2,Premier League Round 27 2018/2019,3,84,82,85,83,76,75,76,76,1,2019,4,3,27
+823,823,Man City,Cardiff,2,0,2019-04-03 21:45:00,Jonathan Moss,15,3,6,4,Premier League Round 33 2018/2019,2,85,83,87,85,73,73,74,73,1,2019,4,3,33
+824,824,Tottenham,Crystal Palace,2,0,2019-04-03 21:45:00,Andre Marriner,4,6,4,5,Premier League Round 31 2018/2019,2,89,82,83,83,79,75,76,77,1,2019,4,3,31
+825,825,Southampton,Liverpool,1,3,2019-04-05 22:00:00,Paul Tierney,9,13,4,4,Premier League Round 33 2018/2019,-2,76,77,77,77,85,81,82,83,-1,2019,4,5,33
+826,826,Bournemouth,Burnley,1,3,2019-04-06 17:00:00,Martin Atkinson,4,3,4,6,Premier League Round 33 2018/2019,-2,77,76,75,76,77,78,77,78,-1,2019,4,6,33
+827,827,Huddersfield,Leicester,1,4,2019-04-06 17:00:00,David Coote,3,12,3,1,Premier League Round 33 2018/2019,-3,75,75,75,75,79,77,77,78,-1,2019,4,6,33
+828,828,Newcastle,Crystal Palace,0,1,2019-04-06 17:00:00,Stuart Attwell,7,6,2,3,Premier League Round 33 2018/2019,-1,76,76,76,76,79,75,76,77,-1,2019,4,6,33
+829,829,Liverpool,Burnley,4,2,2019-03-10 14:00:00,Andre Marriner,9,7,4,4,Premier League Round 30 2018/2019,2,85,81,82,83,77,78,77,78,1,2019,3,10,30
+830,830,Chelsea,Wolves,1,1,2019-03-10 16:05:00,Michael Oliver,12,8,4,5,Premier League Round 30 2018/2019,0,84,82,85,83,75,75,80,76,0,2019,3,10,30
+831,831,Arsenal,Man United,2,0,2019-03-10 18:30:00,Jonathan Moss,10,13,4,5,Premier League Round 30 2018/2019,2,85,81,82,82,84,81,84,83,1,2019,3,10,30
+832,832,Bournemouth,Newcastle,2,2,2019-03-16 17:00:00,Mike Dean,4,10,6,4,Premier League Round 31 2018/2019,0,77,76,75,76,76,76,76,76,0,2019,3,16,31
+833,833,Burnley,Leicester,1,2,2019-03-16 17:00:00,Michael Oliver,6,6,4,4,Premier League Round 31 2018/2019,-1,77,78,77,78,79,77,77,78,-1,2019,3,16,31
+834,834,West Ham,Huddersfield,4,3,2019-03-16 17:00:00,Jon Moss,7,3,4,5,Premier League Round 31 2018/2019,1,79,76,78,79,75,75,75,75,1,2019,3,16,31
+835,835,Fulham,Liverpool,1,2,2019-03-17 16:15:00,Craig Pawson,0,11,4,4,Premier League Round 31 2018/2019,-1,76,74,77,76,85,81,82,83,-1,2019,3,17,31
+836,836,Everton,Chelsea,2,0,2019-03-17 18:30:00,Anthony Taylor,4,13,4,4,Premier League Round 31 2018/2019,2,80,78,79,79,84,82,85,83,1,2019,3,17,31
+837,837,Fulham,Man City,0,2,2019-03-30 15:30:00,Kevin Friend,0,15,4,4,Premier League Round 32 2018/2019,-2,76,74,77,76,85,83,87,85,-1,2019,3,30,32
+838,838,Brighton,Southampton,0,1,2019-03-30 18:00:00,Michael Oliver,12,6,5,4,Premier League Round 32 2018/2019,-1,76,75,76,76,76,77,77,77,-1,2019,3,30,32
+839,839,Burnley,Wolves,2,0,2019-03-30 18:00:00,Chris Kavanagh,3,8,6,4,Premier League Round 32 2018/2019,2,77,78,77,78,75,75,80,76,1,2019,3,30,32
+840,840,Crystal Palace,Huddersfield,2,0,2019-03-30 18:00:00,Lee Probert,6,3,3,4,Premier League Round 32 2018/2019,2,79,75,76,77,75,75,75,75,1,2019,3,30,32
+841,841,Leicester,Bournemouth,2,0,2019-03-30 18:00:00,Lee Mason,9,5,4,4,Premier League Round 32 2018/2019,2,79,77,77,78,77,76,75,76,1,2019,3,30,32
+842,842,Man United,Watford,2,1,2019-03-30 18:00:00,Stuart Attwell,9,9,4,4,Premier League Round 32 2018/2019,1,84,81,84,83,77,76,78,77,1,2019,3,30,32
+843,843,West Ham,Everton,0,2,2019-03-30 20:30:00,Paul Tierney,9,7,4,4,Premier League Round 32 2018/2019,-2,79,76,78,79,80,78,79,79,-1,2019,3,30,32
+844,844,Watford,Leicester,2,1,2019-03-03 14:00:00,Jon Moss,10,4,1,2,Premier League Round 29 2018/2019,1,77,76,78,77,79,77,77,78,1,2019,3,3,29
+845,845,Fulham,Chelsea,1,2,2019-03-03 16:05:00,Graham Scott,3,9,4,4,Premier League Round 29 2018/2019,-1,76,74,77,76,84,82,85,83,-1,2019,3,3,29
+846,846,Everton,Liverpool,0,0,2019-03-03 18:15:00,Martin Atkinson,6,9,4,4,Premier League Round 29 2018/2019,0,80,78,79,79,85,81,82,83,0,2019,3,3,29
+847,847,Crystal Palace,Brighton,1,2,2019-03-09 14:30:00,Craig Pawson,10,9,3,3,Premier League Round 30 2018/2019,-1,79,75,76,77,76,75,76,76,-1,2019,3,9,30
+848,848,Cardiff,West Ham,2,0,2019-03-09 17:00:00,Graham Scott,6,8,3,4,Premier League Round 30 2018/2019,2,73,73,74,73,79,76,78,79,1,2019,3,9,30
+849,849,Huddersfield,Bournemouth,0,2,2019-03-09 17:00:00,Anthony Taylor,3,1,4,4,Premier League Round 30 2018/2019,-2,75,75,75,75,77,76,75,76,-1,2019,3,9,30
+850,850,Leicester,Fulham,3,1,2019-03-09 17:00:00,David Coote,3,0,4,4,Premier League Round 30 2018/2019,2,79,77,77,78,76,74,77,76,1,2019,3,9,30
+851,851,Newcastle,Everton,3,2,2019-03-09 17:00:00,Lee Mason,8,4,4,4,Premier League Round 30 2018/2019,1,76,76,76,76,80,78,79,79,1,2019,3,9,30
+852,852,Southampton,Tottenham,2,1,2019-03-09 17:00:00,Kevin Friend,4,7,4,4,Premier League Round 30 2018/2019,1,76,77,77,77,89,82,83,83,1,2019,3,9,30
+853,853,Man City,Watford,3,1,2019-03-09 19:30:00,Paul Tierney,15,12,4,4,Premier League Round 30 2018/2019,2,85,83,87,85,77,76,78,77,1,2019,3,9,30
+854,854,Arsenal,Bournemouth,5,1,2019-02-27 21:45:00,Chris Kavanagh,9,7,4,4,Premier League Round 28 2018/2019,4,85,81,82,82,77,76,75,76,1,2019,2,27,28
+855,855,Southampton,Fulham,2,0,2019-02-27 21:45:00,Anthony Taylor,5,3,6,5,Premier League Round 28 2018/2019,2,76,77,77,77,76,74,77,76,1,2019,2,27,28
+856,856,Chelsea,Tottenham,2,0,2019-02-27 22:00:00,Andre Marriner,6,12,4,4,Premier League Round 28 2018/2019,2,84,82,85,83,89,82,83,83,1,2019,2,27,28
+857,857,Crystal Palace,Man United,1,3,2019-02-27 22:00:00,Martin Atkinson,11,10,4,4,Premier League Round 28 2018/2019,-2,79,75,76,77,84,81,84,83,-1,2019,2,27,28
+858,858,Liverpool,Watford,5,0,2019-02-27 22:00:00,Graham Scott,7,10,4,4,Premier League Round 28 2018/2019,5,85,81,82,83,77,76,78,77,1,2019,2,27,28
+859,859,Man City,West Ham,1,0,2019-02-27 22:00:00,Stuart Attwell,15,5,4,4,Premier League Round 28 2018/2019,1,85,83,87,85,79,76,78,79,1,2019,2,27,28
+860,860,Tottenham,Arsenal,1,1,2019-03-02 14:30:00,Anthony Taylor,9,12,5,4,Premier League Round 29 2018/2019,0,89,82,83,83,85,81,82,82,0,2019,3,2,29
+861,861,Bournemouth,Man City,0,1,2019-03-02 17:00:00,Kevin Friend,4,15,4,4,Premier League Round 29 2018/2019,-1,77,76,75,76,85,83,87,85,-1,2019,3,2,29
+862,862,Brighton,Huddersfield,1,0,2019-03-02 17:00:00,Mike Dean,7,3,3,5,Premier League Round 29 2018/2019,1,76,75,76,76,75,75,75,75,1,2019,3,2,29
+863,863,Burnley,Crystal Palace,1,3,2019-03-02 17:00:00,Lee Probert,8,10,4,4,Premier League Round 29 2018/2019,-2,77,78,77,78,79,75,76,77,-1,2019,3,2,29
+864,864,Man United,Southampton,3,2,2019-03-02 17:00:00,Stuart Attwell,10,5,4,5,Premier League Round 29 2018/2019,1,84,81,84,83,76,77,77,77,1,2019,3,2,29
+865,865,Wolves,Cardiff,2,0,2019-03-02 17:00:00,Andre Marriner,8,6,4,4,Premier League Round 29 2018/2019,2,75,75,80,76,73,73,74,73,1,2019,3,2,29
+866,866,West Ham,Newcastle,2,0,2019-03-02 19:30:00,Chris Kavanagh,5,8,5,2,Premier League Round 29 2018/2019,2,79,76,78,79,76,76,76,76,1,2019,3,2,29
+867,867,Wolves,Newcastle,1,1,2019-02-11 22:00:00,Graham Scott,13,9,4,4,Premier League Round 26 2018/2019,0,75,75,80,76,76,76,76,76,0,2019,2,11,26
+868,868,Cardiff,Watford,1,5,2019-02-22 21:45:00,Simon Hooper,7,10,3,4,Premier League Round 27 2018/2019,-4,73,73,74,73,77,76,78,77,-1,2019,2,22,27
+869,869,West Ham,Fulham,3,1,2019-02-22 21:45:00,Lee Mason,2,3,5,3,Premier League Round 27 2018/2019,2,79,76,78,79,76,74,77,76,1,2019,2,22,27
+870,870,Burnley,Tottenham,2,1,2019-02-23 14:30:00,Mike Dean,6,12,5,4,Premier League Round 27 2018/2019,1,77,78,77,78,89,82,83,83,1,2019,2,23,27
+871,871,Bournemouth,Wolves,1,1,2019-02-23 17:00:00,Roger East,6,13,6,4,Premier League Round 27 2018/2019,0,77,76,75,76,75,75,80,76,0,2019,2,23,27
+872,872,Newcastle,Huddersfield,2,0,2019-02-23 17:00:00,Kevin Friend,5,1,1,4,Premier League Round 27 2018/2019,2,76,76,76,76,75,75,75,75,1,2019,2,23,27
+873,873,Leicester,Crystal Palace,1,4,2019-02-23 19:30:00,Kevin Friend,1,11,2,5,Premier League Round 27 2018/2019,-3,79,77,77,78,79,75,76,77,-1,2019,2,23,27
+874,874,Arsenal,Southampton,2,0,2019-02-24 16:05:00,Graham Scott,9,5,4,4,Premier League Round 27 2018/2019,2,85,81,82,82,76,77,77,77,1,2019,2,24,27
+875,875,Man United,Liverpool,0,0,2019-02-24 16:05:00,Michael Oliver,10,9,4,4,Premier League Round 27 2018/2019,0,84,81,84,83,85,81,82,83,0,2019,2,24,27
+876,876,Cardiff,Everton,0,3,2019-02-26 21:45:00,Kevin Friend,6,3,4,4,Premier League Round 28 2018/2019,-3,73,73,74,73,80,78,79,79,-1,2019,2,26,28
+877,877,Huddersfield,Wolves,1,0,2019-02-26 21:45:00,David Coote,0,11,4,4,Premier League Round 28 2018/2019,1,75,75,75,75,75,75,80,76,1,2019,2,26,28
+878,878,Leicester,Brighton,2,1,2019-02-26 21:45:00,Lee Probert,1,7,2,2,Premier League Round 28 2018/2019,1,79,77,77,78,76,75,76,76,1,2019,2,26,28
+879,879,Newcastle,Burnley,2,0,2019-02-26 22:00:00,Craig Pawson,8,8,4,4,Premier League Round 28 2018/2019,2,76,76,76,76,77,78,77,78,1,2019,2,26,28
+880,880,Everton,Man City,0,2,2019-02-06 21:45:00,Craig Pawson,6,12,4,4,Premier League Round 27 2018/2019,-2,80,78,79,79,85,83,87,85,-1,2019,2,6,27
+881,881,Fulham,Man United,0,3,2019-02-09 14:30:00,Paul Tierney,3,13,4,4,Premier League Round 26 2018/2019,-3,76,74,77,76,84,81,84,83,-1,2019,2,9,26
+882,882,Crystal Palace,West Ham,1,1,2019-02-09 17:00:00,Craig Pawson,7,4,5,7,Premier League Round 26 2018/2019,0,79,75,76,77,79,76,78,79,0,2019,2,9,26
+883,883,Huddersfield,Arsenal,1,2,2019-02-09 17:00:00,Jon Moss,1,6,4,5,Premier League Round 26 2018/2019,-1,75,75,75,75,85,81,82,82,-1,2019,2,9,26
+884,884,Liverpool,Bournemouth,3,0,2019-02-09 17:00:00,Anthony Taylor,8,6,4,4,Premier League Round 26 2018/2019,3,85,81,82,83,77,76,75,76,1,2019,2,9,26
+885,885,Southampton,Cardiff,1,2,2019-02-09 17:00:00,Martin Atkinson,8,4,4,4,Premier League Round 26 2018/2019,-1,76,77,77,77,73,73,74,73,-1,2019,2,9,26
+886,886,Watford,Everton,1,0,2019-02-09 17:00:00,Lee Probert,8,3,4,4,Premier League Round 26 2018/2019,1,77,76,78,77,80,78,79,79,1,2019,2,9,26
+887,887,Brighton,Burnley,1,3,2019-02-09 19:30:00,Stuart Attwell,5,6,4,7,Premier League Round 26 2018/2019,-2,76,75,76,76,77,78,77,78,-1,2019,2,9,26
+888,888,Tottenham,Leicester,3,1,2019-02-10 15:30:00,Michael Oliver,9,1,4,4,Premier League Round 26 2018/2019,2,89,82,83,83,79,77,77,78,1,2019,2,10,26
+889,889,Man City,Chelsea,6,0,2019-02-10 18:00:00,Mike Dean,12,9,4,4,Premier League Round 26 2018/2019,6,85,83,87,85,84,82,85,83,1,2019,2,10,26
+890,890,Tottenham,Newcastle,1,0,2019-02-02 14:30:00,Andre Marriner,6,9,4,5,Premier League Round 25 2018/2019,1,89,82,83,83,76,76,76,76,1,2019,2,2,25
+891,891,Brighton,Watford,0,0,2019-02-02 17:00:00,Simon Hooper,4,10,4,3,Premier League Round 25 2018/2019,0,76,75,76,76,77,76,78,77,0,2019,2,2,25
+892,892,Burnley,Southampton,1,1,2019-02-02 17:00:00,Anthony Taylor,8,8,4,4,Premier League Round 25 2018/2019,0,77,78,77,78,76,77,77,77,0,2019,2,2,25
+893,893,Chelsea,Huddersfield,5,0,2019-02-02 17:00:00,Paul Tierney,9,1,3,3,Premier League Round 25 2018/2019,5,84,82,85,83,75,75,75,75,1,2019,2,2,25
+894,894,Crystal Palace,Fulham,2,0,2019-02-02 17:00:00,Michael Oliver,7,3,2,5,Premier League Round 25 2018/2019,2,79,75,76,77,76,74,77,76,1,2019,2,2,25
+895,895,Everton,Wolves,1,3,2019-02-02 17:00:00,Lee Mason,9,10,4,4,Premier League Round 25 2018/2019,-2,80,78,79,79,75,75,80,76,-1,2019,2,2,25
+896,896,Cardiff,Bournemouth,2,0,2019-02-02 19:30:00,Jonathan Moss,1,7,4,4,Premier League Round 25 2018/2019,2,73,73,74,73,77,76,75,76,1,2019,2,2,25
+897,897,Leicester,Man United,0,1,2019-02-03 16:05:00,Mike Dean,4,13,4,4,Premier League Round 25 2018/2019,-1,79,77,77,78,84,81,84,83,-1,2019,2,3,25
+898,898,Man City,Arsenal,3,1,2019-02-03 18:30:00,Martin Atkinson,12,9,5,4,Premier League Round 25 2018/2019,2,85,83,87,85,85,81,82,82,1,2019,2,3,25
+899,899,West Ham,Liverpool,1,1,2019-02-04 22:00:00,Kevin Friend,6,7,8,6,Premier League Round 25 2018/2019,0,79,76,78,79,85,81,82,83,0,2019,2,4,25
+900,900,Arsenal,Cardiff,2,1,2019-01-29 21:45:00,Mike Dean,9,4,6,3,Premier League Round 24 2018/2019,1,85,81,82,82,73,73,74,73,1,2019,1,29,24
+901,901,Fulham,Brighton,4,2,2019-01-29 21:45:00,Lee Probert,3,5,3,4,Premier League Round 24 2018/2019,2,76,74,77,76,76,75,76,76,1,2019,1,29,24
+902,902,Huddersfield,Everton,0,1,2019-01-29 21:45:00,Stuart Attwell,1,6,4,4,Premier League Round 24 2018/2019,-1,75,75,75,75,80,78,79,79,-1,2019,1,29,24
+903,903,Wolves,West Ham,3,0,2019-01-29 21:45:00,David Coote,7,7,4,4,Premier League Round 24 2018/2019,3,75,75,80,76,79,76,78,79,1,2019,1,29,24
+904,904,Man United,Burnley,2,2,2019-01-29 22:00:00,Jonathan Moss,15,10,5,6,Premier League Round 24 2018/2019,0,84,81,84,83,77,78,77,78,0,2019,1,29,24
+905,905,Newcastle,Man City,2,1,2019-01-29 22:00:00,Paul Tierney,7,15,5,4,Premier League Round 24 2018/2019,1,76,76,76,76,85,83,87,85,1,2019,1,29,24
+906,906,Bournemouth,Chelsea,4,0,2019-01-30 21:45:00,Roger East,4,9,4,4,Premier League Round 24 2018/2019,4,77,76,75,76,84,82,85,83,1,2019,1,30,24
+907,907,Southampton,Crystal Palace,1,1,2019-01-30 21:45:00,Andre Marriner,8,9,4,5,Premier League Round 24 2018/2019,0,76,77,77,77,79,75,76,77,0,2019,1,30,24
+908,908,Liverpool,Leicester,1,1,2019-01-30 22:00:00,Martin Atkinson,9,3,3,1,Premier League Round 24 2018/2019,0,85,81,82,83,79,77,77,78,0,2019,1,30,24
+909,909,Tottenham,Watford,2,1,2019-01-30 22:00:00,Graham Scott,6,11,4,5,Premier League Round 24 2018/2019,1,89,82,83,83,77,76,78,77,1,2019,1,30,24
+910,910,Wolves,Leicester,4,3,2019-01-19 14:30:00,Chris Kavanagh,7,6,5,4,Premier League Round 23 2018/2019,1,75,75,80,76,79,77,77,78,1,2019,1,19,23
+911,911,Bournemouth,West Ham,2,0,2019-01-19 17:00:00,Simon Hooper,1,10,4,4,Premier League Round 23 2018/2019,2,77,76,75,76,79,76,78,79,1,2019,1,19,23
+912,912,Liverpool,Crystal Palace,4,3,2019-01-19 17:00:00,Jon Moss,9,7,4,3,Premier League Round 23 2018/2019,1,85,81,82,83,79,75,76,77,1,2019,1,19,23
+913,913,Man United,Brighton,2,1,2019-01-19 17:00:00,Paul Tierney,15,8,4,4,Premier League Round 23 2018/2019,1,84,81,84,83,76,75,76,76,1,2019,1,19,23
+914,914,Newcastle,Cardiff,3,0,2019-01-19 17:00:00,Stuart Attwell,5,5,7,4,Premier League Round 23 2018/2019,3,76,76,76,76,73,73,74,73,1,2019,1,19,23
+915,915,Southampton,Everton,2,1,2019-01-19 17:00:00,Graham Scott,5,9,4,4,Premier League Round 23 2018/2019,1,76,77,77,77,80,78,79,79,1,2019,1,19,23
+916,916,Watford,Burnley,0,0,2019-01-19 17:00:00,Michael Oliver,8,12,5,7,Premier League Round 23 2018/2019,0,77,76,78,77,77,78,77,78,0,2019,1,19,23
+917,917,Arsenal,Chelsea,2,0,2019-01-19 19:30:00,Anthony Taylor,7,10,3,5,Premier League Round 23 2018/2019,2,85,81,82,82,84,82,85,83,1,2019,1,19,23
+918,918,Huddersfield,Man City,0,3,2019-01-20 15:30:00,Andre Marriner,1,15,5,4,Premier League Round 23 2018/2019,-3,75,75,75,75,85,83,87,85,-1,2019,1,20,23
+919,919,Fulham,Tottenham,1,2,2019-01-20 18:00:00,Craig Pawson,4,9,4,5,Premier League Round 23 2018/2019,-1,76,74,77,76,89,82,83,83,-1,2019,1,20,23
+920,920,West Ham,Arsenal,1,0,2019-01-12 14:30:00,Jon Moss,7,10,8,5,Premier League Round 22 2018/2019,1,79,76,78,79,85,81,82,82,1,2019,1,12,22
+921,921,Brighton,Liverpool,0,1,2019-01-12 17:00:00,Kevin Friend,8,9,4,3,Premier League Round 22 2018/2019,-1,76,75,76,76,85,81,82,83,-1,2019,1,12,22
+922,922,Burnley,Fulham,2,1,2019-01-12 17:00:00,Martin Atkinson,9,5,6,4,Premier League Round 22 2018/2019,1,77,78,77,78,76,74,77,76,1,2019,1,12,22
+923,923,Cardiff,Huddersfield,0,0,2019-01-12 17:00:00,Lee Mason,4,0,5,3,Premier League Round 22 2018/2019,0,73,73,74,73,75,75,75,75,0,2019,1,12,22
+924,924,Crystal Palace,Watford,1,2,2019-01-12 17:00:00,Paul Tierney,10,8,1,1,Premier League Round 22 2018/2019,-1,79,75,76,77,77,76,78,77,-1,2019,1,12,22
+925,925,Leicester,Southampton,1,2,2019-01-12 17:00:00,Michael Oliver,9,5,4,4,Premier League Round 22 2018/2019,-1,79,77,77,78,76,77,77,77,-1,2019,1,12,22
+926,926,Chelsea,Newcastle,2,1,2019-01-12 19:30:00,Chris Kavanagh,10,3,4,5,Premier League Round 22 2018/2019,1,84,82,85,83,76,76,76,76,1,2019,1,12,22
+927,927,Everton,Bournemouth,2,0,2019-01-13 16:15:00,Anthony Taylor,6,4,4,5,Premier League Round 22 2018/2019,2,80,78,79,79,77,76,75,76,1,2019,1,13,22
+928,928,Tottenham,Man United,0,1,2019-01-13 18:30:00,Mike Dean,12,15,5,4,Premier League Round 22 2018/2019,-1,89,82,83,83,84,81,84,83,-1,2019,1,13,22
+929,929,Man City,Wolves,3,0,2019-01-14 22:00:00,Craig Pawson,12,7,4,4,Premier League Round 22 2018/2019,3,85,83,87,85,75,75,80,76,1,2019,1,14,22
+930,930,Everton,Leicester,0,1,2019-01-01 14:30:00,Martin Atkinson,4,6,5,5,Premier League Round 21 2018/2019,-1,80,78,79,79,79,77,77,78,-1,2019,1,1,21
+931,931,Arsenal,Fulham,4,1,2019-01-01 17:00:00,Graham Scott,4,5,2,0,Premier League Round 21 2018/2019,3,85,81,82,82,76,74,77,76,1,2019,1,1,21
+932,932,Cardiff,Tottenham,0,3,2019-01-01 19:30:00,Kevin Friend,7,12,4,5,Premier League Round 21 2018/2019,-3,73,73,74,73,89,82,83,83,-1,2019,1,1,21
+933,933,Chelsea,Southampton,0,0,2019-01-02 21:45:00,Jonathan Moss,12,6,5,4,Premier League Round 21 2018/2019,0,84,82,85,83,76,77,77,77,0,2019,1,2,21
+934,934,Huddersfield,Burnley,1,2,2019-01-02 21:45:00,Mike Dean,0,6,4,4,Premier League Round 21 2018/2019,-1,75,75,75,75,77,78,77,78,-1,2019,1,2,21
+935,935,West Ham,Brighton,2,2,2019-01-02 21:45:00,Chris Kavanagh,9,4,8,2,Premier League Round 21 2018/2019,0,79,76,78,79,76,75,76,76,0,2019,1,2,21
+936,936,Wolves,Crystal Palace,0,2,2019-01-02 21:45:00,Roger East,10,7,4,6,Premier League Round 21 2018/2019,-2,75,75,80,76,79,75,76,77,-1,2019,1,2,21
+937,937,Bournemouth,Watford,3,3,2019-01-02 22:00:00,David Coote,3,8,5,4,Premier League Round 21 2018/2019,0,77,76,75,76,77,76,78,77,0,2019,1,2,21
+938,938,Newcastle,Man United,0,2,2019-01-02 22:00:00,Andre Marriner,5,9,4,4,Premier League Round 21 2018/2019,-2,76,76,76,76,84,81,84,83,-1,2019,1,2,21
+939,939,Man City,Liverpool,2,1,2019-01-03 22:00:00,Anthony Taylor,9,15,4,4,Premier League Round 21 2018/2019,1,85,83,87,85,85,81,82,83,1,2019,1,3,21
+940,940,Brighton,Everton,1,0,2018-12-29 17:00:00,Andrew Madley,4,5,6,4,Premier League Round 20 2018/2019,1,76,75,76,76,80,78,79,79,1,2018,12,29,20
+941,941,Fulham,Huddersfield,1,0,2018-12-29 17:00:00,Kevin Friend,3,0,1,3,Premier League Round 20 2018/2019,1,76,74,77,76,75,75,75,75,1,2018,12,29,20
+942,942,Leicester,Cardiff,0,1,2018-12-29 17:00:00,Simon Hooper,6,4,1,2,Premier League Round 20 2018/2019,-1,79,77,77,78,73,73,74,73,-1,2018,12,29,20
+943,943,Tottenham,Wolves,1,3,2018-12-29 17:00:00,Stuart Attwell,13,10,6,4,Premier League Round 20 2018/2019,-2,89,82,83,83,75,75,80,76,-1,2018,12,29,20
+944,944,Watford,Newcastle,1,1,2018-12-29 17:00:00,Roger East,7,5,4,1,Premier League Round 20 2018/2019,0,77,76,78,77,76,76,76,76,0,2018,12,29,20
+945,945,Liverpool,Arsenal,5,1,2018-12-29 19:30:00,Michael Oliver,15,7,1,5,Premier League Round 20 2018/2019,4,85,81,82,83,85,81,82,82,1,2018,12,29,20
+946,946,Crystal Palace,Chelsea,0,1,2018-12-30 14:00:00,Craig Pawson,7,10,0,3,Premier League Round 20 2018/2019,-1,79,75,76,77,84,82,85,83,-1,2018,12,30,20
+947,947,Burnley,West Ham,2,0,2018-12-30 16:15:00,David Coote,3,12,6,4,Premier League Round 20 2018/2019,2,77,78,77,78,79,76,78,79,1,2018,12,30,20
+948,948,Southampton,Man City,1,3,2018-12-30 16:15:00,Paul Tierney,6,9,4,4,Premier League Round 20 2018/2019,-2,76,77,77,77,85,83,87,85,-1,2018,12,30,20
+949,949,Man United,Bournemouth,4,1,2018-12-30 18:30:00,Lee Mason,9,3,4,4,Premier League Round 20 2018/2019,3,84,81,84,83,77,76,75,76,1,2018,12,30,20
+950,950,Fulham,Wolves,1,1,2018-12-26 14:30:00,Andre Marriner,2,9,4,4,Premier League Round 19 2018/2019,0,76,74,77,76,75,75,80,76,0,2018,12,26,19
+951,951,Burnley,Everton,1,5,2018-12-26 17:00:00,Michael Oliver,3,2,4,4,Premier League Round 19 2018/2019,-4,77,78,77,78,80,78,79,79,-1,2018,12,26,19
+952,952,Crystal Palace,Cardiff,0,0,2018-12-26 17:00:00,Lee Probert,9,6,0,2,Premier League Round 19 2018/2019,0,79,75,76,77,73,73,74,73,0,2018,12,26,19
+953,953,Leicester,Man City,2,1,2018-12-26 17:00:00,Mike Dean,4,9,4,5,Premier League Round 19 2018/2019,1,79,77,77,78,85,83,87,85,1,2018,12,26,19
+954,954,Liverpool,Newcastle,4,0,2018-12-26 17:00:00,Graham Scott,15,5,4,5,Premier League Round 19 2018/2019,4,85,81,82,83,76,76,76,76,1,2018,12,26,19
+955,955,Man United,Huddersfield,3,1,2018-12-26 17:00:00,Jonathan Moss,7,0,4,4,Premier League Round 19 2018/2019,2,84,81,84,83,75,75,75,75,1,2018,12,26,19
+956,956,Tottenham,Bournemouth,5,0,2018-12-26 17:00:00,Chris Kavanagh,13,6,4,4,Premier League Round 19 2018/2019,5,89,82,83,83,77,76,75,76,1,2018,12,26,19
+957,957,Brighton,Arsenal,1,1,2018-12-26 19:15:00,Anthony Taylor,6,9,1,4,Premier League Round 19 2018/2019,0,76,75,76,76,85,81,82,82,0,2018,12,26,19
+958,958,Watford,Chelsea,1,2,2018-12-26 21:30:00,Martin Atkinson,7,10,3,2,Premier League Round 19 2018/2019,-1,77,76,78,77,84,82,85,83,-1,2018,12,26,19
+959,959,Southampton,West Ham,1,2,2018-12-27 21:45:00,Craig Pawson,7,12,4,3,Premier League Round 19 2018/2019,-1,76,77,77,77,79,76,78,79,-1,2018,12,27,19
+960,960,Wolves,Liverpool,0,2,2018-12-21 22:00:00,Craig Pawson,9,15,4,4,Premier League Round 18 2018/2019,-2,75,75,80,76,85,81,82,83,-1,2018,12,21,18
+961,961,Arsenal,Burnley,3,1,2018-12-22 14:30:00,Kevin Friend,7,3,4,4,Premier League Round 18 2018/2019,2,85,81,82,82,77,78,77,78,1,2018,12,22,18
+962,962,Bournemouth,Brighton,2,0,2018-12-22 17:00:00,Mike Dean,3,7,4,4,Premier League Round 18 2018/2019,2,77,76,75,76,76,75,76,76,1,2018,12,22,18
+963,963,Chelsea,Leicester,0,1,2018-12-22 17:00:00,Lee Probert,10,4,2,1,Premier League Round 18 2018/2019,-1,84,82,85,83,79,77,77,78,-1,2018,12,22,18
+964,964,Huddersfield,Southampton,1,3,2018-12-22 17:00:00,Stuart Attwell,3,4,4,4,Premier League Round 18 2018/2019,-2,75,75,75,75,76,77,77,77,-1,2018,12,22,18
+965,965,Man City,Crystal Palace,2,3,2018-12-22 17:00:00,Andre Marriner,12,7,4,5,Premier League Round 18 2018/2019,-1,85,83,87,85,79,75,76,77,-1,2018,12,22,18
+966,966,Newcastle,Fulham,0,0,2018-12-22 17:00:00,Martin Atkinson,7,4,1,1,Premier League Round 18 2018/2019,0,76,76,76,76,76,74,77,76,0,2018,12,22,18
+967,967,West Ham,Watford,0,2,2018-12-22 17:00:00,Lee Mason,12,4,6,3,Premier League Round 18 2018/2019,-2,79,76,78,79,77,76,78,77,-1,2018,12,22,18
+968,968,Cardiff,Man United,1,5,2018-12-22 19:30:00,Michael Oliver,6,5,4,4,Premier League Round 18 2018/2019,-4,73,73,74,73,84,81,84,83,-1,2018,12,22,18
+969,969,Everton,Tottenham,2,6,2018-12-23 18:00:00,Paul Tierney,5,13,4,4,Premier League Round 18 2018/2019,-4,80,78,79,79,89,82,83,83,-1,2018,12,23,18
+970,970,Man City,Everton,3,1,2018-12-15 14:30:00,Craig Pawson,10,6,5,4,Premier League Round 17 2018/2019,2,85,83,87,85,80,78,79,79,1,2018,12,15,17
+971,971,Crystal Palace,Leicester,1,0,2018-12-15 17:00:00,Michael Oliver,4,8,0,1,Premier League Round 17 2018/2019,1,79,75,76,77,79,77,77,78,1,2018,12,15,17
+972,972,Huddersfield,Newcastle,0,1,2018-12-15 17:00:00,Anthony Taylor,4,7,4,1,Premier League Round 17 2018/2019,-1,75,75,75,75,76,76,76,76,-1,2018,12,15,17
+973,973,Tottenham,Burnley,1,0,2018-12-15 17:00:00,Graham Scott,10,4,4,4,Premier League Round 17 2018/2019,1,89,82,83,83,77,78,77,78,1,2018,12,15,17
+974,974,Watford,Cardiff,3,2,2018-12-15 17:00:00,Andrew Madley,2,9,4,1,Premier League Round 17 2018/2019,1,77,76,78,77,73,73,74,73,1,2018,12,15,17
+975,975,Wolves,Bournemouth,2,0,2018-12-15 17:00:00,Simon Hooper,7,3,4,4,Premier League Round 17 2018/2019,2,75,75,80,76,77,76,75,76,1,2018,12,15,17
+976,976,Fulham,West Ham,0,2,2018-12-15 19:30:00,Mike Dean,4,10,0,5,Premier League Round 17 2018/2019,-2,76,74,77,76,79,76,78,79,-1,2018,12,15,17
+977,977,Brighton,Chelsea,1,2,2018-12-16 15:30:00,Stuart Attwell,7,10,2,2,Premier League Round 17 2018/2019,-1,76,75,76,76,84,82,85,83,-1,2018,12,16,17
+978,978,Southampton,Arsenal,3,2,2018-12-16 15:30:00,Chris Kavanagh,1,13,4,4,Premier League Round 17 2018/2019,1,76,77,77,77,85,81,82,82,1,2018,12,16,17
+979,979,Liverpool,Man United,3,1,2018-12-16 18:00:00,Martin Atkinson,12,8,1,2,Premier League Round 17 2018/2019,2,85,81,82,83,84,81,84,83,1,2018,12,16,17
+980,980,Bournemouth,Liverpool,0,4,2018-12-08 14:30:00,Lee Mason,3,12,4,4,Premier League Round 16 2018/2019,-4,77,76,75,76,85,81,82,83,-1,2018,12,8,16
+981,981,Arsenal,Huddersfield,1,0,2018-12-08 17:00:00,Paul Tierney,11,7,3,3,Premier League Round 16 2018/2019,1,85,81,82,82,75,75,75,75,1,2018,12,8,16
+982,982,Burnley,Brighton,1,0,2018-12-08 17:00:00,Martin Atkinson,1,7,5,4,Premier League Round 16 2018/2019,1,77,78,77,78,76,75,76,76,1,2018,12,8,16
+983,983,Cardiff,Southampton,1,0,2018-12-08 17:00:00,Jonathan Moss,6,2,4,4,Premier League Round 16 2018/2019,1,73,73,74,73,76,77,77,77,1,2018,12,8,16
+984,984,Man United,Fulham,4,1,2018-12-08 17:00:00,Lee Probert,6,4,4,4,Premier League Round 16 2018/2019,3,84,81,84,83,76,74,77,76,1,2018,12,8,16
+985,985,West Ham,Crystal Palace,3,2,2018-12-08 17:00:00,Anthony Taylor,10,4,6,0,Premier League Round 16 2018/2019,1,79,76,78,79,79,75,76,77,1,2018,12,8,16
+986,986,Chelsea,Man City,2,0,2018-12-08 19:30:00,Michael Oliver,7,13,4,4,Premier League Round 16 2018/2019,2,84,82,85,83,85,83,87,85,1,2018,12,8,16
+987,987,Leicester,Tottenham,0,2,2018-12-08 21:45:00,Craig Pawson,9,12,4,4,Premier League Round 16 2018/2019,-2,79,77,77,78,89,82,83,83,-1,2018,12,8,16
+988,988,Newcastle,Wolves,1,2,2018-12-09 18:00:00,Mike Dean,10,4,4,4,Premier League Round 16 2018/2019,-1,76,76,76,76,75,75,80,76,-1,2018,12,9,16
+989,989,Everton,Watford,2,2,2018-12-10 22:00:00,Kevin Friend,8,1,4,4,Premier League Round 16 2018/2019,0,80,78,79,79,77,76,78,77,0,2018,12,10,16
+990,990,Bournemouth,Huddersfield,2,1,2018-12-04 21:45:00,Roger East,3,7,4,4,Premier League Round 15 2018/2019,1,77,76,75,76,75,75,75,75,1,2018,12,4,15
+991,991,Brighton,Crystal Palace,3,1,2018-12-04 21:45:00,Kevin Friend,7,4,4,5,Premier League Round 15 2018/2019,2,76,75,76,76,79,75,76,77,1,2018,12,4,15
+992,992,West Ham,Cardiff,3,1,2018-12-04 21:45:00,Graham Scott,7,6,6,1,Premier League Round 15 2018/2019,2,79,76,78,79,73,73,74,73,1,2018,12,4,15
+993,993,Watford,Man City,1,2,2018-12-04 22:00:00,Paul Tierney,4,13,4,4,Premier League Round 15 2018/2019,-1,77,76,78,77,85,83,87,85,-1,2018,12,4,15
+994,994,Burnley,Liverpool,1,3,2018-12-05 21:45:00,Stuart Attwell,1,9,4,4,Premier League Round 15 2018/2019,-2,77,78,77,78,85,81,82,83,-1,2018,12,5,15
+995,995,Everton,Newcastle,1,1,2018-12-05 21:45:00,Lee Mason,10,10,4,5,Premier League Round 15 2018/2019,0,80,78,79,79,76,76,76,76,0,2018,12,5,15
+996,996,Fulham,Leicester,1,1,2018-12-05 21:45:00,David Coote,3,11,0,1,Premier League Round 15 2018/2019,0,76,74,77,76,79,77,77,78,0,2018,12,5,15
+997,997,Wolves,Chelsea,2,1,2018-12-05 21:45:00,Jonathan Moss,1,10,4,4,Premier League Round 15 2018/2019,1,75,75,80,76,84,82,85,83,1,2018,12,5,15
+998,998,Man United,Arsenal,2,2,2018-12-05 22:00:00,Andre Marriner,8,11,0,2,Premier League Round 15 2018/2019,0,84,81,84,83,85,81,82,82,0,2018,12,5,15
+999,999,Tottenham,Southampton,3,1,2018-12-05 22:00:00,Anthony Taylor,12,2,4,4,Premier League Round 15 2018/2019,2,89,82,83,83,76,77,77,77,1,2018,12,5,15
+1000,1000,Cardiff,Wolves,2,1,2018-11-30 22:00:00,Andre Marriner,6,1,5,4,Premier League Round 14 2018/2019,1,73,73,74,73,75,75,80,76,1,2018,11,30,14
+1001,1001,Crystal Palace,Burnley,2,0,2018-12-01 17:00:00,Lee Probert,2,1,4,4,Premier League Round 14 2018/2019,2,79,75,76,77,77,78,77,78,1,2018,12,1,14
+1002,1002,Huddersfield,Brighton,1,2,2018-12-01 17:00:00,Michael Oliver,7,7,4,4,Premier League Round 14 2018/2019,-1,75,75,75,75,76,75,76,76,-1,2018,12,1,14
+1003,1003,Leicester,Watford,2,0,2018-12-01 17:00:00,Graham Scott,9,7,1,2,Premier League Round 14 2018/2019,2,79,77,77,78,77,76,78,77,1,2018,12,1,14
+1004,1004,Man City,Bournemouth,3,1,2018-12-01 17:00:00,Stuart Attwell,13,6,4,4,Premier League Round 14 2018/2019,2,85,83,87,85,77,76,75,76,1,2018,12,1,14
+1005,1005,Newcastle,West Ham,0,3,2018-12-01 17:00:00,Paul Tierney,10,5,1,5,Premier League Round 14 2018/2019,-3,76,76,76,76,79,76,78,79,-1,2018,12,1,14
+1006,1006,Southampton,Man United,2,2,2018-12-01 19:30:00,Kevin Friend,2,10,5,4,Premier League Round 14 2018/2019,0,76,77,77,77,84,81,84,83,0,2018,12,1,14
+1007,1007,Chelsea,Fulham,2,0,2018-12-02 14:00:00,Craig Pawson,10,3,2,0,Premier League Round 14 2018/2019,2,84,82,85,83,76,74,77,76,1,2018,12,2,14
+1008,1008,Arsenal,Tottenham,4,2,2018-12-02 16:05:00,Mike Dean,9,15,4,4,Premier League Round 14 2018/2019,2,85,81,82,82,89,82,83,83,1,2018,12,2,14
+1009,1009,Liverpool,Everton,1,0,2018-12-02 18:15:00,Chris Kavanagh,7,10,4,4,Premier League Round 14 2018/2019,1,85,81,82,83,80,78,79,79,1,2018,12,2,14
+1010,1010,Brighton,Leicester,1,1,2018-11-24 17:00:00,Chris Kavanagh,9,5,0,1,Premier League Round 13 2018/2019,0,76,75,76,76,79,77,77,78,0,2018,11,24,13
+1011,1011,Everton,Cardiff,1,0,2018-11-24 17:00:00,Paul Tierney,10,6,4,4,Premier League Round 13 2018/2019,1,80,78,79,79,73,73,74,73,1,2018,11,24,13
+1012,1012,Fulham,Southampton,3,2,2018-11-24 17:00:00,Michael Oliver,0,3,4,5,Premier League Round 13 2018/2019,1,76,74,77,76,76,77,77,77,1,2018,11,24,13
+1013,1013,Man United,Crystal Palace,0,0,2018-11-24 17:00:00,Lee Mason,9,1,4,5,Premier League Round 13 2018/2019,0,84,81,84,83,79,75,76,77,0,2018,11,24,13
+1014,1014,Watford,Liverpool,0,3,2018-11-24 17:00:00,Jon Moss,7,10,2,1,Premier League Round 13 2018/2019,-3,77,76,78,77,85,81,82,83,-1,2018,11,24,13
+1015,1015,West Ham,Man City,0,4,2018-11-24 15:00:00,Andre Marriner,5,15,0,0,Premier League Round 13,-4,79,76,78,79,85,83,87,85,-1,2018,11,24,13
+1016,1016,Tottenham,Chelsea,3,1,2018-11-24 19:30:00,Martin Atkinson,12,13,5,4,Premier League Round 13 2018/2019,2,89,82,83,83,84,82,85,83,1,2018,11,24,13
+1017,1017,Bournemouth,Arsenal,1,2,2018-11-25 15:30:00,Craig Pawson,7,7,4,4,Premier League Round 13 2018/2019,-1,77,76,75,76,85,81,82,82,-1,2018,11,25,13
+1018,1018,Wolves,Huddersfield,0,2,2018-11-25 18:00:00,Kevin Friend,4,5,4,4,Premier League Round 13 2018/2019,-2,75,75,80,76,75,75,75,75,-1,2018,11,25,13
+1019,1019,Burnley,Newcastle,1,2,2018-11-26 22:30:00,Anthony Taylor,2,7,5,5,Premier League Round 13 2018/2019,-1,77,78,77,78,76,76,76,76,-1,2018,11,26,13
+1020,1020,Cardiff,Brighton,2,1,2018-11-10 14:30:00,Martin Atkinson,3,9,1,0,Premier League Round 12 2018/2019,1,73,73,74,73,76,75,76,76,1,2018,11,10,12
+1021,1021,Huddersfield,West Ham,1,1,2018-11-10 17:00:00,Chris Kavanagh,4,4,0,4,Premier League Round 12 2018/2019,0,75,75,75,75,79,76,78,79,0,2018,11,10,12
+1022,1022,Leicester,Burnley,0,0,2018-11-10 17:00:00,Mike Dean,7,4,4,4,Premier League Round 12 2018/2019,0,79,77,77,78,77,78,77,78,0,2018,11,10,12
+1023,1023,Newcastle,Bournemouth,2,1,2018-11-10 17:00:00,Lee Probert,4,10,4,4,Premier League Round 12 2018/2019,1,76,76,76,76,77,76,75,76,1,2018,11,10,12
+1024,1024,Southampton,Watford,1,1,2018-11-10 17:00:00,Simon Hooper,5,6,4,5,Premier League Round 12 2018/2019,0,76,77,77,77,77,76,78,77,0,2018,11,10,12
+1025,1025,Crystal Palace,Tottenham,0,1,2018-11-10 19:30:00,Jonathan Moss,1,10,4,4,Premier League Round 12 2018/2019,-1,79,75,76,77,89,82,83,83,-1,2018,11,10,12
+1026,1026,Liverpool,Fulham,2,0,2018-11-11 14:00:00,Paul Tierney,10,0,4,4,Premier League Round 12 2018/2019,2,85,81,82,83,76,74,77,76,1,2018,11,11,12
+1027,1027,Chelsea,Everton,0,0,2018-11-11 16:15:00,Kevin Friend,15,12,4,4,Premier League Round 12 2018/2019,0,84,82,85,83,80,78,79,79,0,2018,11,11,12
+1028,1028,Arsenal,Wolves,1,1,2018-11-11 18:30:00,Stuart Attwell,9,6,4,4,Premier League Round 12 2018/2019,0,85,81,82,82,75,75,80,76,0,2018,11,11,12
+1029,1029,Man City,Man United,3,1,2018-11-11 18:30:00,Anthony Taylor,15,10,4,4,Premier League Round 12 2018/2019,2,85,83,87,85,84,81,84,83,1,2018,11,11,12
+1030,1030,Bournemouth,Man United,1,2,2018-11-03 14:30:00,Paul Tierney,13,8,4,4,Premier League Round 11 2018/2019,-1,77,76,75,76,84,81,84,83,-1,2018,11,3,11
+1031,1031,Cardiff,Leicester,0,1,2018-11-03 17:00:00,Lee Probert,3,7,1,1,Premier League Round 11 2018/2019,-1,73,73,74,73,79,77,77,78,-1,2018,11,3,11
+1032,1032,Everton,Brighton,3,1,2018-11-03 17:00:00,David Coote,9,9,4,4,Premier League Round 11 2018/2019,2,80,78,79,79,76,75,76,76,1,2018,11,3,11
+1033,1033,Newcastle,Watford,1,0,2018-11-03 17:00:00,Craig Pawson,2,6,0,2,Premier League Round 11 2018/2019,1,76,76,76,76,77,76,78,77,1,2018,11,3,11
+1034,1034,West Ham,Burnley,4,2,2018-11-03 17:00:00,Roger East,4,4,4,4,Premier League Round 11 2018/2019,2,79,76,78,79,77,78,77,78,1,2018,11,3,11
+1035,1035,Arsenal,Liverpool,1,1,2018-11-03 19:30:00,Andre Marriner,13,10,1,1,Premier League Round 11 2018/2019,0,85,81,82,82,85,81,82,83,0,2018,11,3,11
+1036,1036,Wolves,Tottenham,2,3,2018-11-03 21:45:00,Mike Dean,6,10,4,4,Premier League Round 11 2018/2019,-1,75,75,80,76,89,82,83,83,-1,2018,11,3,11
+1037,1037,Man City,Southampton,6,1,2018-11-04 17:00:00,Lee Mason,13,5,4,4,Premier League Round 11 2018/2019,5,85,83,87,85,76,77,77,77,1,2018,11,4,11
+1038,1038,Chelsea,Crystal Palace,3,1,2018-11-04 18:00:00,Michael Oliver,13,1,2,0,Premier League Round 11 2018/2019,2,84,82,85,83,79,75,76,77,1,2018,11,4,11
+1039,1039,Huddersfield,Fulham,1,0,2018-11-05 22:00:00,Anthony Taylor,1,0,4,4,Premier League Round 11 2018/2019,1,75,75,75,75,76,74,77,76,1,2018,11,5,11
+1040,1040,Brighton,Wolves,1,0,2018-10-27 17:00:00,Anthony Taylor,7,7,5,4,Premier League Round 10 2018/2019,1,76,75,76,76,75,75,80,76,1,2018,10,27,10
+1041,1041,Fulham,Bournemouth,0,3,2018-10-27 17:00:00,Andre Marriner,4,10,5,4,Premier League Round 10 2018/2019,-3,76,74,77,76,77,76,75,76,-1,2018,10,27,10
+1042,1042,Liverpool,Cardiff,4,1,2018-10-27 17:00:00,Stuart Attwell,8,3,1,0,Premier League Round 10 2018/2019,3,85,81,82,83,73,73,74,73,1,2018,10,27,10
+1043,1043,Southampton,Newcastle,0,0,2018-10-27 17:00:00,Chris Kavanagh,4,1,4,4,Premier League Round 10 2018/2019,0,76,77,77,77,76,76,76,76,0,2018,10,27,10
+1044,1044,Watford,Huddersfield,3,0,2018-10-27 17:00:00,Mike Dean,4,1,2,0,Premier League Round 10 2018/2019,3,77,76,78,77,75,75,75,75,1,2018,10,27,10
+1045,1045,Leicester,West Ham,1,1,2018-10-27 19:30:00,Michael Oliver,9,7,4,4,Premier League Round 10 2018/2019,0,79,77,77,78,79,76,78,79,0,2018,10,27,10
+1046,1046,Burnley,Chelsea,0,4,2018-10-28 15:30:00,Craig Pawson,7,11,4,4,Premier League Round 10 2018/2019,-4,77,78,77,78,84,82,85,83,-1,2018,10,28,10
+1047,1047,Crystal Palace,Arsenal,2,2,2018-10-28 15:30:00,Martin Atkinson,4,15,0,1,Premier League Round 10 2018/2019,0,79,75,76,77,85,81,82,82,0,2018,10,28,10
+1048,1048,Man United,Everton,2,1,2018-10-28 18:00:00,Jonathan Moss,5,9,4,4,Premier League Round 10 2018/2019,1,84,81,84,83,80,78,79,79,1,2018,10,28,10
+1049,1049,Tottenham,Man City,0,1,2018-10-29 22:00:00,Kevin Friend,10,13,4,4,Premier League Round 10 2018/2019,-1,89,82,83,83,85,83,87,85,-1,2018,10,29,10
+1050,1050,Chelsea,Man United,2,2,2018-10-20 14:30:00,Mike Dean,11,8,2,0,Premier League Round 9 2018/2019,0,84,82,85,83,84,81,84,83,0,2018,10,20,9
+1051,1051,Bournemouth,Southampton,0,0,2018-10-20 17:00:00,Lee Probert,12,4,4,4,Premier League Round 9 2018/2019,0,77,76,75,76,76,77,77,77,0,2018,10,20,9
+1052,1052,Cardiff,Fulham,4,2,2018-10-20 17:00:00,Kevin Friend,0,4,4,4,Premier League Round 9 2018/2019,2,73,73,74,73,76,74,77,76,1,2018,10,20,9
+1053,1053,Man City,Burnley,5,0,2018-10-20 17:00:00,Jonathan Moss,13,7,4,4,Premier League Round 9 2018/2019,5,85,83,87,85,77,78,77,78,1,2018,10,20,9
+1054,1054,Newcastle,Brighton,0,1,2018-10-20 17:00:00,Andre Marriner,1,5,6,4,Premier League Round 9 2018/2019,-1,76,76,76,76,76,75,76,76,-1,2018,10,20,9
+1055,1055,West Ham,Tottenham,0,1,2018-10-20 17:00:00,Martin Atkinson,10,12,4,4,Premier League Round 9 2018/2019,-1,79,76,78,79,89,82,83,83,-1,2018,10,20,9
+1056,1056,Wolves,Watford,0,2,2018-10-20 17:00:00,Lee Mason,10,1,4,4,Premier League Round 9 2018/2019,-2,75,75,80,76,77,76,78,77,-1,2018,10,20,9
+1057,1057,Huddersfield,Liverpool,0,1,2018-10-20 19:30:00,Michael Oliver,2,5,0,1,Premier League Round 9 2018/2019,-1,75,75,75,75,85,81,82,83,-1,2018,10,20,9
+1058,1058,Everton,Crystal Palace,2,0,2018-10-21 18:00:00,Anthony Taylor,6,7,4,6,Premier League Round 9 2018/2019,2,80,78,79,79,79,75,76,77,1,2018,10,21,9
+1059,1059,Arsenal,Leicester,3,1,2018-10-22 22:00:00,Chris Kavanagh,15,9,1,0,Premier League Round 9 2018/2019,2,85,81,82,82,79,77,77,78,1,2018,10,22,9
+1060,1060,Brighton,West Ham,1,0,2018-10-05 22:00:00,Kevin Friend,2,10,0,3,Premier League Round 8 2018/2019,1,76,75,76,76,79,76,78,79,1,2018,10,5,8
+1061,1061,Burnley,Huddersfield,1,1,2018-10-06 17:00:00,Chris Kavanagh,6,1,4,4,Premier League Round 8 2018/2019,0,77,78,77,78,75,75,75,75,0,2018,10,6,8
+1062,1062,Crystal Palace,Wolves,0,1,2018-10-06 17:00:00,Michael Oliver,7,10,4,4,Premier League Round 8 2018/2019,-1,79,75,76,77,75,75,80,76,-1,2018,10,6,8
+1063,1063,Leicester,Everton,1,2,2018-10-06 17:00:00,Andre Marriner,9,4,4,4,Premier League Round 8 2018/2019,-1,79,77,77,78,80,78,79,79,-1,2018,10,6,8
+1064,1064,Tottenham,Cardiff,1,0,2018-10-06 17:00:00,Mike Dean,9,0,4,4,Premier League Round 8 2018/2019,1,89,82,83,83,73,73,74,73,1,2018,10,6,8
+1065,1065,Watford,Bournemouth,0,4,2018-10-06 17:00:00,Jonathan Moss,4,9,4,4,Premier League Round 8 2018/2019,-4,77,76,78,77,77,76,75,76,-1,2018,10,6,8
+1066,1066,Man United,Newcastle,3,2,2018-10-06 19:30:00,Anthony Taylor,8,1,4,4,Premier League Round 8 2018/2019,1,84,81,84,83,76,76,76,76,1,2018,10,6,8
+1067,1067,Fulham,Arsenal,1,5,2018-10-07 14:00:00,Paul Tierney,7,15,4,4,Premier League Round 8 2018/2019,-4,76,74,77,76,85,81,82,82,-1,2018,10,7,8
+1068,1068,Southampton,Chelsea,0,3,2018-10-07 16:15:00,Craig Pawson,7,11,5,4,Premier League Round 8 2018/2019,-3,76,77,77,77,84,82,85,83,-1,2018,10,7,8
+1069,1069,Liverpool,Man City,0,0,2018-10-07 18:30:00,Martin Atkinson,7,12,5,5,Premier League Round 8 2018/2019,0,85,81,82,83,85,83,87,85,0,2018,10,7,8
+1070,1070,West Ham,Man United,3,1,2018-09-29 14:30:00,Michael Oliver,10,13,4,4,Premier League Round 7 2018/2019,2,79,76,78,79,84,81,84,83,1,2018,9,29,7
+1071,1071,Arsenal,Watford,2,0,2018-09-29 17:00:00,Anthony Taylor,15,7,1,1,Premier League Round 7 2018/2019,2,85,81,82,82,77,76,78,77,1,2018,9,29,7
+1072,1072,Everton,Fulham,3,0,2018-09-29 17:00:00,Roger East,5,8,4,4,Premier League Round 7 2018/2019,3,80,78,79,79,76,74,77,76,1,2018,9,29,7
+1073,1073,Huddersfield,Tottenham,0,2,2018-09-29 17:00:00,Craig Pawson,2,6,4,4,Premier League Round 7 2018/2019,-2,75,75,75,75,89,82,83,83,-1,2018,9,29,7
+1074,1074,Man City,Brighton,2,0,2018-09-29 17:00:00,Lee Mason,12,2,4,4,Premier League Round 7 2018/2019,2,85,83,87,85,76,75,76,76,1,2018,9,29,7
+1075,1075,Newcastle,Leicester,0,2,2018-09-29 17:00:00,Simon Hooper,1,9,4,5,Premier League Round 7 2018/2019,-2,76,76,76,76,79,77,77,78,-1,2018,9,29,7
+1076,1076,Wolves,Southampton,2,0,2018-09-29 17:00:00,Stuart Attwell,10,7,4,5,Premier League Round 7 2018/2019,2,75,75,80,76,76,77,77,77,1,2018,9,29,7
+1077,1077,Chelsea,Liverpool,1,1,2018-09-29 19:30:00,Andre Marriner,13,12,2,1,Premier League Round 7 2018/2019,0,84,82,85,83,85,81,82,83,0,2018,9,29,7
+1078,1078,Cardiff,Burnley,1,2,2018-09-30 18:00:00,Martin Atkinson,1,4,5,5,Premier League Round 7 2018/2019,-1,73,73,74,73,77,78,77,78,-1,2018,9,30,7
+1079,1079,Bournemouth,Crystal Palace,2,1,2018-10-01 22:00:00,Mike Dean,9,10,5,4,Premier League Round 7 2018/2019,1,77,76,75,76,79,75,76,77,1,2018,10,1,7
+1080,1080,Fulham,Watford,1,1,2018-09-22 14:30:00,Martin Atkinson,10,12,4,4,Premier League Round 6 2018/2019,0,76,74,77,76,77,76,78,77,0,2018,9,22,6
+1081,1081,Burnley,Bournemouth,4,0,2018-09-22 17:00:00,Anthony Taylor,1,10,5,4,Premier League Round 6 2018/2019,4,77,78,77,78,77,76,75,76,1,2018,9,22,6
+1082,1082,Cardiff,Man City,0,5,2018-09-22 17:00:00,Michael Oliver,2,10,4,4,Premier League Round 6 2018/2019,-5,73,73,74,73,85,83,87,85,-1,2018,9,22,6
+1083,1083,Crystal Palace,Newcastle,0,0,2018-09-22 17:00:00,Andre Marriner,6,1,5,4,Premier League Round 6 2018/2019,0,79,75,76,77,76,76,76,76,0,2018,9,22,6
+1084,1084,Leicester,Huddersfield,3,1,2018-09-22 17:00:00,David Coote,9,2,4,5,Premier League Round 6 2018/2019,2,79,77,77,78,75,75,75,75,1,2018,9,22,6
+1085,1085,Liverpool,Southampton,3,0,2018-09-22 17:00:00,Paul Tierney,15,7,4,4,Premier League Round 6 2018/2019,3,85,81,82,83,76,77,77,77,1,2018,9,22,6
+1086,1086,Man United,Wolves,1,1,2018-09-22 17:00:00,Kevin Friend,9,10,4,4,Premier League Round 6 2018/2019,0,84,81,84,83,75,75,80,76,0,2018,9,22,6
+1087,1087,Brighton,Tottenham,1,2,2018-09-22 19:30:00,Chris Kavanagh,5,6,4,5,Premier League Round 6 2018/2019,-1,76,75,76,76,89,82,83,83,-1,2018,9,22,6
+1088,1088,West Ham,Chelsea,0,0,2018-09-23 15:30:00,Mike Dean,6,15,2,2,Premier League Round 6 2018/2019,0,79,76,78,79,84,82,85,83,0,2018,9,23,6
+1089,1089,Arsenal,Everton,2,0,2018-09-23 18:00:00,Jonathan Moss,12,8,4,5,Premier League Round 6 2018/2019,2,85,81,82,82,80,78,79,79,1,2018,9,23,6
+1090,1090,Tottenham,Liverpool,1,2,2018-09-15 14:30:00,Michael Oliver,9,15,4,4,Premier League Round 5 2018/2019,-1,89,82,83,83,85,81,82,83,-1,2018,9,15,5
+1091,1091,Bournemouth,Leicester,4,2,2018-09-15 17:00:00,Craig Pawson,10,9,4,4,Premier League Round 5 2018/2019,2,77,76,75,76,79,77,77,78,1,2018,9,15,5
+1092,1092,Chelsea,Cardiff,4,1,2018-09-15 17:00:00,Jon Moss,15,2,2,0,Premier League Round 5 2018/2019,3,84,82,85,83,73,73,74,73,1,2018,9,15,5
+1093,1093,Huddersfield,Crystal Palace,0,1,2018-09-15 17:00:00,Graham Scott,2,6,4,6,Premier League Round 5 2018/2019,-1,75,75,75,75,79,75,76,77,-1,2018,9,15,5
+1094,1094,Man City,Fulham,3,0,2018-09-15 17:00:00,Stuart Attwell,13,10,4,5,Premier League Round 5 2018/2019,3,85,83,87,85,76,74,77,76,1,2018,9,15,5
+1095,1095,Newcastle,Arsenal,1,2,2018-09-15 17:00:00,Lee Probert,1,9,4,4,Premier League Round 5 2018/2019,-1,76,76,76,76,85,81,82,82,-1,2018,9,15,5
+1096,1096,Watford,Man United,1,2,2018-09-15 19:30:00,Mike Dean,15,6,1,0,Premier League Round 5 2018/2019,-1,77,76,78,77,84,81,84,83,-1,2018,9,15,5
+1097,1097,Wolves,Burnley,1,0,2018-09-16 15:30:00,Andre Marriner,8,1,4,4,Premier League Round 5 2018/2019,1,75,75,80,76,77,78,77,78,1,2018,9,16,5
+1098,1098,Everton,West Ham,1,3,2018-09-16 18:00:00,Martin Atkinson,9,3,4,4,Premier League Round 5 2018/2019,-2,80,78,79,79,79,76,78,79,-1,2018,9,16,5
+1099,1099,Southampton,Brighton,2,2,2018-09-17 22:00:00,Anthony Taylor,7,4,4,5,Premier League Round 5 2018/2019,0,76,77,77,77,76,75,76,76,0,2018,9,17,5
+1100,1100,Leicester,Liverpool,1,2,2018-09-01 14:30:00,Paul Tierney,12,15,4,4,Premier League Round 4 2018/2019,-1,79,77,77,78,85,81,82,83,-1,2018,9,1,4
+1101,1101,Brighton,Fulham,2,2,2018-09-01 17:00:00,Lee Probert,6,7,4,4,Premier League Round 4 2018/2019,0,76,75,76,76,76,74,77,76,0,2018,9,1,4
+1102,1102,Chelsea,Bournemouth,2,0,2018-09-01 17:00:00,Lee Mason,12,13,4,4,Premier League Round 4 2018/2019,2,84,82,85,83,77,76,75,76,1,2018,9,1,4
+1103,1103,Crystal Palace,Southampton,0,2,2018-09-01 17:00:00,Martin Atkinson,7,4,4,4,Premier League Round 4 2018/2019,-2,79,75,76,77,76,77,77,77,-1,2018,9,1,4
+1104,1104,Everton,Huddersfield,1,1,2018-09-01 17:00:00,Stuart Attwell,8,4,4,4,Premier League Round 4 2018/2019,0,80,78,79,79,75,75,75,75,0,2018,9,1,4
+1105,1105,West Ham,Wolves,0,1,2018-09-01 17:00:00,Chris Kavanagh,6,8,4,4,Premier League Round 4 2018/2019,-1,79,76,78,79,75,75,80,76,-1,2018,9,1,4
+1106,1106,Man City,Newcastle,2,1,2018-09-01 19:30:00,Kevin Friend,13,1,4,4,Premier League Round 4 2018/2019,1,85,83,87,85,76,76,76,76,1,2018,9,1,4
+1107,1107,Cardiff,Arsenal,2,3,2018-09-02 15:30:00,Anthony Taylor,2,9,5,4,Premier League Round 4 2018/2019,-1,73,73,74,73,85,81,82,82,-1,2018,9,2,4
+1108,1108,Burnley,Man United,0,2,2018-09-02 18:00:00,Jonathan Moss,4,6,4,4,Premier League Round 4 2018/2019,-2,77,78,77,78,84,81,84,83,-1,2018,9,2,4
+1109,1109,Watford,Tottenham,2,1,2018-09-02 18:00:00,Andre Marriner,13,12,4,4,Premier League Round 4 2018/2019,1,77,76,78,77,89,82,83,83,1,2018,9,2,4
+1110,1110,Wolves,Man City,1,1,2018-08-25 14:30:00,Martin Atkinson,5,12,5,4,Premier League Round 3 2018/2019,0,75,75,80,76,85,83,87,85,0,2018,8,25,3
+1111,1111,Bournemouth,Everton,2,2,2018-08-25 17:00:00,Lee Probert,9,4,4,4,Premier League Round 3 2018/2019,0,77,76,75,76,80,78,79,79,0,2018,8,25,3
+1112,1112,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Graham Scott,9,9,0,2,Premier League Round 3 2018/2019,2,85,81,82,82,79,76,78,79,1,2018,8,25,3
+1113,1113,Huddersfield,Cardiff,0,0,2018-08-25 17:00:00,Michael Oliver,9,7,4,4,Premier League Round 3 2018/2019,0,75,75,75,75,73,73,74,73,0,2018,8,25,3
+1114,1114,Southampton,Leicester,1,2,2018-08-25 17:00:00,Jonathan Moss,7,7,4,4,Premier League Round 3 2018/2019,-1,76,77,77,77,79,77,77,78,-1,2018,8,25,3
+1115,1115,Liverpool,Brighton,1,0,2018-08-25 19:30:00,Chris Kavanagh,15,8,1,0,Premier League Round 3 2018/2019,1,85,81,82,83,76,75,76,76,1,2018,8,25,3
+1116,1116,Watford,Crystal Palace,2,1,2018-08-26 15:30:00,Anthony Taylor,13,10,1,0,Premier League Round 3 2018/2019,1,77,76,78,77,79,75,76,77,1,2018,8,26,3
+1117,1117,Fulham,Burnley,4,2,2018-08-26 18:00:00,David Coote,1,5,4,4,Premier League Round 3 2018/2019,2,76,74,77,76,77,78,77,78,1,2018,8,26,3
+1118,1118,Newcastle,Chelsea,1,2,2018-08-26 18:00:00,Paul Tierney,2,9,0,1,Premier League Round 3 2018/2019,-1,76,76,76,76,84,82,85,83,-1,2018,8,26,3
+1119,1119,Man United,Tottenham,0,3,2018-08-27 22:00:00,Craig Pawson,6,9,4,4,Premier League Round 3 2018/2019,-3,84,81,84,83,89,82,83,83,-1,2018,8,27,3
+1120,1120,Cardiff,Newcastle,0,0,2018-08-18 14:30:00,Craig Pawson,6,2,4,4,Premier League Round 2 2018/2019,0,73,73,74,73,76,76,76,76,0,2018,8,18,2
+1121,1121,Everton,Southampton,2,1,2018-08-18 17:00:00,Lee Mason,1,7,4,4,Premier League Round 2 2018/2019,1,80,78,79,79,76,77,77,77,1,2018,8,18,2
+1122,1122,Leicester,Wolves,2,0,2018-08-18 17:00:00,Mike Dean,5,5,4,4,Premier League Round 2 2018/2019,2,79,77,77,78,75,75,80,76,1,2018,8,18,2
+1123,1123,Tottenham,Fulham,3,1,2018-08-18 17:00:00,Anthony Taylor,9,4,4,4,Premier League Round 2 2018/2019,2,89,82,83,83,76,74,77,76,1,2018,8,18,2
+1124,1124,West Ham,Bournemouth,1,2,2018-08-18 17:00:00,Stuart Attwell,12,7,4,5,Premier League Round 2 2018/2019,-1,79,76,78,79,77,76,75,76,-1,2018,8,18,2
+1125,1125,Chelsea,Arsenal,3,2,2018-08-18 19:30:00,Martin Atkinson,9,9,1,0,Premier League Round 2 2018/2019,1,84,82,85,83,85,81,82,82,1,2018,8,18,2
+1126,1126,Burnley,Watford,1,3,2018-08-19 15:30:00,Paul Tierney,8,13,4,4,Premier League Round 2 2018/2019,-2,77,78,77,78,77,76,78,77,-1,2018,8,19,2
+1127,1127,Man City,Huddersfield,6,1,2018-08-19 15:30:00,Andre Marriner,9,10,4,4,Premier League Round 2 2018/2019,5,85,83,87,85,75,75,75,75,1,2018,8,19,2
+1128,1128,Brighton,Man United,3,2,2018-08-19 18:00:00,Kevin Friend,5,6,4,4,Premier League Round 2 2018/2019,1,76,75,76,76,84,81,84,83,1,2018,8,19,2
+1129,1129,Crystal Palace,Liverpool,0,2,2018-08-20 22:00:00,Michael Oliver,13,15,0,1,Premier League Round 2 2018/2019,-2,79,75,76,77,85,81,82,83,-1,2018,8,20,2
+1130,1130,Man United,Leicester,2,1,2018-08-10 22:00:00,Andre Marriner,4,8,4,4,Premier League Round 1,1,84,81,84,83,79,77,77,78,1,2018,8,10,1
+1131,1131,Newcastle,Tottenham,1,2,2018-08-11 14:30:00,Martin Atkinson,5,9,4,4,Premier League Round 1 2018/2019,-1,76,76,76,76,89,82,83,83,-1,2018,8,11,1
+1132,1132,Bournemouth,Cardiff,2,0,2018-08-11 17:00:00,Kevin Friend,7,7,4,4,Premier League Round 1 2018/2019,2,77,76,75,76,73,73,74,73,1,2018,8,11,1
+1133,1133,Fulham,Crystal Palace,0,2,2018-08-11 17:00:00,Mike Dean,4,13,4,4,Premier League Round 1 2018/2019,-2,76,74,77,76,79,75,76,77,-1,2018,8,11,1
+1134,1134,Huddersfield,Chelsea,0,3,2018-08-11 17:00:00,Chris Kavanagh,10,9,0,1,Premier League Round 1 2018/2019,-3,75,75,75,75,84,82,85,83,-1,2018,8,11,1
+1135,1135,Watford,Brighton,2,0,2018-08-11 17:00:00,Jon Moss,11,6,1,0,Premier League Round 1 2018/2019,2,77,76,78,77,76,75,76,76,1,2018,8,11,1
+1136,1136,Wolves,Everton,2,2,2018-08-11 19:30:00,Craig Pawson,5,0,4,4,Premier League Round 1 2018/2019,0,75,75,80,76,80,78,79,79,0,2018,8,11,1
+1137,1137,Liverpool,West Ham,4,0,2018-08-12 15:30:00,Anthony Taylor,12,13,1,2,Premier League Round 1 2018/2019,4,85,81,82,83,79,76,78,79,1,2018,8,12,1
+1138,1138,Southampton,Burnley,0,0,2018-08-12 15:30:00,Graham Scott,9,6,4,4,Premier League Round 1 2018/2019,0,76,77,77,77,77,78,77,78,0,2018,8,12,1
+1139,1139,Arsenal,Man City,0,2,2018-08-12 18:00:00,Michael Oliver,12,9,4,4,Premier League Round 1 2018/2019,-2,85,81,82,82,85,83,87,85,-1,2018,8,12,1
